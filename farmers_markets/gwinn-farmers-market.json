@@ -1,0 +1,35 @@
+---
+FMID: 1001979
+MarketName: Gwinn Farmers Market
+Website:
+Street: "Veteran's Memorial Dr, Peter Nordeen Park"
+City: Gwinn
+County: Marquette
+State: Michigan
+Zip: 49841
+x: -87.4364
+y: 46.2784
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

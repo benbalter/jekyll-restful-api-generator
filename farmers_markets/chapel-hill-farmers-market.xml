@@ -1,0 +1,36 @@
+---
+FMID: 1000610
+MarketName: "Chapel Hill Farmers' Market"
+Website: >
+  http://www.thechapelhillfarmersmarket.com
+Street: 201 S. Estes Dr
+City: Chapel Hill
+County: Orange
+State: North Carolina
+Zip: 27514
+x: -79.0253
+y: 35.9277
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

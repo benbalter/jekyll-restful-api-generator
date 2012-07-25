@@ -1,0 +1,35 @@
+---
+FMID: 1003148
+MarketName: "Hub City Farmers' Market"
+Website: http://www.hubcityfm.org
+Street: Mobile Market
+City: Spartanburg
+County: Spartanburg
+State: South Carolina
+Zip: 29306
+x: -81.9477
+y: 34.9484
+Location: Mobile market (market "on wheels")
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

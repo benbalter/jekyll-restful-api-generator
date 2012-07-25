@@ -1,0 +1,35 @@
+---
+FMID: 1002523
+MarketName: Issaquah Farmers Market
+Website: http://www.issaquahfarmersmarket.org
+Street: 1730 10th Ave N.E.
+City: Issaquah
+County: King
+State: Washington
+Zip: 98027
+x: -122.049
+y: 47.5505
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

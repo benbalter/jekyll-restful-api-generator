@@ -1,0 +1,35 @@
+---
+FMID: 1001378
+MarketName: Deerfield Farmers Market
+Website: http://www.deerfield.il.us
+Street: 'Deerfield Rd. & Robert York Ave.'
+City: Deerfield
+County: Lake
+State: Illinois
+Zip: 60015
+x: -87.8489
+y: 42.1676
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

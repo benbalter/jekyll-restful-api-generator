@@ -1,0 +1,35 @@
+---
+FMID: 1006211
+MarketName: "Brewer Farmers' Market"
+Website: http://brewerfarmersmarket.org
+Street: 'Brewer Auditorium Parking Lot - Wilson Street'
+City: Brewer
+County: Penobscot
+State: Maine
+Zip: 04412
+x: -68.6494
+y: 45.4005
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

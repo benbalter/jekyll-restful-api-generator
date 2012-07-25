@@ -1,0 +1,35 @@
+---
+FMID: 1001356
+MarketName: Johnston Farmers Market
+Website:
+Street: Johnston Memorial Park
+City: Johnston
+County: Providence
+State: Rhode Island
+Zip: 02919
+x: -71.5068
+y: 41.8281
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

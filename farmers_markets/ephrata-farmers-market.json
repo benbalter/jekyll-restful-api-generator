@@ -1,0 +1,35 @@
+---
+FMID: 1001050
+MarketName: "EPHRATA FARMERS' MARKET"
+Website: http://www.ephratafarmersmarket.org
+Street: Basin/First/Division
+City: Ephrata
+County: Grant
+State: Washington
+Zip: 98823
+x: -119.551
+y: 47.3209
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

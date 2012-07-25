@@ -1,0 +1,35 @@
+---
+FMID: 1003606
+MarketName: Marana Farm Stand
+Website: http://www.communityfoodbank.com
+Street: 12375 N. Heritage Park Drive
+City: Marana
+County: Pima
+State: Arizona
+Zip: 85653
+x: -111.216
+y: 32.4297
+Location: 'On a farm from: a barn, a greenhouse, a tent, a stand, etc.'
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

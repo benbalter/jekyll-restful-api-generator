@@ -1,0 +1,36 @@
+---
+FMID: 1006508
+MarketName: "Huntingdon Farmers' Market"
+Website: >
+  http://www.localharvest.org/huntingdon-farmers-market-M21135
+Street: '7th & Penn Sts.'
+City: Huntingdon
+County: Huntingdon
+State: Pennsylvania
+Zip: 16652
+x: -78.0149
+y: 40.4859
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

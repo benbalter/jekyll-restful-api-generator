@@ -1,0 +1,35 @@
+---
+FMID: 1002825
+MarketName: Battlefield Farmers Market
+Website: http://www.battlefieldfmkt.org
+Street: 10052 Hwy 27 N
+City: Rock Spring
+County: Walker
+State: Georgia
+Zip: 30739
+x: -85.2458
+y: 34.8418
+Location: County public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

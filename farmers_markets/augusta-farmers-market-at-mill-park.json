@@ -1,0 +1,35 @@
+---
+FMID: 2001035
+MarketName: "Augusta Farmers' Market at Mill Park"
+Website: 'http://www.augustamaine.gov/index.asp?Type=B_BASIC&SEC={FFE91C07-6389-4065-B49A-6EEF08D7D3B5}&DE='
+Street: Mill Park, Rt. 104
+City: Augusta
+County: Kennebec
+State: Maine
+Zip: 04330
+x: -69.7725
+y: 44.3074
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1000921
+MarketName: Bridgewater Farmers Market
+Website: http://bridgewaterfarmersmarket.org
+Street: School St
+City: Bridgewater
+County: Plymouth
+State: Massachusetts
+Zip: 02324
+x: -70.975
+y: 41.9883
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

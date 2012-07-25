@@ -1,0 +1,36 @@
+---
+FMID: 1000617
+MarketName: Beverly Hills Farmers Market
+Website: >
+  http://www.beverlyhills.org/farmersmarket
+Street: 9300 Civic Center Drive
+City: Beverly Hills
+County: Los Angeles
+State: California
+Zip: 90210
+x: -118.399
+y: 34.0743
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

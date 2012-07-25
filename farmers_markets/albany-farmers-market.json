@@ -1,0 +1,35 @@
+---
+FMID: 1001401
+MarketName: "Albany Farmers' Market"
+Website: http://www.locallygrown.org
+Street: '4th Avenue & Ellsworth Street'
+City: Albany
+County: Linn
+State: Oregon
+Zip: 97321
+x: -123.106
+y: 44.6349
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1006146
+MarketName: Greenville State Farmers Market
+Website: http://www.agriculture.sc.gov
+Street: 1354 Rutherford Road
+City: Greenville
+County: Greenville
+State: South Carolina
+Zip: 29609
+x: -82.3667
+y: 34.8935
+Location: State public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

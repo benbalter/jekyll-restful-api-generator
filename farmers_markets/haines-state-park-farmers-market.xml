@@ -1,0 +1,35 @@
+---
+FMID: 1001353
+MarketName: "Haines State Park Farmers' Market"
+Website:
+Street: Haines Memorial State Park
+City: Barringon
+County: Bristol
+State: Rhode Island
+Zip:
+x: -71.3451
+y: 41.7527
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

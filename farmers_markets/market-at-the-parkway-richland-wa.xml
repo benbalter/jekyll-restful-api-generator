@@ -1,0 +1,35 @@
+---
+FMID: 1004866
+MarketName: Market at the Parkway, Richland, WA
+Website: http://www.marketattheparkway.com
+Street:
+City: Richland
+County: Benton
+State: Washington
+Zip: 99352
+x: -119.272
+y: 46.2751
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

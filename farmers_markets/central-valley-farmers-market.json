@@ -1,0 +1,35 @@
+---
+FMID: 1005533
+MarketName: Central Valley Farmers Market
+Website:
+Street: 900 "G" Street
+City: Merced
+County: Merced
+State: California
+Zip: 0none
+x: -120.481
+y: 37.2906
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001089
+MarketName: "Laurel Downtown Farmers' Market"
+Website: http://www.laurelmontana.org
+Street: 110 1st Ave. N
+City: Laurel
+County: Yellowstone
+State: Montana
+Zip: 59044
+x: -108.772
+y: 45.6696
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

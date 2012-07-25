@@ -1,0 +1,36 @@
+---
+FMID: 1003778
+MarketName: Japantown Certified Farmers Market
+Website: >
+  http://www.japantownsanjose.org/market.html
+Street: 'on Jackson St between 6th & 7th Streets'
+City: San Jose
+County: Santa Clara
+State: California
+Zip: 95112
+x: -121.893
+y: 37.3498
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2001246
+MarketName: LaSalle Farmers Market
+Website:
+Street: '2nd St. & Gooding St.'
+City: La Salle
+County:
+State: Illinois
+Zip: 61301
+x: -89.097
+y: 41.3291
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

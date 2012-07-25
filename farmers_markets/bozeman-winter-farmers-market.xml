@@ -1,0 +1,37 @@
+---
+FMID: 1004637
+MarketName: "Bozeman Winter Farmers' Market"
+Website: http://bozemanwintermarket.com
+Street: >
+  Emerson Cultural Center, 111 S. Grand
+  Avenue
+City: Bozeman
+County: Gallatin
+State: Montana
+Zip: 59715
+x: -111.04
+y: 45.6778
+Location: Community Center
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

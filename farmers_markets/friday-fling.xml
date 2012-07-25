@@ -1,0 +1,35 @@
+---
+FMID: 1003275
+MarketName: Friday Fling
+Website:
+Street: S. Valley Way
+City: Palmer
+County: Matanuska-Susitna
+State: Alaska
+Zip: 99645
+x: -149.114
+y: 61.5984
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

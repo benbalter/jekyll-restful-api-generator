@@ -1,0 +1,35 @@
+---
+FMID: 1001343
+MarketName: Homer Glen Farmers Market
+Website: http://www.merrillsmarkets.com
+Street: '159th & Bell Rd.'
+City: Homer Glen
+County: Will
+State: Illinois
+Zip: 60491
+x: -87.9315
+y: 41.6001
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

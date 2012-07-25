@@ -1,0 +1,35 @@
+---
+FMID: 1004932
+MarketName: "Kenai's Saturday Market"
+Website: http://www.visitkenai.com
+Street: 11475 Kenai Spur Highway
+City: Kenai, Alaska
+County: Kenai Peninsula
+State: Alaska
+Zip: 99611
+x: -151.26
+y: 60.5549
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

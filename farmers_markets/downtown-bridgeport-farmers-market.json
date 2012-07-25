@@ -1,0 +1,35 @@
+---
+FMID: 1005904
+MarketName: Downtown Bridgeport Farmers Market
+Website: http://infobridgeport.com
+Street: Bank Street
+City: Bridgeport
+County: Fairfield
+State: Connecticut
+Zip: 06604
+x:
+y:
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001348
+MarketName: "Fisherman's Memorial Park Farmers Market"
+Website:
+Street: "Fisherman's Memorial State Park"
+City: Narragansett
+County: Washington
+State: Rhode Island
+Zip: 02879
+x: -71.6232
+y: 41.47
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

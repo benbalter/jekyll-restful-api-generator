@@ -1,0 +1,35 @@
+---
+FMID: 1004275
+MarketName: Lake Leelanau Farmers Market
+Website: http://www.eatleelanau.org
+Street: 112 W Philip Street
+City: Lake Leelanau
+County: Leelanau
+State: Michigan
+Zip: 49653
+x: -85.7137
+y: 44.981
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

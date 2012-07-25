@@ -1,0 +1,35 @@
+---
+FMID: 1002588
+MarketName: Alamo Farmers Market
+Website:
+Street: Buckhorn Ranch Road
+City: Alamo
+County: Lincoln
+State: Nevada
+Zip: 89001
+x: -115.144
+y: 37.3308
+Location: In a roadside stand
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

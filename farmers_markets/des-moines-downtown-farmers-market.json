@@ -1,0 +1,37 @@
+---
+FMID: 2004004
+MarketName: Des Moines Downtown Farmers Market
+Website: http://www.desmoinesfarmersmarket.com/
+Street: >
+  Court Avenue between First and Fifth
+  Streets
+City: Des Moines
+County:
+State: Iowa
+Zip: 50309
+x: -93.623
+y: 41.5849
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

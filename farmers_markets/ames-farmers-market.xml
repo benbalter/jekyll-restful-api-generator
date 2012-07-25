@@ -1,0 +1,35 @@
+---
+FMID: 1002806
+MarketName: "Ames Farmers' Market"
+Website: http://www.amesfarmersmarket.com
+Street: Main Street Station 526 Main Street
+City: Ames
+County: Story
+State: Iowa
+Zip: 50010
+x: -93.6176
+y: 42.0249
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

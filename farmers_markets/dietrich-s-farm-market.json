@@ -1,0 +1,35 @@
+---
+FMID: 2003107
+MarketName: "Dietrich's Farm Market"
+Website:
+Street: 3910 Avon Lake Road
+City: Litchfield
+County: Medina
+State: Ohio
+Zip:
+x: -82.023
+y: 41.1665
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

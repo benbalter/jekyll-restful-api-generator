@@ -1,0 +1,35 @@
+---
+FMID: 1005653
+MarketName: Le Grand Certified Farmers Market
+Website:
+Street: 'Madison St. & Le Grand Rd.'
+City: Le Grand
+County: Merced
+State: California
+Zip: 95333
+x: -120.25
+y: 37.2284
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

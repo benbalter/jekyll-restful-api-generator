@@ -1,0 +1,35 @@
+---
+FMID: 1000807
+MarketName: Calhoun County Farmers Market
+Website:
+Street: Upper West Fork Park
+City: Chloe
+County: Calhoun
+State: West Virginia
+Zip: 25235
+x: -81.1215
+y: 38.7897
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

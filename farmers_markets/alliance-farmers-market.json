@@ -1,0 +1,35 @@
+---
+FMID: 1003210
+MarketName: "Alliance Farmers' Market"
+Website: http://www.alliancefarmersmarket.com
+Street: Corner of E. Main St. and Mechanic Ave.
+City: Alliance
+County: Stark
+State: Ohio
+Zip: 44601
+x: -81.1024
+y: 40.9216
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

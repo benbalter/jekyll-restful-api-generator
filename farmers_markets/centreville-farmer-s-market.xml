@@ -1,0 +1,35 @@
+---
+FMID: 1005195
+MarketName: "Centreville Farmer's Market"
+Website:
+Street: 101 Lawyers Row
+City: Centreville
+County: "Queen Anne's"
+State: Maryland
+Zip: 21617
+x: -76.0655
+y: 39.0448
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

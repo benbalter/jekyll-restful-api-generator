@@ -1,0 +1,35 @@
+---
+FMID: 1001229
+MarketName: Bethany Beach Farmers Market
+Website: http://www.bethanybeachfarmersmarket.com
+Street: Garfield Parkway at Pennsylvania Avenue
+City: Bethany Beach
+County: Sussex
+State: Delaware
+Zip: 19930
+x: -75.5006
+y: 38.9951
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

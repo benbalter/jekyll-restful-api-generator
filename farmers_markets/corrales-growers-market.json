@@ -1,0 +1,35 @@
+---
+FMID: 1003797
+MarketName: "Corrales Growers' Market"
+Website:
+Street: 'Corner of Corrales Rd & Jones Rd'
+City: Corrales
+County: Sandoval
+State: New Mexico
+Zip:
+x: -106.866
+y: 35.6887
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

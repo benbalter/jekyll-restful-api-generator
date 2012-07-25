@@ -1,0 +1,35 @@
+---
+FMID: 1005416
+MarketName: Clark Fork Market
+Website: http://clarkforkrivermarket@gmail.com
+Street: Riverside Parking Lot
+City: Missoula
+County: Missoula
+State: Montana
+Zip: 59801
+x: -113.995
+y: 46.8685
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

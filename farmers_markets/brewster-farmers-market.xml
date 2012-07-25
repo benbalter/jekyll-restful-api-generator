@@ -1,0 +1,35 @@
+---
+FMID: 1004724
+MarketName: Brewster Farmers Market
+Website: http://betterbrewster.org
+Street: 208 E. Main St.
+City: Brewster
+County: Putnam
+State: New York
+Zip: 10509
+x: -73.6072
+y: 41.3948
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

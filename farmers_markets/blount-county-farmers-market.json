@@ -1,0 +1,35 @@
+---
+FMID: 1006244
+MarketName: Blount County Farmers Market
+Website: http://bcoabc.com
+Street: 500 New Street
+City: Oneonta
+County: Blount
+State: Alabama
+Zip: 35121
+x: -86.4701
+y: 33.9443
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2001217
+MarketName: "Alpha Nursery Farmers' Market"
+Website: http://www.alpha-nursery.com
+Street: 12 Alpha Lane,
+City: Cascade
+County: Valley
+State: Idaho
+Zip: 83611
+x: -115.998
+y: 44.4251
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

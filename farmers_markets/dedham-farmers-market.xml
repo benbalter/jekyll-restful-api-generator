@@ -1,0 +1,35 @@
+---
+FMID: 1004741
+MarketName: Dedham Farmers Market
+Website: http://www.dedhamfarmersmarket.com
+Street: Corner of Eastern Ave and High St
+City: Dedham
+County: Norfolk
+State: Massachusetts
+Zip: 02026
+x: -71.1721
+y: 42.2471
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,38 @@
+---
+FMID: 1004021
+MarketName: Jeffersonville Farmers Market
+Website: >
+  http://www.sullivancountyfarmersmarkets.org
+Street: >
+  Parking lot across from post office,
+  Main Street (State Hwy. 52)
+City: Jefffersonville
+County: Sullivan
+State: New York
+Zip: 12748
+x: -74.9365
+y: 41.7786
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

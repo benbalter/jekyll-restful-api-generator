@@ -1,0 +1,35 @@
+---
+FMID: 1002549
+MarketName: Historic Lafayette Farmers Market
+Website: http://www.lafayettefarmersmarket.com
+Street: Dauch Alumni Center
+City: West Lafayette
+County: Tippecanoe
+State: Indiana
+Zip: 47906
+x: -86.9108
+y: 40.4219
+Location: University campus
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

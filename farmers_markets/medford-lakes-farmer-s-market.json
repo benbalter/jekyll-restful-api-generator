@@ -1,0 +1,35 @@
+---
+FMID: 1001712
+MarketName: "Medford Lakes Farmer's Market"
+Website: http://www.MarketAtTheLakes.org
+Street: '1 Trading Post Way & Aetna Way'
+City: Medford Lakes
+County: Burlington
+State: New Jersey
+Zip: 08055
+x: -74.8058
+y: 39.8638
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

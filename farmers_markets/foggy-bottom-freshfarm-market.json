@@ -1,0 +1,36 @@
+---
+FMID: 1002962
+MarketName: Foggy Bottom FRESHFARM Market
+Website: >
+  http://freshfarmmarkets.org/markets/foggy_bottom.html
+Street: 2400 I Street, NW
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20037
+x: -77.0515
+y: 38.9007
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

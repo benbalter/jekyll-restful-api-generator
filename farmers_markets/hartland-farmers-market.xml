@@ -1,0 +1,35 @@
+---
+FMID: 1004731
+MarketName: Hartland Farmers Market
+Website: http://www.hartlandfarmersmarket.com
+Street: Hartland Public Library, 153 Rt 5
+City: Hartland
+County: Windsor
+State: Vermont
+Zip: 05048
+x: -72.4004
+y: 43.5392
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

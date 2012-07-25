@@ -1,0 +1,35 @@
+---
+FMID: 1000832
+MarketName: Evansdale Farmers Market
+Website:
+Street: 3524 LaFayette Rd
+City: Evansdale
+County: Black Hawk
+State: Iowa
+Zip: 50707
+x: -92.2902
+y: 42.4774
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

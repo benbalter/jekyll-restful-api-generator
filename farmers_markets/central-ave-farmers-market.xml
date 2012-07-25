@@ -1,0 +1,35 @@
+---
+FMID: 1004373
+MarketName: Central Ave Farmers Market
+Website: http://farmernet.com
+Street: 4301 Central Ave at 43rd st
+City: Los angeles California
+County: Los Angeles
+State: California
+Zip: 90011
+x: -118.256
+y: 34.0058
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

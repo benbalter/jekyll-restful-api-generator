@@ -1,0 +1,35 @@
+---
+FMID: 1001769
+MarketName: Cape Ann Farmers Market
+Website: http://capeannfarmersmarket.org
+Street: Stage Fort Park
+City: Gloucester
+County: Essex
+State: Massachusetts
+Zip: 01930
+x: -70.6775
+y: 42.6057
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

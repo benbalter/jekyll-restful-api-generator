@@ -1,0 +1,35 @@
+---
+FMID: 1002569
+MarketName: "Chillicothe Farmers' Market Association"
+Website: http://www.chillicothefarmersmarket.org
+Street: 475 Western Ave.
+City: Chillicothe
+County: Ross
+State: Ohio
+Zip: 45601
+x: -83.0031
+y: 39.3344
+Location: County public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

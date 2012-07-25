@@ -1,0 +1,35 @@
+---
+FMID: 1005271
+MarketName: "Gallatin Valley Farmers' Market"
+Website: http://www.careertransitions.com
+Street: 901 North Black Ave.
+City: Bozeman
+County: Gallatin
+State: Montana
+Zip: 59715
+x: -109.653
+y: 47.0323
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

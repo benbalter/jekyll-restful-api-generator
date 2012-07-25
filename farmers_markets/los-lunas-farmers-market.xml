@@ -1,0 +1,35 @@
+---
+FMID: 1004125
+MarketName: "Los Lunas Farmers' Market"
+Website:
+Street: 1660 Main St. SE
+City: Los Lunas
+County: Valencia
+State: New Mexico
+Zip:
+x: -106.721
+y: 34.8045
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

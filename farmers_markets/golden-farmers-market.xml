@@ -1,0 +1,35 @@
+---
+FMID: 1004662
+MarketName: Golden Farmers Market
+Website:
+Street: '10th Avenue & Illinois Street'
+City: Golden
+County: Jefferson
+State: Colorado
+Zip: 80401
+x: -105.226
+y: 39.7554
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

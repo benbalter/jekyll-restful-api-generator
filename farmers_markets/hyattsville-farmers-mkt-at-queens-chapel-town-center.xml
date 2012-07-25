@@ -1,0 +1,35 @@
+---
+FMID: 2004226
+MarketName: "Hyattsville Farmers' Mkt at Queens Chapel Town Center"
+Website:
+Street: 'corner of Queens Chapel Road & Hamilton Street'
+City: Hyattsville
+County: "Prince George's"
+State: Maryland
+Zip: 20782
+x: -76.9621
+y: 38.9558
+Location:
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

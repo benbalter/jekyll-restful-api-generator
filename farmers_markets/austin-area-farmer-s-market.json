@@ -1,0 +1,35 @@
+---
+FMID: 1002159
+MarketName: "Austin Area Farmer's Market"
+Website: http://austinafm.org
+Street: 1301 18th Ave NW
+City: Austin
+County: Mower
+State: Minnesota
+Zip: 55912
+x: -92.9909
+y: 43.6848
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

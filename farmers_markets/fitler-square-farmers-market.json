@@ -1,0 +1,36 @@
+---
+FMID: 1006582
+MarketName: "Fitler Square Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/fitler.html
+Street: 23rd and Pine Streets
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19146
+x: -75.1793
+y: 39.9473
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'N'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

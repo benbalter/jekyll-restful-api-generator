@@ -1,0 +1,35 @@
+---
+FMID: 1003852
+MarketName: Kennett Community Farmers Market
+Website:
+Street: Court House Square
+City: Kennett
+County: Dunklin
+State: Missouri
+Zip: 63857
+x: -90.0562
+y: 36.2368
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2000582
+MarketName: "Ceres Farmer's Market"
+Website: http://www.cerespartnership.org
+Street: 2921 Third Street
+City: Ceres
+County: Stanislaus
+State: California
+Zip: 95307
+x: -120.955
+y: 37.5913
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

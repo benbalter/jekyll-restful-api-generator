@@ -1,0 +1,37 @@
+---
+FMID: 1004646
+MarketName: Lincoln Park Farmers Market
+Website:
+Street: >
+  City Parking Lot, corner of Fort Park
+  and Philomene Street, Lincoln Park
+City: Lincoln Park
+County: Wayne
+State: Michigan
+Zip: 48146
+x: -83.1799
+y: 42.2492
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

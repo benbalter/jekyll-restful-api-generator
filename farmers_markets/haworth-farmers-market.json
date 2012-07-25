@@ -1,0 +1,35 @@
+---
+FMID: 1006417
+MarketName: "Haworth Farmers' Market"
+Website: http://www.haworthnj.org
+Street: 300 Terrace Street
+City: Haworth
+County: Bergen
+State: New Jersey
+Zip: 07641
+x: -73.9894
+y: 40.9601
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

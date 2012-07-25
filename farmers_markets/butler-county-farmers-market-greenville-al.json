@@ -1,0 +1,37 @@
+---
+FMID: 1005113
+MarketName: >
+  Butler County Farmers Market,
+  Greenville, AL
+Website:
+Street: Conecuh and Cedar
+City: Georgiana
+County: Butler
+State: Alabama
+Zip: 36033
+x: -86.7419
+y: 31.6371
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

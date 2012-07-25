@@ -1,0 +1,35 @@
+---
+FMID: 1002752
+MarketName: Cassopolis Farmers market
+Website:
+Street: 604 Disbrow
+City: Cassopolis
+County: Cass
+State: Michigan
+Zip: 49031
+x: -85.4386
+y: 44.3365
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

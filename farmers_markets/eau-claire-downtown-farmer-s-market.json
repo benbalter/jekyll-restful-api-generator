@@ -1,0 +1,35 @@
+---
+FMID: 1006713
+MarketName: "Eau Claire Downtown Farmer's Market"
+Website: http://ecdowntownfarmersmarket.com
+Street: Riverfront Terrace
+City: Eau Claire
+County: Eau Claire
+State: Wisconsin
+Zip: 54701
+x:
+y:
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

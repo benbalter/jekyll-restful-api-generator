@@ -1,0 +1,35 @@
+---
+FMID: 1001591
+MarketName: Keyport Waterfront Farmers Market
+Website:
+Street: 70 West Front Street
+City: Keyport
+County: Monmouth
+State: New Jersey
+Zip: 07735
+x: -74.2042
+y: 40.4365
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,37 @@
+---
+FMID: 1005863
+MarketName: "Auburn Farmer's Market"
+Website: http://www.cityofauburn-ga.org/
+Street: >
+  corner of Fourth Avenue and Mt. Moriah
+  Road
+City: Auburn
+County: Barrow
+State: Georgia
+Zip: 30011
+x: -83.828
+y: 34.0137
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

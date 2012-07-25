@@ -1,0 +1,37 @@
+---
+FMID: 1001574
+MarketName: "HDSID Farmer's Market"
+Website: >
+  http://www.jcdowntown.org /
+  www.hdsid.org
+Street: Path station @ Grove St.
+City: Jersey City
+County: Hudson
+State: New Jersey
+Zip: 07302
+x: -74.0426
+y: 40.7197
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

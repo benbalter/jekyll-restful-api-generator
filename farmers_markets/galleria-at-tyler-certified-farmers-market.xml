@@ -1,0 +1,35 @@
+---
+FMID: 1001492
+MarketName: "Galleria at Tyler Certified Farmers' Market"
+Website:
+Street: 1299 Galleria at Tyler
+City: Riverside
+County: Riverside
+State: California
+Zip: 92553
+x: -117.458
+y: 33.9101
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

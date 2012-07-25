@@ -1,0 +1,35 @@
+---
+FMID: 1002897
+MarketName: Long Beach Farmers Market
+Website: http://www.realfoodgulfcoast.org
+Street: 126 Jeff Davis Avenue
+City: Long Beach
+County: Harrison
+State: Mississippi
+Zip: 39560
+x: -89.1511
+y: 30.3493
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

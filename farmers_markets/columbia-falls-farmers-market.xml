@@ -1,0 +1,35 @@
+---
+FMID: 1005250
+MarketName: Columbia Falls Farmers Market
+Website: http://firstbestplace.org
+Street: 540 Nucleus Ave
+City: Columbia Falls
+County: Flathead
+State: Montana
+Zip: 59912
+x: -114.181
+y: 48.3738
+Location: Community Center
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004900
+MarketName: Hawthorne Farmers Market
+Website:
+Street: Grand Ave
+City: Hawthorne
+County: Passaic
+State: New Jersey
+Zip: 07506
+x: -74.1541
+y: 40.9496
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

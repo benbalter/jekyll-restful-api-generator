@@ -1,0 +1,35 @@
+---
+FMID: 1005114
+MarketName: "Graham County Farmer's Market"
+Website: http://smnpa.org
+Street: 132 Rodney Orr Bypass
+City: Robbinsville
+County: Graham
+State: North Carolina
+Zip: 28771
+x: -83.802
+y: 35.3227
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

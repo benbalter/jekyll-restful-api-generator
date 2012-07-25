@@ -1,0 +1,35 @@
+---
+FMID: 1001040
+MarketName: "Idaho Falls Farmers' Market"
+Website: http://www.idahofallsfarmersmarket.org/
+Street: 501 West Broadway
+City: Idaho Falls
+County: Bonneville
+State: Idaho
+Zip: 83402
+x: -112.043
+y: 43.4922
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

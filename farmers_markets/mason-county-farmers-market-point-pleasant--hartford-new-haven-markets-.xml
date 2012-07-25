@@ -1,0 +1,35 @@
+---
+FMID: 1001885
+MarketName: 'Mason County Farmers Market (Point Pleasant & Hartford/New Haven Markets)'
+Website:
+Street: Route 62
+City: Hartford
+County: Mason
+State: West Virginia
+Zip: 25550
+x: -81.9503
+y: 38.6996
+Location: In a roadside stand
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

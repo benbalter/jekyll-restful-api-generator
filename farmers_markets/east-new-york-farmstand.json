@@ -1,0 +1,35 @@
+---
+FMID: 1001315
+MarketName: East New York Farmstand
+Website: http://www.eastnewyorkfarms.org
+Street: New Lots and Georgia Ave
+City: Brooklyn
+County: Kings
+State: New York
+Zip: 11207
+x: -73.8953
+y: 40.6611
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

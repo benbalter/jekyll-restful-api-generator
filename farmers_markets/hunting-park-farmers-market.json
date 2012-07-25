@@ -1,0 +1,38 @@
+---
+FMID: 1006593
+MarketName: "Hunting Park Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/markets.html
+Street: >
+  West Hunting Park Avenue and Old York
+  Road
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19140
+x: -75.1472
+y: 40.0166
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

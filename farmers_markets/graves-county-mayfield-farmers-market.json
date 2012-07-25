@@ -1,0 +1,35 @@
+---
+FMID: 1001467
+MarketName: "Graves County Mayfield Farmers' Market"
+Website:
+Street: Courthouse Square
+City: Mayfield
+County: Graves
+State: Kentucky
+Zip: 42066
+x: -88.6392
+y: 36.7415
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

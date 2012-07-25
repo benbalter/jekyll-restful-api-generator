@@ -1,0 +1,35 @@
+---
+FMID: 2002230
+MarketName: Capitol Market
+Website: http://www.capitolmarket.net
+Street: 800 Smith St.
+City: Charleston
+County: Kanawha
+State: West Virginia
+Zip: 25301
+x: -81.6284
+y: 38.3525
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

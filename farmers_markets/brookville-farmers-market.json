@@ -1,0 +1,35 @@
+---
+FMID: 1004603
+MarketName: Brookville Farmers Market
+Website:
+Street: Indiana Highway 52 South
+City: Brookville, Indiana
+County: Franklin
+State: Indiana
+Zip: 47012
+x: -85.0047
+y: 39.4013
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

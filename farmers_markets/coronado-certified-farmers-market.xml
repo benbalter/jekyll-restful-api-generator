@@ -1,0 +1,35 @@
+---
+FMID: 1002021
+MarketName: Coronado Certified Farmers Market
+Website:
+Street: 'Ferry Landing, 1st & B'
+City: Coronado
+County: San Diego
+State: California
+Zip: 92118
+x: -117.17
+y: 32.6978
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001524
+MarketName: "Marina Certifed Farmers' Market"
+Website: http://www.everyonesharvest.org
+Street: 215 Reservation Rd.
+City: Marina
+County: Monterey
+State: California
+Zip: 93933
+x: -121.798
+y: 36.6871
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

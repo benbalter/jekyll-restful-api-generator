@@ -1,0 +1,35 @@
+---
+FMID: 1004377
+MarketName: Magnolia Farmers Market
+Website: http://www.seattlefarmersmarkets.org
+Street: 33rd Ave W and W Smith Str
+City: Seattle
+County: King
+State: Washington
+Zip: 98199
+x: -122.4
+y: 47.6405
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

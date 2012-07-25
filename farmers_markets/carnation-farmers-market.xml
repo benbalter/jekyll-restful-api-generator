@@ -1,0 +1,35 @@
+---
+FMID: 1004399
+MarketName: Carnation Farmers Market
+Website: http://www.carnationfarmersmarket.org
+Street: Corner of Bird and Stossel
+City: Carnation
+County: King
+State: Washington
+Zip: 98014
+x: -121.912
+y: 47.6489
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

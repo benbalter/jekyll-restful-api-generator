@@ -1,0 +1,36 @@
+---
+FMID: 1006633
+MarketName: "Grays Ferry Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/graysferry.html
+Street: 29th and Wharton Streets
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19146
+x: -75.192
+y: 39.9373
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

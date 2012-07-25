@@ -1,0 +1,36 @@
+---
+FMID: 1006112
+MarketName: Farmers Market at Great Valley
+Website: >
+  http://sites.google.com/site/farmersmarketatgreatvalley/
+Street: 30 E. Swedesford Rd.
+City: Malvern
+County: Chester
+State: Pennsylvania
+Zip: 19355
+x: -75.5234
+y: 40.0541
+Location: University campus
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

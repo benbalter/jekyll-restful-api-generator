@@ -1,0 +1,37 @@
+---
+FMID: 1003688
+MarketName: >
+  Hillcrest Farmers Market and Open air
+  Bazaar
+Website: http://HillcrestFarmersMarket.com
+Street: 3960 Normal Street
+City: San Diego
+County: San Diego
+State: California
+Zip: 92103
+x: -117.149
+y: 32.7503
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002613
+MarketName: "Lincoln County Producers' Markets"
+Website:
+Street: 99 Main St.
+City: Pioche
+County: Lincoln
+State: Nevada
+Zip: 89043
+x: -114.452
+y: 37.9299
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

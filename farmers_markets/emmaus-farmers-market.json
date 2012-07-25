@@ -1,0 +1,35 @@
+---
+FMID: 1001080
+MarketName: "Emmaus Farmers' Market"
+Website: http://www.emmausmarket.com
+Street: 235 Main St
+City: Emmaus
+County: Lehigh
+State: Pennsylvania
+Zip: 18049
+x: -75.4903
+y: 40.5366
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

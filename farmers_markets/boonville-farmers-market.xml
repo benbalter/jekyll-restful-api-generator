@@ -1,0 +1,35 @@
+---
+FMID: 1004872
+MarketName: Boonville Farmers Market
+Website: http://boonvillefarmersmarket.com
+Street: 605 Main St.
+City: Boonville
+County: Oneida
+State: New York
+Zip: 13309
+x: -75.3274
+y: 43.4809
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

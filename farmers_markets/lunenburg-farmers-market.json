@@ -1,0 +1,35 @@
+---
+FMID: 1005316
+MarketName: "Lunenburg Farmers' Market"
+Website: http://www.topofthecommon.org/6.html
+Street: Lunenburg Town Common, Route 2
+City: Lunenburg
+County: Essex
+State: Vermont
+Zip: 05906
+x: -71.6842
+y: 44.4638
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

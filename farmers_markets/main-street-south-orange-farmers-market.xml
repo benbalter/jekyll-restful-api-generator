@@ -1,0 +1,35 @@
+---
+FMID: 1001564
+MarketName: "Main Street South Orange Farmers' Market"
+Website: http://www.MainStreetSouthOrange.org
+Street: 14 Sloan Street
+City: South Orange
+County: Essex
+State: New Jersey
+Zip: 07079
+x: -74.2603
+y: 40.7457
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

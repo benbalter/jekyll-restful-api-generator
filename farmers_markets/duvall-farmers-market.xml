@@ -1,0 +1,35 @@
+---
+FMID: 1002117
+MarketName: Duvall Farmers Market
+Website: http://www.duvallfarmersmarket.org
+Street: Brown Avenue
+City: Duvall
+County: King
+State: Washington
+Zip: 98019
+x: -121.986
+y: 47.7382
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

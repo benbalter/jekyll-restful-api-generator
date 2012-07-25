@@ -1,0 +1,35 @@
+---
+FMID: 1001208
+MarketName: English Farmers Market
+Website:
+Street: 201 Indiana Ave
+City: English
+County: Crawford
+State: Indiana
+Zip: 47118
+x: -86.4432
+y: 38.3511
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

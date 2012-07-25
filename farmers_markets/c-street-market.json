@@ -1,0 +1,37 @@
+---
+FMID: 1002703
+MarketName: C-Street Market
+Website: >
+  http://itsalldowntown.com/cstreet or
+  C-Street Market on Facebook
+Street: 321 East Commercial
+City: Springfield
+County: Greene
+State: Missouri
+Zip: 65803
+x: -93.2895
+y: 37.2298
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

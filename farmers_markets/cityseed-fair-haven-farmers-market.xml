@@ -1,0 +1,35 @@
+---
+FMID: 1004103
+MarketName: CitySeed Fair Haven Farmers Market
+Website: http://www.cityseed.org
+Street: Front St. and Grand Ave.
+City: New Haven
+County: New Haven
+State: Connecticut
+Zip: 06513
+x: -72.8898
+y: 41.3076
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

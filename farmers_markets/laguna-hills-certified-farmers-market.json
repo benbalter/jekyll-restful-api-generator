@@ -1,0 +1,37 @@
+---
+FMID: 1001396
+MarketName: "Laguna Hills Certified Farmers' Market"
+Website: http://orange.cfbf.com/
+Street: >
+  Laguna Hills Mall, I-5 Freeway @ El Toro
+  Road
+City: Laguna Hillks
+County: Orange
+State: California
+Zip: 92652
+x: -117.706
+y: 33.6101
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

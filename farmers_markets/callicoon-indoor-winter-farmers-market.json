@@ -1,0 +1,36 @@
+---
+FMID: 1004015
+MarketName: "Callicoon Indoor Winter Farmers' Market"
+Website: >
+  http://www.sullivancountyfarmersmarkets.org
+Street: 8 Creamery Road
+City: Callicoon
+County: Sullivan
+State: New York
+Zip: 12723
+x: -75.0555
+y: 41.764
+Location: Community Center
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

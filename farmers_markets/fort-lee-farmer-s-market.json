@@ -1,0 +1,37 @@
+---
+FMID: 2000481
+MarketName: "Fort Lee Farmer's MArket"
+Website:
+Street: >
+  Fort Lee Community Center Plaza 1355
+  Inwood Terrace
+City: Fort Lee
+County: Bergen
+State: New Jersey
+Zip: 07024
+x: -73.98
+y: 40.8445
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

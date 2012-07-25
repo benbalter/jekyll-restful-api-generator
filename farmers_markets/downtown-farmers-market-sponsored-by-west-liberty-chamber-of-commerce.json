@@ -1,0 +1,37 @@
+---
+FMID: 1004251
+MarketName: >
+  Downtown Farmers Market sponsored by
+  West Liberty Chamber of Commerce
+Website: http://www.westlibertyiowa.com
+Street: E. 3rd St.,
+City: West Liberty
+County: Muscatine
+State: Iowa
+Zip: 52776
+x: -91.2627
+y: 41.57
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

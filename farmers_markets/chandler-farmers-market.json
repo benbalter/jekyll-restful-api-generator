@@ -1,0 +1,35 @@
+---
+FMID: 1001115
+MarketName: Chandler Farmers Market
+Website: http://www.downtownchandler.org
+Street: Dr. A.J. Chandler Park
+City: Chandler
+County: Maricopa
+State: Arizona
+Zip: 85225
+x: -111.842
+y: 33.3022
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

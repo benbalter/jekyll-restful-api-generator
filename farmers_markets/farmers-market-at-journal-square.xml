@@ -1,0 +1,35 @@
+---
+FMID: 1005163
+MarketName: Farmers Market at Journal Square
+Website: http://www.loewsjersey.org
+Street: Kennedy Blvd. at Journal Square
+City: Jersey City
+County: Hudson
+State: New Jersey
+Zip: 07306
+x: -74.0639
+y: 40.7316
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

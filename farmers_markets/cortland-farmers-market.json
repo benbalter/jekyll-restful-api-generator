@@ -1,0 +1,35 @@
+---
+FMID: 1002404
+MarketName: Cortland Farmers Market
+Website:
+Street: 290 S. High Street
+City: Cortland
+County: Trumbull
+State: Ohio
+Zip: 44410
+x: -80.7277
+y: 41.3255
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

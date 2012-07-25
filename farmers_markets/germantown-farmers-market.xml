@@ -1,0 +1,36 @@
+---
+FMID: 1006599
+MarketName: "Germantown Farmers' Market"
+Website: >
+  http://foodtrustmarkets.org/germantown.html
+Street: Germantown Avenue and Walnut Lane
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19144
+x: -75.1786
+y: 40.0405
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002086
+MarketName: Butler Farmers Market
+Website: http://Butler Farmers Market.com
+Street: 12401 W Hampton Ave
+City: Butler
+County: Waukesha
+State: Wisconsin
+Zip: 53007
+x: -88.0664
+y: 43.1045
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

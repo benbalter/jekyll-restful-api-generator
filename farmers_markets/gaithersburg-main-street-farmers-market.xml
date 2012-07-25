@@ -1,0 +1,35 @@
+---
+FMID: 2004219
+MarketName: "Gaithersburg Main Street Farmers' Market"
+Website:
+Street: 301 Main Street
+City: Gaithersburg
+County: Montgomery
+State: Maryland
+Zip: 20878
+x: -77.2386
+y: 39.1217
+Location:
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

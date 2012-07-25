@@ -1,0 +1,35 @@
+---
+FMID: 1001829
+MarketName: Bowdon Farmers Market
+Website:
+Street: Bowdon Gym
+City: Bowdon
+County: Wells
+State: North Dakota
+Zip: 58418
+x: -99.7092
+y: 47.4736
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

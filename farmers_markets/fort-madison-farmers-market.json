@@ -1,0 +1,35 @@
+---
+FMID: 1004642
+MarketName: Fort Madison Farmers Market
+Website: http://www.fortmadison.com
+Street: '9th Street & Avenue F'
+City: Fort Madison
+County: Lee
+State: Iowa
+Zip: 52627
+x: -91.3135
+y: 40.6324
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

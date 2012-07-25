@@ -1,0 +1,37 @@
+---
+FMID: 1002209
+MarketName: >
+  High School for Public Service Youth
+  Farm Market
+Website: http://www.bkfarmyards.com
+Street: 600 Kingston
+City: Brooklyn
+County: Kings
+State: New York
+Zip: 11203
+x: -73.9427
+y: 40.6587
+Location: Elementary/ high school campus
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

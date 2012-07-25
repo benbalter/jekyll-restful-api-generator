@@ -1,0 +1,36 @@
+---
+FMID: 1000590
+MarketName: "Highland Park Farmer's Market"
+Website: >
+  http://www.mainstreethp.org/polCalendarEvent.cfm?Program_Code=5
+Street: 218 Raritan Avenue
+City: Highland Park
+County: Middlesex
+State: New Jersey
+Zip: 08904
+x: -74.429
+y: 40.4982
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003853
+MarketName: "Lehigh Growers' Market"
+Website:
+Street: 'Rte. 309 & Landis St.'
+City: Coopersburg
+County: Lehigh
+State: Pennsylvania
+Zip: 18036
+x: -75.3851
+y: 40.5131
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

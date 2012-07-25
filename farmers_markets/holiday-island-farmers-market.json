@@ -1,0 +1,35 @@
+---
+FMID: 1001914
+MarketName: Holiday Island Farmers Market
+Website:
+Street: 2 Country Club Drive
+City: Holiday Island
+County: Carroll
+State: Arkansas
+Zip: 72631
+x: -93.7252
+y: 36.4616
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

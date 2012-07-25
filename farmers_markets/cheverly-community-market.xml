@@ -1,0 +1,35 @@
+---
+FMID: 1005589
+MarketName: Cheverly Community Market
+Website: http://www.cheverlycommunitymarket.com
+Street: 6401 Forest Road
+City: Cheverly
+County: "Prince George's"
+State: Maryland
+Zip: 20785
+x: -76.9063
+y: 38.9241
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

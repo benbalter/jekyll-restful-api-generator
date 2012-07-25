@@ -1,0 +1,35 @@
+---
+FMID: 1001167
+MarketName: Farmers Market at the Depot
+Website:
+Street: 101 E. Depot Street
+City: Springfield
+County: Washington
+State: Kentucky
+Zip: 40069
+x: -85.2227
+y: 37.6838
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

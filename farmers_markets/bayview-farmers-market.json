@@ -1,0 +1,35 @@
+---
+FMID: 1003528
+MarketName: Bayview Farmers Market
+Website: http://www.bayviewfarmersmarket.com
+Street: 5644 Bayview Road
+City: Langley
+County: Island
+State: Washington
+Zip: 98260
+x: -122.461
+y: 48.0062
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

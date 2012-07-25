@@ -1,0 +1,37 @@
+---
+FMID: 1004283
+MarketName: Anderson Certified Farmers Market
+Website: http://www.shastagrowersassociation.com
+Street: >
+  Deschutes Rd @ Hwy 273 (Shasta Outlets
+  Center)
+City: Anderson
+County: Shasta
+State: California
+Zip: 96007
+x: -122.288
+y: 40.4357
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

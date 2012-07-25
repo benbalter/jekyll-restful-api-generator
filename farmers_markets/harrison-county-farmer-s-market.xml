@@ -1,0 +1,36 @@
+---
+FMID: 1002593
+MarketName: "Harrison County Farmer's Market"
+Website: >
+  http://www.facebook.com/harrisoncountyfarmersmarket
+Street: 300 N Capitol Ave
+City: Corydon
+County: Harrison
+State: Indiana
+Zip: 47112
+x: -86.1254
+y: 38.2117
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001195
+MarketName: Cannon Beach Farmers Market
+Website: http://www.cannonbeachmarket.org
+Street: 163 E Gower
+City: Cannon Beach
+County: Clatsop
+State: Oregon
+Zip: 97110
+x: -123.962
+y: 45.8901
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

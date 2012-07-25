@@ -1,0 +1,35 @@
+---
+FMID: 1001423
+MarketName: Carson City Wednesday Farmers Market
+Website: http://www.shirleysfarmersmarkets.com
+Street: Pony Express Pavilion
+City: Carson City
+County: Carson City
+State: Nevada
+Zip: 89701
+x: -119.752
+y: 39.1704
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001096
+MarketName: Everett MA Farmers Market
+Website: http://www.cityofeverett.com
+Street: Parlin Library Lawn 410 Broadway
+City: Everett
+County: Middlesex
+State: Massachusetts
+Zip: 02149
+x: -71.0568
+y: 42.406
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

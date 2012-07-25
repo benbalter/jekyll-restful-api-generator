@@ -1,0 +1,35 @@
+---
+FMID: 1006394
+MarketName: Graham Avenue Farmers Market
+Website: http://grahamavebid.net
+Street: Cook Street
+City: Brooklyn
+County: Kings
+State: New York
+Zip: 11206
+x: -73.9373
+y: 40.7027
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

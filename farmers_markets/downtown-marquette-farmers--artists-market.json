@@ -1,0 +1,35 @@
+---
+FMID: 1001166
+MarketName: 'Downtown Marquette Farmers & Artists Market'
+Website: http://www.downtownmarquette.org
+Street: 112 S. Third Street
+City: Marquette
+County: Marquette
+State: Michigan
+Zip: 49855
+x: -87.3958
+y: 46.5429
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

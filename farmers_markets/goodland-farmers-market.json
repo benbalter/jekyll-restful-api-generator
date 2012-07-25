@@ -1,0 +1,36 @@
+---
+FMID: 1002499
+MarketName: "Goodland Farmers' Market"
+Website: >
+  http://www.ksfarmersmarkets.org/markets/goodland-farmers-market
+Street:
+City: Goodland
+County: Sherman
+State: Kansas
+Zip: 67735
+x: -101.697
+y: 39.3365
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

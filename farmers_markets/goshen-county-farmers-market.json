@@ -1,0 +1,35 @@
+---
+FMID: 1006286
+MarketName: Goshen county Farmers Market
+Website:
+Street: 4516 US Hwy 26/85
+City: Torrington
+County: Goshen
+State: Wyoming
+Zip: 82240
+x: -104.309
+y: 42.1167
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

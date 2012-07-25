@@ -1,0 +1,35 @@
+---
+FMID: 1001360
+MarketName: Brandon Farmers Market
+Website:
+Street: Central Park, Rt. 7
+City: Brandon
+County: Rutland
+State: Vermont
+Zip: 05733
+x: -73.0874
+y: 43.7979
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

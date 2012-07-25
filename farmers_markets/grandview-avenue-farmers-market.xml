@@ -1,0 +1,35 @@
+---
+FMID: 1006454
+MarketName: Grandview Avenue Farmers Market
+Website: http://www.pearlalleygrowers.com
+Street: 1371 Grandview Avenue
+City: Columbus
+County: Franklin
+State: Ohio
+Zip: 43212
+x: -83.0448
+y: 39.9858
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004677
+MarketName: "Buffalo Farmers' Market"
+Website: http://bachfamilies.com
+Street: Hunte Pet Center Hwy 65 Buffalo MO
+City: Buffalo
+County: Dallas
+State: Missouri
+Zip: 65622
+x: -93.1048
+y: 37.6305
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

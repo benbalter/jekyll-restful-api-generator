@@ -1,0 +1,35 @@
+---
+FMID: 1005086
+MarketName: Dane County Farmers Market I
+Website: http://www.dcfm.org
+Street: Capitol Square, Downtown
+City: Madison
+County: Dane
+State: Wisconsin
+Zip: 53701
+x: -90.0062
+y: 44.6331
+Location: State public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

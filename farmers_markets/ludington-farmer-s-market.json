@@ -1,0 +1,35 @@
+---
+FMID: 1004407
+MarketName: "Ludington Farmer's Market"
+Website: http://www.ludingotn-mi.gov
+Street: North James Street Plaza
+City: Ludington
+County: Mason
+State: Michigan
+Zip: 49431
+x: -86.4526
+y: 43.9553
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

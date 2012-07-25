@@ -1,0 +1,35 @@
+---
+FMID: 1002156
+MarketName: Crystal Lake Farmers Market
+Website: http://www.downtowncl.org
+Street: 'Depot Park, Woodstock & Williams Streets'
+City: Crystal Lake
+County: McHenry
+State: Illinois
+Zip: 60014
+x: -88.3172
+y: 42.2438
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

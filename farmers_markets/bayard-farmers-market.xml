@@ -1,0 +1,35 @@
+---
+FMID: 1005651
+MarketName: "Bayard Farmers' Market"
+Website:
+Street: 808 Tom Foy Ave (Highway 180)
+City: Bayard
+County: Grant
+State: New Mexico
+Zip: 88023
+x: -108.136
+y: 32.7521
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

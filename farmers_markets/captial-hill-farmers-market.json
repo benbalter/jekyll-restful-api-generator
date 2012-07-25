@@ -1,0 +1,35 @@
+---
+FMID: 1001337
+MarketName: Captial Hill Farmers Market
+Website:
+Street: RI Dept of Administration lawn
+City: Providence
+County: Providence
+State: Rhode Island
+Zip: 02908
+x: -71.4142
+y: 41.8329
+Location: State public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

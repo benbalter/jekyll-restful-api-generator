@@ -1,0 +1,35 @@
+---
+FMID: 1001752
+MarketName: Brookfield Farmers Market
+Website: http://www.brookfieldfarmersmarket.com
+Street: 2000 North Calhoun Road
+City: Brookfield
+County: Waukesha
+State: Wisconsin
+Zip: 53005
+x: -88.1249
+y: 43.0561
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

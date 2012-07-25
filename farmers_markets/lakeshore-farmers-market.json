@@ -1,0 +1,36 @@
+---
+FMID: 1003347
+MarketName: Lakeshore Farmers Market
+Website: >
+  http://www.kernvalleygrowersassociation.com
+Street: 7466 Wofford Blvd. Lakeshore Lodge
+City: Wofford Heights
+County: Kern
+State: California
+Zip: 93285
+x: -118.441
+y: 35.7107
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

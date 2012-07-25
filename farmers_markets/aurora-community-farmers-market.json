@@ -1,0 +1,35 @@
+---
+FMID: 1001798
+MarketName: Aurora Community Farmers Market
+Website:
+Street: 208 16th St.
+City: Aurora
+County: Hamilton
+State: Nebraska
+Zip: 68818
+x: -97.9965
+y: 40.8587
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

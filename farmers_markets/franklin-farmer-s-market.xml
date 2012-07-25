@@ -1,0 +1,35 @@
+---
+FMID: 1001991
+MarketName: "Franklin Farmer's Market"
+Website:
+Street: Willow Street
+City: Franklin
+County: St. Mary
+State: Louisiana
+Zip: 70538
+x: -91.5019
+y: 29.7909
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

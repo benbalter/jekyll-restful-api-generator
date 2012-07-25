@@ -1,0 +1,35 @@
+---
+FMID: 1005488
+MarketName: City of Dripping Springs Farmers Market
+Website: http://www.dsfarmersmarket.yolasite.com
+Street: 160 East Mercer
+City: Dripping Springs
+County: Hays
+State: Texas
+Zip: 78620
+x: -98.086
+y: 30.1922
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

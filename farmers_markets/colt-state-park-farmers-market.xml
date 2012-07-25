@@ -1,0 +1,35 @@
+---
+FMID: 1001342
+MarketName: "Colt State Park Farmers' Market"
+Website:
+Street: 'Colt State Park - Hope St. and Asylum Rd'
+City: Bristol
+County: Bristol
+State: Rhode Island
+Zip: 02809
+x: -71.279
+y: 41.688
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

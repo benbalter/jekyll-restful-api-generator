@@ -1,0 +1,36 @@
+---
+FMID: 1006624
+MarketName: "Haddington Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/markets.html
+Street: N 52nd Street and Haverford Avenue
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19139
+x: -75.2246
+y: 39.965
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

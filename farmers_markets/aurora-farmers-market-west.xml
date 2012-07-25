@@ -1,0 +1,36 @@
+---
+FMID: 1003693
+MarketName: Aurora Farmers Market West
+Website: >
+  http://www.aurora-il.org/farmersmarket.php
+Street: 1901 W. Galena Boulevard
+City: Aurora
+County: Kane
+State: Illinois
+Zip: 60506
+x: -88.3647
+y: 41.7647
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

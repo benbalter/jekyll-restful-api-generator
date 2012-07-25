@@ -1,0 +1,35 @@
+---
+FMID: 1001491
+MarketName: Carson CFM at SouthBay Pavilion
+Website:
+Street: 20700 Avalon Blvd.
+City: Carson
+County: Los Angeles
+State: California
+Zip: 90746
+x: -118.26
+y: 33.843
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

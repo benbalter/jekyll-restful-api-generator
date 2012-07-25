@@ -1,0 +1,36 @@
+---
+FMID: 1002445
+MarketName: "Downtown Bowling Green Farmer's Market"
+Website: >
+  http://www.downtownbgohio.org/farmersmarket
+Street: South Main Street
+City: Bowling Green
+County: Wood
+State: Ohio
+Zip: 43402
+x: -83.65
+y: 41.3739
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004471
+MarketName: "Bel Air Saturday Farmers' Market"
+Website: http://www.belairfarmersmarket.com
+Street: 2 South Bond Street
+City: Bel Air
+County: Harford
+State: Maryland
+Zip: 21014
+x: -76.3504
+y: 39.535
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

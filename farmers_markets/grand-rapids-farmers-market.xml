@@ -1,0 +1,35 @@
+---
+FMID: 1001657
+MarketName: Grand Rapids Farmers Market
+Website: http://www.grfarmersmarket.org/
+Street: 104 NW 4th St
+City: Grand Rapids
+County: Itasca
+State: Minnesota
+Zip: 55744
+x: -93.5304
+y: 47.2356
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

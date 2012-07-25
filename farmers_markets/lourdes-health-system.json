@@ -1,0 +1,35 @@
+---
+FMID: 1003009
+MarketName: Lourdes Health System
+Website: http://www.lourdesnet.org
+Street: 1601 Haddon Avenue
+City: Camden
+County: Camden
+State: New Jersey
+Zip: 08103
+x: -75.0963
+y: 39.9267
+Location: Hospital/ health care facility grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

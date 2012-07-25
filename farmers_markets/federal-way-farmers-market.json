@@ -1,0 +1,35 @@
+---
+FMID: 1001495
+MarketName: Federal Way Farmers Market
+Website: http://federalwayfarmersmarket.com
+Street: 31600 20th Ave S
+City: Federal Way
+County: King
+State: Washington
+Zip: 98003
+x: -122.307
+y: 47.318
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1000808
+MarketName: Byron Farm Market
+Website:
+Street: '84TH ST & BYRON CENTER AVE'
+City: BYRON CENTER
+County: Kent
+State: Michigan
+Zip: 49315
+x: -85.7214
+y: 42.8123
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003953
+MarketName: "Dallas Farmers' Market"
+Website:
+Street: 236 West Dallas Street
+City: Dallas
+County: Barron
+State: Wisconsin
+Zip: 54733
+x: -91.8166
+y: 45.2591
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1003052
+MarketName: Madrona Farmers Market
+Website: >
+  http://georgetownfarmersmarket.wordpress.com
+Street: 1126 Martin Luther King Jr. Way
+City: Seattle
+County: King
+State: Washington
+Zip: 98122
+x: -122.296
+y: 47.6123
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1006093
+MarketName: "Harrison County Farmers' Market"
+Website:
+Street: Flat Run Veterans Park, Oddville Ave
+City: Cynthiana
+County: Harrison
+State: Kentucky
+Zip: 41031
+x:
+y:
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

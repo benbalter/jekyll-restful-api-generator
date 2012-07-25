@@ -1,0 +1,35 @@
+---
+FMID: 1005268
+MarketName: California Farmers Market
+Website:
+Street: 22810 Three Notch Road
+City: California
+County: "St. Mary's"
+State: Maryland
+Zip: 20619
+x: -76.4976
+y: 38.2936
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

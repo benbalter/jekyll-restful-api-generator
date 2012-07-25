@@ -1,0 +1,36 @@
+---
+FMID: 1003590
+MarketName: Lanesboro Farmers Market
+Website: >
+  http://www.lanesboro-mn.gov/commissions-farmersmarket.php
+Street: Sylvan Park
+City: Lanesboro
+County: Fillmore
+State: Minnesota
+Zip: 55949
+x: -91.9772
+y: 43.725
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

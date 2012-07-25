@@ -1,0 +1,35 @@
+---
+FMID: 1005301
+MarketName: Conifer Farmers Market
+Website: http://coloradooutdoormarkets.com
+Street: Aspen Village at 5557 Conifer Road
+City: Conifer
+County: Jefferson
+State: Colorado
+Zip: 80433
+x: -105.25
+y: 39.5864
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002550
+MarketName: "Highlandtown Farmers' Market"
+Website: http://highlandtownmarket.blogspot.com/
+Street: 400 block of South Conkling Street
+City: Baltimore
+County: Baltimore City
+State: Maryland
+Zip: 21224
+x: -76.5672
+y: 39.2869
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

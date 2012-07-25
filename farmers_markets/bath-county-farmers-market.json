@@ -1,0 +1,35 @@
+---
+FMID: 1004307
+MarketName: Bath County Farmers Market
+Website:
+Street: 2914 E Hwy 60
+City: Owingsville
+County: Bath
+State: Kentucky
+Zip: 40360
+x: -83.8134
+y: 38.1437
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

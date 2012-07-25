@@ -1,0 +1,35 @@
+---
+FMID: 1001573
+MarketName: "Burke County Farmer's Market II"
+Website:
+Street: Faett Street
+City: Valdese
+County: Burke
+State: North Carolina
+Zip: 28690
+x: -81.5627
+y: 35.7411
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

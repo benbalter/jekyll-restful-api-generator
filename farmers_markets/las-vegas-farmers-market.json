@@ -1,0 +1,35 @@
+---
+FMID: 1004430
+MarketName: Las Vegas Farmers Market
+Website:
+Street: 10401 Garden Park Drive
+City: Las Vegas
+County: Clark
+State: Nevada
+Zip: 89135
+x: -115.322
+y: 36.1262
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

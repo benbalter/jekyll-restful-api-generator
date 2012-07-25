@@ -1,0 +1,36 @@
+---
+FMID: 1006632
+MarketName: "Broad and Ritner Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/markets.html
+Street: Broad and Ritner Streets
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19148
+x:
+y:
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

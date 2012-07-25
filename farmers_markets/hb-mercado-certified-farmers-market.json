@@ -1,0 +1,35 @@
+---
+FMID: 1005609
+MarketName: HB Mercado Certified Farmers Market
+Website: http://www.velasfarmersmarkets.org
+Street: 17071 Gothard Street
+City: Huntington Beach
+County: Orange
+State: California
+Zip: 92647
+x: -118
+y: 33.7147
+Location: Elementary/ high school campus
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

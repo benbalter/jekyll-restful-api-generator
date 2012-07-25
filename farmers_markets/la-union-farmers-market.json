@@ -1,0 +1,35 @@
+---
+FMID: 2001160
+MarketName: "La Union Farmers' Market"
+Website:
+Street: 'Town Park, corner of Telles & Campo Santo'
+City: La Union
+County: Dona Ana
+State: New Mexico
+Zip:
+x: -106.664
+y: 31.9481
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

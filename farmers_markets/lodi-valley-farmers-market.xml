@@ -1,0 +1,35 @@
+---
+FMID: 1003438
+MarketName: "Lodi Valley Farmers' Market"
+Website:
+Street: 902 W Main St. (Hwy 113)
+City: Lodi
+County: Columbia
+State: Wisconsin
+Zip: 53555
+x: -89.5379
+y: 43.3255
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

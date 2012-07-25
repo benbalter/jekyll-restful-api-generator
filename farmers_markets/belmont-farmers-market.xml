@@ -1,0 +1,35 @@
+---
+FMID: 1005968
+MarketName: "Belmont Farmers' Market"
+Website: http://www.belmontfarmersmarket.org
+Street: intersection of Cross St and Channing Rd
+City: Belmont
+County: Middlesex
+State: Massachusetts
+Zip: 02478
+x: -71.1738
+y: 42.3966
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

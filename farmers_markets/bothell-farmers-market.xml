@@ -1,0 +1,36 @@
+---
+FMID: 1001438
+MarketName: Bothell Farmers Market
+Website: >
+  http://www.countryvillagebothell.com/farmersmarket
+Street: 23718 Bothell Everett Highway
+City: Bothell
+County: Snohomish
+State: Washington
+Zip: 98021
+x: -122.221
+y: 47.7827
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

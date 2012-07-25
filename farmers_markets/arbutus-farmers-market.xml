@@ -1,0 +1,35 @@
+---
+FMID: 1002513
+MarketName: Arbutus Farmers Market
+Website: http://www.arbutus.org
+Street: 5200 Southwestern Boulevard
+City: Baltimore
+County: Baltimore
+State: Maryland
+Zip: 21227
+x: -76.6919
+y: 39.2499
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

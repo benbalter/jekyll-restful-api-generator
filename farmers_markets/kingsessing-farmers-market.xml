@@ -1,0 +1,36 @@
+---
+FMID: 1006625
+MarketName: "Kingsessing Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/markets.html
+Street: 58th Street and Chester Avenue
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19143
+x: -75.2285
+y: 39.9357
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

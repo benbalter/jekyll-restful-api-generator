@@ -1,0 +1,40 @@
+---
+FMID: 1000884
+MarketName: Dartmouth Farmers Market
+Website:
+Street: >
+  Rex Field, adjacent to St. Peters
+  Church, 351 Elm Street, Padanaram
+  Village
+City: Dartmouth
+County: Bristol
+State: Massachusetts
+Zip: 02747
+x: -70.9443
+y: 41.5877
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,37 @@
+---
+FMID: 2000106
+MarketName: All-Local Farmers Market 2
+Website: http://www.localharvest.org
+Street: >
+  Rosewood market on Rosewood Drive at
+  Maple Street
+City: Columbia
+County: Richland
+State: South Carolina
+Zip:
+x: -81.0044
+y: 33.9874
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

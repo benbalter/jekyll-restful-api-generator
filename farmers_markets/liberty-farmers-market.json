@@ -1,0 +1,36 @@
+---
+FMID: 1004033
+MarketName: Liberty Farmers Market
+Website: >
+  http://www.sullivancountyfarmersmarkets.org
+Street: Village Parking Lot, Darbee Lane
+City: Liberty
+County: Sullivan
+State: New York
+Zip: 12754
+x: -74.7436
+y: 41.8
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

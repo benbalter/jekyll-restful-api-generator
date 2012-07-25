@@ -1,0 +1,37 @@
+---
+FMID: 1002414
+MarketName: >
+  Farmers Market Inc. in Historic Downtown
+  Independence
+Website: http://www.indyfarmersmarket.com
+Street: Myrtle Street West of Penn Ave.
+City: Independence
+County: Montgomery
+State: Kansas
+Zip: 67301
+x: -95.707
+y: 37.2243
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

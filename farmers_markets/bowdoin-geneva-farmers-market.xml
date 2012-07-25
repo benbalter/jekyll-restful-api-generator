@@ -1,0 +1,35 @@
+---
+FMID: 1003142
+MarketName: "Bowdoin Geneva Farmers' Market"
+Website:
+Street: 230 Bowdoin Street
+City: Dorchester
+County: Suffolk
+State: Massachusetts
+Zip: 02122
+x: -71.0677
+y: 42.3058
+Location: Hospital/ health care facility grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

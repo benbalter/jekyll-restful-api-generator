@@ -1,0 +1,35 @@
+---
+FMID: 1001120
+MarketName: 32nd Street/Waverly Farmers Market
+Website:
+Street: 'E. 32nd & Barclay Street'
+City: Baltimore
+County: Baltimore
+State: Maryland
+Zip: 21218
+x: -76.611
+y: 39.3272
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

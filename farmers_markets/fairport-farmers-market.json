@@ -1,0 +1,37 @@
+---
+FMID: 2000137
+MarketName: "Fairport Farmers' Market"
+Website:
+Street: >
+  parking lot behind Bank of America on
+  South Main St.
+City: Fairport
+County: Monroe
+State: New York
+Zip: 14450
+x: -77.4433
+y: 43.1015
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

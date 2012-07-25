@@ -1,0 +1,38 @@
+---
+FMID: 1006588
+MarketName: "Cecil B. Moore Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/cecilbmoore.html
+Street: >
+  Cecil B. Moore Avenue between Broad and
+  13th Streets
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19122
+x: -75.1557
+y: 39.9784
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

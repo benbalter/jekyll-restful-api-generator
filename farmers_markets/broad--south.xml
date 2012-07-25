@@ -1,0 +1,35 @@
+---
+FMID: 1001460
+MarketName: 'Broad & South'
+Website: http://www.headhousemarket.org
+Street: 'Broad & South Sts.'
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip:
+x: -75.1652
+y: 39.9437
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

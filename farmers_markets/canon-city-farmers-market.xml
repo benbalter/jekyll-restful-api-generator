@@ -1,0 +1,35 @@
+---
+FMID: 1006128
+MarketName: "Canon City Farmers' Market"
+Website: http://www.canoncityfarmersmarket.com
+Street: 6th and Macon
+City: Canon City
+County: Fremont
+State: Colorado
+Zip: 81212
+x: -105.24
+y: 38.442
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

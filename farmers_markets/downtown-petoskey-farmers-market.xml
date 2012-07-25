@@ -1,0 +1,35 @@
+---
+FMID: 1004787
+MarketName: Downtown Petoskey Farmers Market
+Website: http://www.petoskey.com
+Street: 'Near corner of Howard & Michigan Streets'
+City: Petoskey
+County: Emmet
+State: Michigan
+Zip: 49770
+x: -84.9555
+y: 45.3733
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

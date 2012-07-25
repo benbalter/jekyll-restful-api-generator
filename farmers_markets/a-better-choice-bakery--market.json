@@ -1,0 +1,35 @@
+---
+FMID: 1003478
+MarketName: 'A Better Choice Bakery & Market'
+Website: http://www.ABetterChoiceBakery.com
+Street: 16 W Potomac Street
+City: Brunswick
+County: Frederick
+State: Maryland
+Zip: 21716
+x: -77.6275
+y: 39.313
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,37 @@
+---
+FMID: 2000119
+MarketName: City Hall Plaza Farmers Market
+Website: http://www.massfarmersmarkets.org
+Street: >
+  Boston City Hall Plaza (Government
+  Center, along Cambridge Street)
+City: Boston
+County: Suffolk
+State: Massachusetts
+Zip: 02108
+x: -71.0598
+y: 42.3602
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001881
+MarketName: "Burnett Co. Farmer's Market - Alpha"
+Website:
+Street: 23943 Highway 35
+City: Siren
+County: Burnett
+State: Wisconsin
+Zip: 54872
+x: -92.3812
+y: 45.7827
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

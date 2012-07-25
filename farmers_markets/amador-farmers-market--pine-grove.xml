@@ -1,0 +1,35 @@
+---
+FMID: 1004262
+MarketName: "Amador Farmers' Market-- Pine Grove"
+Website: http://www.amadorfarmersmarket.com
+Street: Hwy 88 at Irishtown Rd.
+City: Pine Grove
+County: Amador
+State: California
+Zip: 95665
+x: -120.658
+y: 38.413
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

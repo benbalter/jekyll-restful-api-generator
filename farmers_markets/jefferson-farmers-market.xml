@@ -1,0 +1,35 @@
+---
+FMID: 1005497
+MarketName: "Jefferson Farmers' Market"
+Website:
+Street: 32 E. Jefferson St.
+City: Jefferson
+County: Ashtabula
+State: Ohio
+Zip: 44047
+x: -80.7674
+y: 41.7373
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

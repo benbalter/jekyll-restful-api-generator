@@ -1,0 +1,35 @@
+---
+FMID: 1002145
+MarketName: Galveston West End Market
+Website:
+Street: 6511 Stewart Rd
+City: Galveston
+County: Galveston
+State: Texas
+Zip: 77551
+x: -94.8349
+y: 29.2737
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

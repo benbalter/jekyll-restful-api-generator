@@ -1,0 +1,35 @@
+---
+FMID: 1003584
+MarketName: "Bellevue Farmers' Market"
+Website:
+Street: 95 Riviera Drive
+City: Bellevue
+County: Campbell
+State: Kentucky
+Zip: 41073
+x: -84.4887
+y: 39.1014
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

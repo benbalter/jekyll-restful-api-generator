@@ -1,0 +1,35 @@
+---
+FMID: 1000979
+MarketName: Lents International Farmers Market
+Website: http://www.lentsfarmersmarket.org
+Street: 'Crossroads Plaza, SE 92nd & Foster'
+City: Portland
+County: Multnomah
+State: Oregon
+Zip: 97266
+x: -122.569
+y: 45.4801
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

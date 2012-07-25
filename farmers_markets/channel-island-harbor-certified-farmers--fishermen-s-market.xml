@@ -1,0 +1,35 @@
+---
+FMID: 1001485
+MarketName: "Channel Island Harbor Certified Farmers' & Fishermen's Market"
+Website:
+Street: 3350 S. Harbor Blvd
+City: Oxnard
+County: Ventura
+State: California
+Zip: 93035
+x: -119.23
+y: 34.1682
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

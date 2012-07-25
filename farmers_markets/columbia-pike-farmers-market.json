@@ -1,0 +1,35 @@
+---
+FMID: 1002925
+MarketName: Columbia Pike Farmers Market
+Website: http://www.columbiapike.org
+Street: 'Columbia Pike & S. Walter Reed Drive'
+City: Arlington
+County: Arlington
+State: Virginia
+Zip: 22204
+x: -77.0871
+y: 38.8625
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

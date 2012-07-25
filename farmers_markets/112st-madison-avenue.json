@@ -1,0 +1,35 @@
+---
+FMID: 1002563
+MarketName: 112st Madison Avenue
+Website:
+Street: 112th Madison Avenue
+City: New York
+County: New York
+State: New York
+Zip: 10029
+x: -73.9493
+y: 40.7939
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

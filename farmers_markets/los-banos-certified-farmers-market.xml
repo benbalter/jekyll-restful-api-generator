@@ -1,0 +1,35 @@
+---
+FMID: 1005652
+MarketName: Los Banos Certified Farmers Market
+Website:
+Street: 'Hwy 152 & Pacheco Park'
+City: Los Banos
+County: Merced
+State: California
+Zip: 93635
+x:
+y:
+Location: County public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

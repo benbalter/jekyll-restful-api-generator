@@ -1,0 +1,35 @@
+---
+FMID: 1003850
+MarketName: "Bethlehem Farmers' Market"
+Website: http://www.campussquare.net
+Street: New and Morton Streets
+City: Bethlehem
+County: Northampton
+State: Pennsylvania
+Zip: 18015
+x: -75.3784
+y: 40.6098
+Location: University campus
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2000622
+MarketName: "Castro Farmers' Market"
+Website: http://www.pcfma.com
+Street: 250 Noe St.
+City: San Francisco
+County: San Francisco
+State: California
+Zip:
+x: -122.433
+y: 37.765
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

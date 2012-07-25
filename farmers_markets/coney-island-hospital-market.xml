@@ -1,0 +1,35 @@
+---
+FMID: 1006531
+MarketName: Coney Island Hospital Market
+Website:
+Street: Lutheran Way 55th Street Sunset Park
+City: Brooklyn
+County: New York
+State: New York
+Zip: 11220
+x:
+y:
+Location: Hospital/ health care facility grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

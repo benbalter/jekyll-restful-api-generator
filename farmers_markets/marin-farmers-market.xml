@@ -1,0 +1,35 @@
+---
+FMID: 1002706
+MarketName: Marin Farmers Market
+Website: http://www.agriculturalinstitute.org
+Street: 'Civic Center-Hwy 101 & San Pedro'
+City: San Rafael
+County: Marin
+State: California
+Zip: 94901
+x: -122.532
+y: 37.9981
+Location: County public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

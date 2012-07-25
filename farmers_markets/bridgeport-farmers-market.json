@@ -1,0 +1,36 @@
+---
+FMID: 1003469
+MarketName: Bridgeport Farmers Market
+Website: >
+  http://www.bridgeportfarmersmarket.vpweb.com
+Street:
+City: Bridgeport
+County: Harrison
+State: West Virginia
+Zip: 26330
+x: -80.2622
+y: 39.2894
+Location: Elementary/ high school campus
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

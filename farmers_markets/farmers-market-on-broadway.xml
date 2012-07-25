@@ -1,0 +1,35 @@
+---
+FMID: 1006186
+MarketName: Farmers Market on Broadway
+Website: http://www.FarmersMarketOnBroadway.com
+Street: Broadway Street
+City: Green Bay
+County: Brown
+State: Wisconsin
+Zip: 54303
+x:
+y:
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

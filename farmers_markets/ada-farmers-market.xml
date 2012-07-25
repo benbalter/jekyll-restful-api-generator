@@ -1,0 +1,35 @@
+---
+FMID: 1000858
+MarketName: "Ada Farmers' Market"
+Website: http://www.adafarmersmarket.com
+Street: 7239 Thornapple River Drive
+City: Ada
+County: Kent
+State: Michigan
+Zip: 49301
+x: -85.4881
+y: 42.9553
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

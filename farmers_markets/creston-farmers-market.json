@@ -1,0 +1,35 @@
+---
+FMID: 2000072
+MarketName: "Creston Farmers' Market"
+Website:
+Street: 'McKinley Park, between W. Adams & N. Park Sts.'
+City: Creston
+County: Union
+State: Iowa
+Zip: 50801
+x: -94.3828
+y: 41.0524
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

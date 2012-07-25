@@ -1,0 +1,35 @@
+---
+FMID: 1002567
+MarketName: Del Monte Shopping Center farmers market
+Website: http://montereybayfarmers.org
+Street: 1410 Del Monte Center
+City: Monterey
+County: Monterey
+State: California
+Zip: 93940
+x: -121.895
+y: 36.5847
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

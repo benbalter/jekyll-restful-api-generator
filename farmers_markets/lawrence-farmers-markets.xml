@@ -1,0 +1,36 @@
+---
+FMID: 1003124
+MarketName: Lawrence Farmers Markets
+Website: >
+  http://www.groundworklawrence.org/farmersmarket
+Street: 216 Lawrence St
+City: Lawrence
+County: Essex
+State: Massachusetts
+Zip: MA
+x: -71.1661
+y: 42.7171
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

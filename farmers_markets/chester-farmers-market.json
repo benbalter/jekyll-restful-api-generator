@@ -1,0 +1,37 @@
+---
+FMID: 1001670
+MarketName: Chester Farmers Market
+Website:
+Street: >
+  Route 103, The Vermont Country Store in
+  Rockingham
+City: Chester
+County: Windsor
+State: Vermont
+Zip: 05143
+x: -72.5053
+y: 43.1976
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

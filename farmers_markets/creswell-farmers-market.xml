@@ -1,0 +1,36 @@
+---
+FMID: 1000905
+MarketName: "Creswell Farmers' Market"
+Website: >
+  http://creswellfarmersmarket.wordpress.com
+Street: 182 S Second
+City: Creswell
+County: Lane
+State: Oregon
+Zip: 97426
+x: -123.018
+y: 43.9029
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

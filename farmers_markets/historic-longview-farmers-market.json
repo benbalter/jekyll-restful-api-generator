@@ -1,0 +1,36 @@
+---
+FMID: 1006409
+MarketName: Historic Longview Farmers Market
+Website: >
+  http://www.historiclongviewfarmersmarket.com
+Street: High Street @ Cotton Street
+City: Longview, TX
+County: Gregg
+State: Texas
+Zip: 75605
+x: -94.7423
+y: 32.4945
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

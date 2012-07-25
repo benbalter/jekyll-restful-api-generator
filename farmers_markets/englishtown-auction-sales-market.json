@@ -1,0 +1,35 @@
+---
+FMID: 1000981
+MarketName: Englishtown Auction Sales Market
+Website: http://www.englishtownauction.com
+Street: 90 Wilson Ave
+City: Englishtown
+County: Monmouth
+State: New Jersey
+Zip: 07726
+x: -74.361
+y: 40.3126
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

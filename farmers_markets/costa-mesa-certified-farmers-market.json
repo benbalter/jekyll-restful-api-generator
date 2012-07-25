@@ -1,0 +1,35 @@
+---
+FMID: 1001394
+MarketName: "Costa Mesa Certified Farmers' Market"
+Website:
+Street: OC Fairgrounds, 88 Fair Drive
+City: Costa Mesa
+County: Orange
+State: California
+Zip: 92624
+x: -117.902
+y: 33.6654
+Location: State public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

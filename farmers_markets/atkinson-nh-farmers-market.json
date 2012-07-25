@@ -1,0 +1,35 @@
+---
+FMID: 1006348
+MarketName: Atkinson NH Farmers Market
+Website: http://www.awcc-nh.org
+Street: 4 Main Street
+City: Atkinson
+County: Rockingham
+State: New Hampshire
+Zip: 03811
+x: -71.1172
+y: 42.8197
+Location: Community Center
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

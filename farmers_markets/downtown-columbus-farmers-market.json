@@ -1,0 +1,35 @@
+---
+FMID: 1004692
+MarketName: Downtown Columbus Farmers Market
+Website:
+Street: 222 West James St.
+City: Columbus
+County: Columbia
+State: Wisconsin
+Zip: 53925
+x: -89.0159
+y: 43.3396
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

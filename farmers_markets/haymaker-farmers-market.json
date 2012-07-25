@@ -1,0 +1,35 @@
+---
+FMID: 1000916
+MarketName: "Haymaker Farmers' Market"
+Website: http://haymakermarket.com
+Street: River St.
+City: Kent
+County: Portage
+State: Ohio
+Zip: 44240
+x: -81.3604
+y: 41.1533
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

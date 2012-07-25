@@ -1,0 +1,35 @@
+---
+FMID: 1002055
+MarketName: "Glendive Saturday Farmer's Market"
+Website: http://www.farmtotablecoop.com
+Street: 313 W Valentine St
+City: Glendive
+County: Dawson
+State: Montana
+Zip: 59330
+x: -104.711
+y: 47.1019
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

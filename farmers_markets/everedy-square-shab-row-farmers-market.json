@@ -1,0 +1,35 @@
+---
+FMID: 1003578
+MarketName: "Everedy Square/Shab Row Farmers' Market"
+Website: http://FrederickFarmFresh.com
+Street: East and East Church Streets
+City: Frederick
+County: Frederick
+State: Maryland
+Zip: 21701
+x: -77.4052
+y: 39.415
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

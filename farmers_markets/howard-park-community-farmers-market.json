@@ -1,0 +1,35 @@
+---
+FMID: 1005174
+MarketName: Howard Park Community Farmers Market
+Website:
+Street: 3500 Block Woodbine Ave
+City: Baltimore
+County: Baltimore City
+State: Maryland
+Zip: 21207
+x: -76.697
+y: 39.3306
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

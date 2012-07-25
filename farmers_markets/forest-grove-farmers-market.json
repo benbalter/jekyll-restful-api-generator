@@ -1,0 +1,36 @@
+---
+FMID: 1002135
+MarketName: Forest Grove Farmers Market
+Website: >
+  http://www.adelantemujeres.org/farmersmarket
+Street: Main Street
+City: Forest Grove
+County: Washington
+State: Oregon
+Zip: 97116
+x: -123.112
+y: 45.5201
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

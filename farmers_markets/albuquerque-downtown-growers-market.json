@@ -1,0 +1,35 @@
+---
+FMID: 1003757
+MarketName: "Albuquerque Downtown Growers' Market"
+Website: http://www.downtownabq.com/growersmarket
+Street: Robinson Park
+City: Albuquerque
+County: Bernalillo
+State: New Mexico
+Zip:
+x: -106.657
+y: 35.086
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

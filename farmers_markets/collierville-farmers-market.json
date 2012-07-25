@@ -1,0 +1,37 @@
+---
+FMID: 1000870
+MarketName: Collierville Farmers Market
+Website: http://www.colliervillefarmersmarket.org
+Street: 454 W. Poplar Ave.
+City: Collierville
+County: Shelby
+State: Tennessee
+Zip: 38017
+x: -89.677
+y: 35.0461
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

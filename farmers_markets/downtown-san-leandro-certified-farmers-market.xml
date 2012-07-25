@@ -1,0 +1,35 @@
+---
+FMID: 1004010
+MarketName: "Downtown San Leandro Certified Farmers' Market"
+Website: http://www.pcfma.com
+Street: 'Parrott Street between E. 14th Street & Washington Ave.'
+City: San Leandro
+County: Alameda
+State: California
+Zip: 94577
+x: -122.153
+y: 37.7221
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

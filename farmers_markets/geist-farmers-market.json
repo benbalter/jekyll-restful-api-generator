@@ -1,0 +1,37 @@
+---
+FMID: 1000831
+MarketName: Geist Farmers Market
+Website: http://Geist Farmers Market.com
+Street: 8115 Oaklandon Road
+City: Indianapolis
+County: Marion
+State: Indiana
+Zip: 46236
+x: -85.9564
+y: 39.9034
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001863
+MarketName: "Farmers' Market at the Williamsville Mill"
+Website:
+Street: 56 E. Spring St
+City: Williamsville
+County: Erie
+State: New York
+Zip: 14221
+x: -78.7446
+y: 42.9637
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002981
+MarketName: Central Texas Farmers Market Assoc.
+Website:
+Street: 200 S Main St.
+City: Cibilo
+County: Guadalupe
+State: Texas
+Zip: 78108
+x: -98.225
+y: 29.559
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

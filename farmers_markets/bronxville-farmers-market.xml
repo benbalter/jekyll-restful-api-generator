@@ -1,0 +1,37 @@
+---
+FMID: 1002987
+MarketName: "Bronxville Farmers' Market"
+Website: >
+  http://bronxvillechamber.com or village
+  of bronxville.com
+Street: Stone Place at Paxton Avenue
+City: Bronxville
+County: Westchester
+State: New York
+Zip: 10708
+x: -73.8378
+y: 40.94
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003651
+MarketName: Hayward Farmers Market
+Website: http://www.agriculturalinstitute.org
+Street: 777 B Street
+City: Hayward
+County: Alameda
+State: California
+Zip: 94541
+x: -119.601
+y: 37.2417
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004725
+MarketName: "Chamberlain's Farmers Market"
+Website:
+Street: 701 North Main
+City: Chamberlain
+County: Brule
+State: South Dakota
+Zip: 57325
+x: -99.3279
+y: 43.8176
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

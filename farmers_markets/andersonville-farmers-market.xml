@@ -1,0 +1,35 @@
+---
+FMID: 1001650
+MarketName: Andersonville Farmers Market
+Website: http://www.andersonville.org
+Street: 1500 W. Berwyn Ave.
+City: Chicago
+County: Cook
+State: Illinois
+Zip: 60640
+x: -87.6687
+y: 41.978
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

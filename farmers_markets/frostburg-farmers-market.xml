@@ -1,0 +1,35 @@
+---
+FMID: 2004217
+MarketName: "Frostburg Farmers' Market"
+Website:
+Street: 20 W Main Street
+City: Frostburg
+County: Allegany
+State: Maryland
+Zip: 21532
+x: -76.8194
+y: 39.0641
+Location:
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

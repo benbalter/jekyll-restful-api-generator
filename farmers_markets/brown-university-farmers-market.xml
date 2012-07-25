@@ -1,0 +1,36 @@
+---
+FMID: 1004358
+MarketName: Brown University Farmers Market
+Website: >
+  http://www.farmfresh.org/food/farmersmarkets_details.php?market=5
+Street: 111 George St
+City: Providence
+County: Providence
+State: Rhode Island
+Zip: 02906
+x: -71.4012
+y: 41.8253
+Location: University campus
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

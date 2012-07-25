@@ -1,0 +1,35 @@
+---
+FMID: 1003928
+MarketName: Glendale Certified Farmers Market
+Website: http://www.ci.glendale.ca.us
+Street: 100 Block of North Brand Boulevard
+City: Glendale, California
+County: Los Angeles
+State: California
+Zip: 91206
+x: -118.255
+y: 34.1473
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

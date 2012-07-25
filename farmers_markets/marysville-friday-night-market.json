@@ -1,0 +1,35 @@
+---
+FMID: 1002185
+MarketName: Marysville Friday Night Market
+Website: http://www.visitmarysville.com/M-FNM.htm
+Street: D St from 1st to 3rd
+City: Marysville
+County: Yuba
+State: California
+Zip: 95901
+x: -121.589
+y: 39.1369
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

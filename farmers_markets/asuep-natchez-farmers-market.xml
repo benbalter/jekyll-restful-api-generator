@@ -1,0 +1,35 @@
+---
+FMID: 1000615
+MarketName: ASUEP Natchez Farmers Market
+Website:
+Street: 199 St. Catherine Street
+City: Natchez
+County: Adams
+State: Mississippi
+Zip: 39120
+x: -91.4013
+y: 31.5589
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

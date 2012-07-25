@@ -1,0 +1,35 @@
+---
+FMID: 1004214
+MarketName: Crescent City Farmers Market
+Website: http://www.crescentcityfarmersmarket.org
+Street: 3700 Orleans Ave.
+City: New Orleans
+County: Orleans
+State: Louisiana
+Zip: 70119
+x: -90.0925
+y: 29.977
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

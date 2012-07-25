@@ -1,0 +1,35 @@
+---
+FMID: 1002223
+MarketName: "Lake Mills Farmers' Market"
+Website: http://www.lakemillsfarmersmarket.com
+Street: Commons Park
+City: Lake Mills
+County: Jefferson
+State: Wisconsin
+Zip: 53551
+x: -88.9119
+y: 43.0816
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

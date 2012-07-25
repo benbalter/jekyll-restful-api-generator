@@ -1,0 +1,37 @@
+---
+FMID: 1002748
+MarketName: Columbia Farmers Market
+Website: http://www.columbiafarmersmarket.org
+Street: 3900 Forum Blvd
+City: Columbia
+County: Boone
+State: Missouri
+Zip: 65203
+x: -92.3536
+y: 38.9088
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

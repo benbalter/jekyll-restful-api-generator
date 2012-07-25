@@ -1,0 +1,35 @@
+---
+FMID: 2000104
+MarketName: Main Street Marketplace
+Website:
+Street: 'Corner of Hampton Street & Main Street'
+City: Columbia
+County: Richland
+State: South Carolina
+Zip: 29201
+x: -81.0357
+y: 34.0054
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1006337
+MarketName: Farm Fresh Produce, Inc.
+Website: http://www.almondoutreach.org
+Street: 417 W. Larissa
+City: Jacksonville
+County: Cherokee
+State: Texas
+Zip: 75766
+x: -95.2775
+y: 31.9595
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

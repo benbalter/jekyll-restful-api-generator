@@ -1,0 +1,37 @@
+---
+FMID: 1002083
+MarketName: Manhattan Beach Farmers Market
+Website: http://www.mbfarmersmarket.com
+Street: >
+  13th Street, between Valley and
+  Morningside Drives
+City: Manhattan Beach
+County: Los Angeles
+State: California
+Zip: 90266
+x: -118.409
+y: 33.8869
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

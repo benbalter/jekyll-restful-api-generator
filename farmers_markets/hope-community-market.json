@@ -1,0 +1,35 @@
+---
+FMID: 1003138
+MarketName: Hope Community Market
+Website:
+Street: 415 Wellington Place
+City: HOpe
+County: Bonner
+State: Idaho
+Zip: 83836
+x: -116.297
+y: 48.2417
+Location: Community Center
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

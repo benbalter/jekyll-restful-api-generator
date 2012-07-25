@@ -1,0 +1,35 @@
+---
+FMID: 1003000
+MarketName: "Berea Farmer's Market"
+Website: http://www.bereafarmersmarket.com
+Street: 230 N. Main St.
+City: Berea
+County: Madison
+State: Kentucky
+Zip: 40403
+x: -84.2878
+y: 37.5756
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

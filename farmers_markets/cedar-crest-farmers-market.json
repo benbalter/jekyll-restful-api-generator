@@ -1,0 +1,35 @@
+---
+FMID: 1003796
+MarketName: "Cedar Crest Farmers' Market"
+Website:
+Street: 12144 N Hwy 14
+City: Cedar Crest
+County: Bernalillo
+State: New Mexico
+Zip: 87015
+x: -106.171
+y: 35.3826
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001160
+MarketName: "Lancaster Farmers' Market"
+Website: http://lancasterfarmersmarket.net
+Street: Centenial Park
+City: Lancaster
+County: Coos
+State: New Hampshire
+Zip: 03584
+x: -71.5706
+y: 44.4913
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1000638
+MarketName: Delano Community Farmers Market
+Website: http://www.historicdelano.com/market
+Street: 200 S. Walnut
+City: Delano
+County: Sedgwick
+State: Kansas
+Zip: 67213
+x: -97.3509
+y: 37.6825
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

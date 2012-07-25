@@ -1,0 +1,36 @@
+---
+FMID: 1005173
+MarketName: "Downtown Terre Haute Farmers' Market"
+Website: >
+  http://www.downtownterrehautefarmersmarket.com
+Street:
+City: Terre Haute
+County: Vigo
+State: Indiana
+Zip: 47807
+x: -87.4048
+y: 39.4675
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1003296
+MarketName: Asheville City Market
+Website: >
+  http://www.asapconnections.org/citymarket.html
+Street: 8 Town Square Blvd.
+City: Asheville
+County: Buncombe
+State: North Carolina
+Zip: 28803
+x: -82.5554
+y: 35.4856
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

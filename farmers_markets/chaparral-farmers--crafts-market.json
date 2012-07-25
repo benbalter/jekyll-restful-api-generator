@@ -1,0 +1,37 @@
+---
+FMID: 1004628
+MarketName: 'CHAPARRAL FARMERS & CRAFTS MARKET'
+Website:
+Street: >
+  Corner of State Line and County Line-101
+  County Line
+City: Chaparral
+County: Otero
+State: New Mexico
+Zip: 88081
+x: -106.374
+y: 32.0025
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

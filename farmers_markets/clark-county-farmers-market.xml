@@ -1,0 +1,36 @@
+---
+FMID: 1005592
+MarketName: Clark County Farmers Market
+Website: >
+  http://www.JeffMainStreet.org/events/farmers_market
+Street: 'Corner of Chestnut & Locust Streets'
+City: Jeffersonville
+County: Clark
+State: Indiana
+Zip: 47130
+x: -85.7379
+y: 38.2731
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

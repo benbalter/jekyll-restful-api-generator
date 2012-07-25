@@ -1,0 +1,35 @@
+---
+FMID: 1002269
+MarketName: Lake Placid Farmers Market
+Website: http://lakeplacidfarmersmarket.com
+Street: 17 Algonquin Drive
+City: Lake Placid
+County: Essex
+State: New York
+Zip: 12946
+x: -73.9981
+y: 44.2943
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

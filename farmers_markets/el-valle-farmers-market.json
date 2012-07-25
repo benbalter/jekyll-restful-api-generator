@@ -1,0 +1,35 @@
+---
+FMID: 1004175
+MarketName: "El Valle Farmers' Market"
+Website:
+Street: Route 3
+City: Ribera
+County: San Miguel
+State: New Mexico
+Zip:
+x: -105.395
+y: 35.2184
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

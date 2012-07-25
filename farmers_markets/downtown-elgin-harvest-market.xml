@@ -1,0 +1,35 @@
+---
+FMID: 1006402
+MarketName: Downtown Elgin Harvest Market
+Website: http://www.downtownelgin.com
+Street: 200 North Grove Avenue
+City: Elgin
+County: Kane
+State: Illinois
+Zip: 60120
+x: -88.2869
+y: 42.0409
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001305
+MarketName: "Historic Lewis County Farmer's Market"
+Website: http://lewiscountyfarmersmarket.org
+Street: Tower and Pine
+City: Centralia
+County: Lewis
+State: Washington
+Zip: 98531
+x: -122.954
+y: 46.7171
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

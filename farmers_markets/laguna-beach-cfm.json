@@ -1,0 +1,35 @@
+---
+FMID: 1002024
+MarketName: Laguna Beach CFM
+Website:
+Street: 500 Forest Ave.
+City: Laguna Beach
+County: Orange
+State: California
+Zip: 92651
+x: -117.782
+y: 33.5462
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,37 @@
+---
+FMID: 1000866
+MarketName: Columbus City Farmers Market
+Website:
+Street: >
+  25th street and Fair Oaks Mall between
+  Elder -Beerman and JC Penny outside
+City: Columbus
+County: Bartholomew
+State: Indiana
+Zip: 47201
+x: -85.9022
+y: 39.2227
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

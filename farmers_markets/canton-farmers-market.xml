@@ -1,0 +1,35 @@
+---
+FMID: 1003095
+MarketName: "Canton Farmers' Market"
+Website: http://www.cantonfarmersmarket.com
+Street: 'Cleveland Ave between 4th & 5th St N'
+City: Canton, OH
+County: Stark
+State: Ohio
+Zip: 44702
+x: -81.3777
+y: 40.7965
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

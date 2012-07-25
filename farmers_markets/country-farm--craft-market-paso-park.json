@@ -1,0 +1,35 @@
+---
+FMID: 1004093
+MarketName: 'Country Farm & Craft Market Paso Park'
+Website: http://countryfarmandcraftmarket.com
+Street: 81 Wellsona Road
+City: Paso Robles
+County: San Luis Obispo
+State: California
+Zip: 93446
+x: -120.697
+y: 35.6958
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

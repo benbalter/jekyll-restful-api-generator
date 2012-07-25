@@ -1,0 +1,35 @@
+---
+FMID: 2000131
+MarketName: Bound Brook Farmers Market
+Website:
+Street: Main St.
+City: Bound Brook
+County: Somerset
+State: New Jersey
+Zip: 08805
+x: -74.5329
+y: 40.5614
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

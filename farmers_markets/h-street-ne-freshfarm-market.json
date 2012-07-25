@@ -1,0 +1,36 @@
+---
+FMID: 1003135
+MarketName: H Street NE FRESHFARM Market
+Website: >
+  http://freshfarmmarkets.org/markets/h_street.html
+Street: 625 H Street, NE
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20002
+x: -76.997
+y: 38.9
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

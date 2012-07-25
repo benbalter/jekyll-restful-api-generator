@@ -1,0 +1,35 @@
+---
+FMID: 1001780
+MarketName: Boonville CFM
+Website:
+Street: '14040 Hwy 128- Boonville Hotel'
+City: Boonville
+County: Mendocino
+State: California
+Zip: 95415
+x: -123.368
+y: 39.0091
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

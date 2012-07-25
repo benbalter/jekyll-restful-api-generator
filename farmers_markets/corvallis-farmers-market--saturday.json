@@ -1,0 +1,35 @@
+---
+FMID: 1001400
+MarketName: "Corvallis Farmers' Market -- Saturday"
+Website: http://www.locallygrown.org
+Street: 110 SW 53rd Street
+City: Corvallis
+County: Benton
+State: Oregon
+Zip: 97333
+x: -123.312
+y: 44.5659
+Location: County public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

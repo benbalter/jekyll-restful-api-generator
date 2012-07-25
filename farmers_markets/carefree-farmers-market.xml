@@ -1,0 +1,35 @@
+---
+FMID: 1003785
+MarketName: Carefree Farmers Market
+Website: http://www.arizonafarmersmarket@q.com
+Street: 101 Easy Street
+City: Carefree
+County: Maricopa
+State: Arizona
+Zip: 85377
+x: -111.923
+y: 33.8249
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---
