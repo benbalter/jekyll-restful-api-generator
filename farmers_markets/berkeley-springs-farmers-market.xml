@@ -1,0 +1,38 @@
+---
+FMID: 1003271
+MarketName: Berkeley Springs Farmers Market
+Website: >
+  http://www.berkeleyspringsfarmersmarket.com
+Street: >
+  Fairfax Street west of Washington Street
+  (US 522)
+City: Berkeley Springs
+County: Morgan
+State: West Virginia
+Zip: 25411
+x: -78.2279
+y: 39.627
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

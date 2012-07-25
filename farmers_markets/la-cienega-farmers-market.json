@@ -1,0 +1,35 @@
+---
+FMID: 2000161
+MarketName: "La Cienega Farmers' Market"
+Website:
+Street: '1801 So La Cienega Blvd, & 18th Street'
+City: Los Angeles
+County: Los Angeles
+State: California
+Zip: 90034
+x: -118.377
+y: 34.0445
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

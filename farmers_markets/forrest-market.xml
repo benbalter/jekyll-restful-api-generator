@@ -1,0 +1,35 @@
+---
+FMID: 1006497
+MarketName: Forrest Market
+Website:
+Street: '156th & Westchester'
+City: New York City
+County: Bronx
+State: New York
+Zip: 10455
+x: -73.9053
+y: 40.8179
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

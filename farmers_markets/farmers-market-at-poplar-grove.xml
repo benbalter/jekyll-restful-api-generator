@@ -1,0 +1,35 @@
+---
+FMID: 1001920
+MarketName: Farmers Market at Poplar Grove
+Website: http://www.poplargrove.com
+Street: 10200 US Hwy 17
+City: Wilmington
+County: Pender
+State: North Carolina
+Zip: 28411
+x: -77.7673
+y: 34.3202
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

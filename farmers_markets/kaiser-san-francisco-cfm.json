@@ -1,0 +1,36 @@
+---
+FMID: 2001299
+MarketName: Kaiser San Francisco CFM
+Website: >
+  http://www.pcfma.com/marketdetail.php?market_id=10
+Street: "Geary at St. Josepth's Street"
+City: San Francisco
+County: San Francisco
+State: California
+Zip: 94102
+x: -122.441
+y: 37.783
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

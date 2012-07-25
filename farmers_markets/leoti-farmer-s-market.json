@@ -1,0 +1,35 @@
+---
+FMID: 1002448
+MarketName: "Leoti Farmer's Market"
+Website:
+Street: 108 S. 4th Street
+City: Leoti
+County: Wichita
+State: Kansas
+Zip: 67861
+x: -101.359
+y: 38.4811
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

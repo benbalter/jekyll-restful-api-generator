@@ -1,0 +1,35 @@
+---
+FMID: 1002853
+MarketName: "Conine's Country Market"
+Website: http://coninescountrymarket.com
+Street: corner of Co Rd 226 and Co Rd 257
+City: Fostoria
+County: Hancock
+State: Ohio
+Zip: 44830
+x: -83.4888
+y: 41.157
+Location: 'On a farm from: a barn, a greenhouse, a tent, a stand, etc.'
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

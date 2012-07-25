@@ -1,0 +1,35 @@
+---
+FMID: 1002757
+MarketName: Bellville Farmers Market
+Website:
+Street: 142 Park Place
+City: Bellville
+County: Richland
+State: Ohio
+Zip: 44813
+x: -82.5116
+y: 40.6198
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

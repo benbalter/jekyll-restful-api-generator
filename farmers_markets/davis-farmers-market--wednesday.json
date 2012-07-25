@@ -1,0 +1,35 @@
+---
+FMID: 1006407
+MarketName: 'Davis Farmers Market - Wednesday'
+Website:
+Street: 3rd and C Street
+City: Davis
+County: Yolo
+State: California
+Zip: 95616
+x: -121.744
+y: 38.5442
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

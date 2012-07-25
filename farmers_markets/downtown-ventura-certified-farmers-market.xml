@@ -1,0 +1,35 @@
+---
+FMID: 1004490
+MarketName: "Downtown Ventura Certified Farmers' Market"
+Website: http://vccfarmersmarkets.com
+Street: 300 Block Santa Clara Street
+City: Ventura
+County: Ventura
+State: California
+Zip: 93001
+x: -119.295
+y: 34.2794
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

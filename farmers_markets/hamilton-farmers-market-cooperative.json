@@ -1,0 +1,35 @@
+---
+FMID: 1002915
+MarketName: Hamilton Farmers Market Cooperative
+Website: http://hamiltonfarmersmarket.webs.com
+Street: 'Bedford, 2nd & 3rd Streets'
+City: Hamilton
+County: Ravalli
+State: Montana
+Zip: 59840
+x: -114.159
+y: 46.2446
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

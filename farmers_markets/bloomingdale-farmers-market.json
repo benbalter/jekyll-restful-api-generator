@@ -1,0 +1,35 @@
+---
+FMID: 1004142
+MarketName: "Bloomingdale Farmers' Market"
+Website: http://marketsandmore.net
+Street: 106 R Street NW
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20001
+x: -77.0125
+y: 38.9126
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

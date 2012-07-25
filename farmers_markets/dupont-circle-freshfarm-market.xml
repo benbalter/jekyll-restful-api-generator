@@ -1,0 +1,36 @@
+---
+FMID: 1002955
+MarketName: Dupont Circle FRESHFARM Market
+Website: >
+  http://freshfarmmarkets.org/markets/dupont_circle.html
+Street: 1500 20th Street, NW
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20036
+x: -77.0447
+y: 38.9103
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

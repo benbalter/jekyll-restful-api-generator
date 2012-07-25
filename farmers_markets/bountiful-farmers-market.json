@@ -1,0 +1,37 @@
+---
+FMID: 2002101
+MarketName: Bountiful Farmers Market
+Website:
+Street: >
+  First East and First South above Main
+  Street
+City: Bountiful
+County: Davis
+State: Utah
+Zip: 84532
+x: -111.878
+y: 40.8884
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

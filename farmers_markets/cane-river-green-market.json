@@ -1,0 +1,35 @@
+---
+FMID: 1002643
+MarketName: Cane River Green Market
+Website: http://www.canerivergreenmarket.com
+Street: Downtown Riverbank
+City: Natchitoches
+County: Natchitoches
+State: Louisiana
+Zip: 71457
+x: -93.0863
+y: 31.7607
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

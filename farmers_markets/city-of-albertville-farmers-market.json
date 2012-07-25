@@ -1,0 +1,35 @@
+---
+FMID: 1000543
+MarketName: City of Albertville Farmers Market
+Website: http://www.cityofalbertville.com
+Street: 'Main Street- downtown'
+City: Albertville
+County: Marshall
+State: Alabama
+Zip: 35950
+x: -86.2095
+y: 34.268
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

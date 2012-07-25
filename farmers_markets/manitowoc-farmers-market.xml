@@ -1,0 +1,35 @@
+---
+FMID: 1000833
+MarketName: "Manitowoc Farmers' Market"
+Website: http://www.manitowoc.org
+Street: 8th and Quay Street
+City: Manitowoc
+County: Manitowoc
+State: Wisconsin
+Zip: 54220
+x: -87.6571
+y: 44.0916
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

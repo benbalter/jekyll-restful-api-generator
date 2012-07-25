@@ -1,0 +1,3 @@
+<{{ site.record_singular }}>{% for item in page %}{% if item[0] != "layout" %}
+	<{{ item[0] | downcase }}>{{ item[1] | escape }}</{{ item[0] | downcase }}>{% endif %}{% endfor %}
+</{{ site.record_singular }}>

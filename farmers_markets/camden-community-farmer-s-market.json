@@ -1,0 +1,35 @@
+---
+FMID: 1004881
+MarketName: "Camden Community Farmer's Market"
+Website: http://www.camden-ahec.org
+Street: 1000 Atlantic Avenue
+City: Camden
+County: Camden
+State: New Jersey
+Zip: 08103
+x: -75.108
+y: 39.9286
+Location: Hospital/ health care facility grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

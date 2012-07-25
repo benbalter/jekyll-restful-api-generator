@@ -1,0 +1,35 @@
+---
+FMID: 1001733
+MarketName: "Hyde Park Farmers' Market"
+Website: http://www.hydeparkfarmersmarket.com
+Street: 3424 Edwards Road
+City: Cincinnati
+County: Hamilton
+State: Ohio
+Zip: 45208
+x: -84.4433
+y: 39.1381
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

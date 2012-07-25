@@ -1,0 +1,35 @@
+---
+FMID: 1004963
+MarketName: Florida Farmers Market
+Website:
+Street: 'N. Main Street near the Junction of Rt. 17A & Rt. 94'
+City: Florida
+County: Orange
+State: New York
+Zip: 10921
+x: -74.3579
+y: 41.3383
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

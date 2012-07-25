@@ -1,0 +1,35 @@
+---
+FMID: 1005749
+MarketName: "Greenport Farmers' Market"
+Website: http://www.greenportfarmersmarket.com
+Street: 1st and Adams Streets
+City: Greenport
+County: Suffolk
+State: New York
+Zip: 11944
+x: -72.3606
+y: 41.1028
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

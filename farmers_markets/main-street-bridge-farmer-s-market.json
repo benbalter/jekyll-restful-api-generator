@@ -1,0 +1,35 @@
+---
+FMID: 1002845
+MarketName: "Main Street Bridge Farmer's Market"
+Website: http://downtownnashua.org/?page_id=58
+Street: 53-75 Main St.
+City: Nashua
+County: Hillsborough
+State: New Hampshire
+Zip: 03060
+x: -71.4664
+y: 42.7635
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

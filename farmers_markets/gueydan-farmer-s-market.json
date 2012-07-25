@@ -1,0 +1,35 @@
+---
+FMID: 1003127
+MarketName: "Gueydan Farmer's Market"
+Website: http://www.gueydanfarmersmarket.com
+Street: 600 Main St.
+City: Gueydan
+County: Vermilion
+State: Louisiana
+Zip: 70542
+x: -92.508
+y: 30.0255
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

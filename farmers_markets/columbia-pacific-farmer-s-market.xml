@@ -1,0 +1,36 @@
+---
+FMID: 1005225
+MarketName: "Columbia-Pacific Farmer's Market"
+Website: >
+  http://www.longbeachwa.gov/farmersmarket/
+Street:
+City: Long Beach
+County: Pacific
+State: Washington
+Zip: 98631
+x: -124.054
+y: 46.35
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

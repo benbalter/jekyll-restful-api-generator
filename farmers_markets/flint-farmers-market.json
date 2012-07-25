@@ -1,0 +1,35 @@
+---
+FMID: 1001593
+MarketName: Flint Farmers; Market
+Website: http://www.flintfarmersmarket.com
+Street: 420 East Boulevard Dr.
+City: Flint
+County: Genesee
+State: Michigan
+Zip: 48503
+x: -83.6858
+y: 43.0245
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

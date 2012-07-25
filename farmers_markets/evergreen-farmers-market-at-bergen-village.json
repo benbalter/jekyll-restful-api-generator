@@ -1,0 +1,37 @@
+---
+FMID: 1005300
+MarketName: >
+  Evergreen Farmers Market at Bergen
+  Village
+Website: http://coloradooutdoormarkets.com
+Street: The Bergan Village Shopping Center
+City: Evergreen
+County: Jefferson
+State: Colorado
+Zip:
+x: -105.358
+y: 39.6908
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003923
+MarketName: Main Street Market
+Website: http://www.themarketinyork.blogspot.com
+Street: N Congress St
+City: York
+County: York
+State: South Carolina
+Zip: 29745
+x: -81.2412
+y: 34.9996
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

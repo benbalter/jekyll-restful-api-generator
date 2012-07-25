@@ -1,0 +1,35 @@
+---
+FMID: 1001470
+MarketName: Brown County Farmers Market
+Website:
+Street: Rte 24 W/Quincy Road
+City: Mt. Sterling
+County: Brown
+State: Illinois
+Zip: 62353
+x: -90.7731
+y: 39.9878
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,37 @@
+---
+FMID: 1001333
+MarketName: >
+  Blackstone River State Park Farmers
+  Market
+Website:
+Street: 'Visitor Center - Route 295 North'
+City: Lincoln
+County: Providence
+State: Rhode Island
+Zip: 02865
+x: -71.4631
+y: 41.941
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001721
+MarketName: "Hollywood Farmers' Market"
+Website: http://www.farmernet.com
+Street: '1500 Ivar Ave. & Selma Ave'
+City: Los Angeles
+County: Los Angeles
+State: California
+Zip: 90028
+x: -118.328
+y: 34.0999
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

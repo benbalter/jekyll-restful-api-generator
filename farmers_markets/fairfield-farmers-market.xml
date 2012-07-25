@@ -1,0 +1,35 @@
+---
+FMID: 1006212
+MarketName: "Fairfield Farmers' Market"
+Website:
+Street: 81 Main Street
+City: Fairfield
+County: Somerset
+State: Maine
+Zip: 04937
+x: -69.6001
+y: 44.5834
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

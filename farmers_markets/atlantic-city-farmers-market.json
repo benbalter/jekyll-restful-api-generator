@@ -1,0 +1,35 @@
+---
+FMID: 1001743
+MarketName: "Atlantic City Farmers' Market"
+Website: http://www.acsid.com
+Street: '1200 Atlantic Avenue between North & South Carolina Avenues'
+City: Atlantic City
+County: Atlantic
+State: New Jersey
+Zip: 08401
+x: -74.4256
+y: 39.363
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

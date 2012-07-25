@@ -1,0 +1,35 @@
+---
+FMID: 1000528
+MarketName: Abbeville Farmers Market
+Website:
+Street: 118 Trinity Street at Livery Stable
+City: Abbeville
+County: Abbeville
+State: South Carolina
+Zip: 29620
+x: -82.3811
+y: 34.176
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

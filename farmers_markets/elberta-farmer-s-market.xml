@@ -1,0 +1,35 @@
+---
+FMID: 1002352
+MarketName: "Elberta Farmer's Market"
+Website:
+Street: Highway 98
+City: Elberta
+County: Baldwin
+State: Alabama
+Zip: 36530
+x: -87.5991
+y: 30.414
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

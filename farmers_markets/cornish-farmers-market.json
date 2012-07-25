@@ -1,0 +1,35 @@
+---
+FMID: 2001152
+MarketName: "Cornish Farmers' Market"
+Website:
+Street: Rte. 120
+City: Cornish Flat
+County: Sullivan
+State: New Hampshire
+Zip:
+x: -72.2766
+y: 43.5074
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

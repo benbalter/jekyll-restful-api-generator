@@ -1,0 +1,35 @@
+---
+FMID: 1003199
+MarketName: Macedon Farmers Market
+Website:
+Street: 32 Main St.
+City: Macedon
+County: Schuyler
+State: New York
+Zip: 14502
+x: -76.8752
+y: 42.3938
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

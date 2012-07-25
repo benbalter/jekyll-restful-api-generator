@@ -1,0 +1,35 @@
+---
+FMID: 1002242
+MarketName: "Indian Valley Farmers' Market"
+Website:
+Street: Main Street and Penn Avenue
+City: Telford
+County: Montgomery
+State: Pennsylvania
+Zip: 18969
+x: -75.329
+y: 40.3252
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

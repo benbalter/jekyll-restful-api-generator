@@ -1,0 +1,35 @@
+---
+FMID: 1004303
+MarketName: Lincoln City Farmers Market
+Website: http://www.lincolncityfarmersmarket.org
+Street: 540 NE Highway 101
+City: Lincoln City
+County: Lincoln
+State: Oregon
+Zip: 97366
+x: -124.015
+y: 44.97
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

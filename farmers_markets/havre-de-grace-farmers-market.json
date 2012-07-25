@@ -1,0 +1,35 @@
+---
+FMID: 1004456
+MarketName: "Havre de Grace Farmers' Market"
+Website:
+Street: Pennington Avenue
+City: Havre de Grace
+County: Harford
+State: Maryland
+Zip: 21078
+x: -76.0907
+y: 39.5488
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

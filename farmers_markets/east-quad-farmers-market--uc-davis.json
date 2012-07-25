@@ -1,0 +1,35 @@
+---
+FMID: 1006408
+MarketName: 'East Quad Farmers Market - UC Davis'
+Website:
+Street: 1 Shields Ave
+City: Davis
+County: Yolo
+State: California
+Zip: 95616
+x: -121.755
+y: 38.5398
+Location: University campus
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

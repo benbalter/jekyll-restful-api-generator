@@ -1,0 +1,35 @@
+---
+FMID: 2003007
+MarketName: Gaylord Farmers Market
+Website:
+Street: 5th and Main Street
+City: Gaylord
+County: Sibley
+State: Minnesota
+Zip:
+x: -94.2222
+y: 44.5529
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

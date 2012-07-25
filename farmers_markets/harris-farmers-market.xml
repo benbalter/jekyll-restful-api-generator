@@ -1,0 +1,35 @@
+---
+FMID: 1005855
+MarketName: Harris Farmers Market
+Website: http://www.harrisfarmersmarket.com
+Street: 43970 Ginger Ave
+City: Harris
+County: Chisago
+State: Minnesota
+Zip: 55032
+x: -92.9757
+y: 45.586
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

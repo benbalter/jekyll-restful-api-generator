@@ -1,0 +1,35 @@
+---
+FMID: 1003043
+MarketName: Berkshire Area Farmers Market
+Website:
+Street:
+City: Lanesboro
+County: Berkshire
+State: Massachusetts
+Zip:
+x: -71.8026
+y: 42.2568
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

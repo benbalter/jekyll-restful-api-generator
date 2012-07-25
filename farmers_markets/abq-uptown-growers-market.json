@@ -1,0 +1,35 @@
+---
+FMID: 1003753
+MarketName: "ABQ Uptown Growers' Market"
+Website: http://www.abquptowngrowersmarket.org
+Street: 'Corner of Uptown Blvd & Uptown Loop'
+City: Albququerque
+County: Bernalillo
+State: New Mexico
+Zip:
+x: -106.572
+y: 35.1037
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

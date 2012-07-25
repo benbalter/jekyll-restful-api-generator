@@ -1,0 +1,35 @@
+---
+FMID: 1000625
+MarketName: Madison City Farmers Market
+Website: http://www.madisoncityfarmersmarket.com
+Street: 1282 Hughes Road
+City: Madison
+County: Madison
+State: Alabama
+Zip: 35758
+x: -86.7415
+y: 34.7399
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

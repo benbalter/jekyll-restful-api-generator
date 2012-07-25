@@ -1,0 +1,35 @@
+---
+FMID: 1004530
+MarketName: Hastings Farmers Market
+Website: http://www.hastingsfarmersmarket.org
+Street: 44 Main St.
+City: Hastings on Hudson
+County: Westchester
+State: New York
+Zip: 10706
+x: -73.881
+y: 40.9942
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

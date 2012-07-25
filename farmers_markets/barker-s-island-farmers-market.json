@@ -1,0 +1,35 @@
+---
+FMID: 1002646
+MarketName: "Barker's Island Farmers Market"
+Website: http://barkersislandfarmersmarket.com
+Street: 'Highway 2\53 & Marina Drive'
+City: Superior
+County: Douglas
+State: Wisconsin
+Zip: 54880
+x: -92.0621
+y: 46.7222
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

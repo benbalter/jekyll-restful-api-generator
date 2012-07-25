@@ -1,0 +1,35 @@
+---
+FMID: 1005969
+MarketName: Manteca Farmers Market
+Website: http://www.visitmanteca.org
+Street: Orchard Promenade/ Bass Pro Outlets
+City: Manteca
+County: San Joaquin
+State: California
+Zip: 95337
+x:
+y:
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

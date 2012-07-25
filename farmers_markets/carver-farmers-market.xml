@@ -1,0 +1,35 @@
+---
+FMID: 1003046
+MarketName: "Carver Farmers' Market"
+Website: http://carverfarmersmarket.org
+Street: 108 Main St.
+City: Carver
+County: Plymouth
+State: Massachusetts
+Zip: 02330
+x: -70.7685
+y: 41.889
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

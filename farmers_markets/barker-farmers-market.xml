@@ -1,0 +1,35 @@
+---
+FMID: 1001153
+MarketName: Barker Farmers Market
+Website:
+Street: 'Village Park, Main & Quaker Rd, Rt. 148N'
+City: Barker
+County: Niagara
+State: New York
+Zip: 14012
+x: -78.5546
+y: 43.33
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

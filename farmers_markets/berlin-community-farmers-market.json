@@ -1,0 +1,35 @@
+---
+FMID: 1005490
+MarketName: Berlin Community Farmers Market
+Website:
+Street: S Capron Street parking lot
+City: Berlin
+County: Green Lake
+State: Wisconsin
+Zip: 54923
+x: -88.9495
+y: 43.967
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

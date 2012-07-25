@@ -1,0 +1,37 @@
+---
+FMID: 2002052
+MarketName: Chestnut Hill Farmers Market
+Website: http://www.farmtocity.org
+Street: >
+  Corner of Germantown and Southampton
+  Avenues
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19147
+x: -75.2032
+y: 40.0735
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

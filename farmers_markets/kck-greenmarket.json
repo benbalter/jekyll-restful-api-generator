@@ -1,0 +1,35 @@
+---
+FMID: 1004474
+MarketName: KCK Greenmarket
+Website: http://www.facebook.com/kckgreenmarket
+Street: 1900 n 3rd Street
+City: Kansas City
+County: Wyandotte
+State: Kansas
+Zip: 66101
+x: -94.6161
+y: 39.1243
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

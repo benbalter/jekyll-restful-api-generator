@@ -1,0 +1,36 @@
+---
+FMID: 1001750
+MarketName: "Menasha's Farm Fresh Market"
+Website: >
+  http://www.cityofmenasha-wi.gov/content/departments/city_clerk/Farmers_Market/
+Street: 140 Main St.
+City: Menasha
+County: Winnebago
+State: Wisconsin
+Zip: 54952
+x: -88.4499
+y: 44.2007
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

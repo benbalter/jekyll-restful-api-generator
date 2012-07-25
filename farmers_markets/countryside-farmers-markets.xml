@@ -1,0 +1,35 @@
+---
+FMID: 1004488
+MarketName: "Countryside Farmers' Markets"
+Website: http://www.cvcountryside.org
+Street: 'W Market St. & Conger Ave.'
+City: Akron
+County: Summit
+State: Ohio
+Zip: 44303
+x: -81.5445
+y: 41.097
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003949
+MarketName: "Crosstown Freeway Farmers' Market"
+Website: http://www.stocktonfarmersmarket.org
+Street: 'San Joaquin and El Dorado Streets - Under the Crosstown Freeway(FWY 4)'
+City: Stockton
+County: San Joaquin
+State: California
+Zip: 95202
+x: -121.288
+y: 37.9574
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

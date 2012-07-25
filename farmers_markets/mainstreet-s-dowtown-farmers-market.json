@@ -1,0 +1,35 @@
+---
+FMID: 1002375
+MarketName: "MainStreet's Dowtown Farmers Market"
+Website:
+Street: 8 Broad Street
+City: Alexander City
+County: Tallapoosa
+State: Alabama
+Zip: 35010
+x: -85.9547
+y: 32.9446
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

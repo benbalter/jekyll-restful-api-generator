@@ -1,0 +1,35 @@
+---
+FMID: 1005038
+MarketName: Deep Creek Lake Farmers Market
+Website: http://dclfarmersmarket.blogspot.com
+Street: 15 Visitors Center Drive
+City: McHenry
+County: Garrett
+State: Maryland
+Zip: 21541
+x: -79.3586
+y: 39.5616
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

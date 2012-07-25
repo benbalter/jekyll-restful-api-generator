@@ -1,0 +1,35 @@
+---
+FMID: 1005917
+MarketName: Fondy Farmers Market
+Website: http://www.fondymarket.org
+Street: 2200 W. Fond du Lac Ave.
+City: Milwaukee
+County: Milwaukee
+State: Wisconsin
+Zip: 53206
+x: -87.9399
+y: 43.0615
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

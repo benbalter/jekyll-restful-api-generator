@@ -1,0 +1,35 @@
+---
+FMID: 1005608
+MarketName: East Los Angeles Farmers Market
+Website: http://www.velasfarmersmarkets.org
+Street: 4801 East 3rd Street
+City: Los Angeles
+County: Los Angeles
+State: California
+Zip: 90022
+x: -118.161
+y: 34.0335
+Location: County public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

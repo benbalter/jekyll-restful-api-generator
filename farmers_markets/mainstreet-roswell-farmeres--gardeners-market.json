@@ -1,0 +1,35 @@
+---
+FMID: 1004176
+MarketName: "MainStreet Roswell Farmeres' & Gardeners' Market"
+Website:
+Street: 400 N Virginia
+City: Roswell
+County: Chaves
+State: New Mexico
+Zip:
+x: -104.521
+y: 33.3971
+Location: County public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

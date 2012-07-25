@@ -1,0 +1,35 @@
+---
+FMID: 1002026
+MarketName: laguna niguel CFM
+Website:
+Street: 27241 La Paz
+City: Laguna Niguel
+County: Orange
+State: California
+Zip: 92677
+x: -117.708
+y: 33.5685
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

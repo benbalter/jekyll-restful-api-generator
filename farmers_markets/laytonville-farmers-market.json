@@ -1,0 +1,35 @@
+---
+FMID: 1003821
+MarketName: "Laytonville Farmers' Market"
+Website: http://MCFARm.org
+Street: 44850 Hwy. 101
+City: laytonville
+County: Mendocino
+State: California
+Zip: 95454
+x: -123.482
+y: 39.6859
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

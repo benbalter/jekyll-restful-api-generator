@@ -1,0 +1,35 @@
+---
+FMID: 1004374
+MarketName: "Forest Farmer's Market"
+Website:
+Street: 102 W. Lima St.
+City: Forest
+County: Hardin
+State: Ohio
+Zip: 45843
+x: -83.5121
+y: 40.8019
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

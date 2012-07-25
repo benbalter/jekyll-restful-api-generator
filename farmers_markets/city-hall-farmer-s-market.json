@@ -1,0 +1,35 @@
+---
+FMID: 1000576
+MarketName: "City Hall Farmer's Market"
+Website:
+Street: 700 Main Street
+City: Tell City
+County: Perry
+State: Indiana
+Zip: 47586
+x: -86.769
+y: 37.9517
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

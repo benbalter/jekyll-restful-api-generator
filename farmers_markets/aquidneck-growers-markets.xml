@@ -1,0 +1,35 @@
+---
+FMID: 1004811
+MarketName: Aquidneck Growers Markets
+Website: http://www.aquidneckgrowersmarket.org
+Street: 909 East Main
+City: Middletown
+County: Newport
+State: Rhode Island
+Zip: 02842
+x: -71.2725
+y: 41.5291
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

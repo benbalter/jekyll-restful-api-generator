@@ -1,0 +1,38 @@
+---
+FMID: 1000956
+MarketName: Champlain Islands Farmers Market
+Website: >
+  http://www.champlainislandsfarmersmarket.weebly.com
+Street: "St. Rose Church; St. Joseph's Church (S. Hero)"
+City: South Hero
+County: Grand Isle
+State: Vermont
+Zip: 05486
+x: -73.3224
+y: 44.6618
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

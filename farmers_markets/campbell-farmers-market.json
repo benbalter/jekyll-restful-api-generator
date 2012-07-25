@@ -1,0 +1,35 @@
+---
+FMID: 1005932
+MarketName: "Campbell Farmers' Market"
+Website: http://www.urbanvillageonline.com/
+Street: Campbell Avenue at Central Ave.
+City: Campbell
+County: Santa Clara
+State: California
+Zip: 95008
+x: -119.601
+y: 37.2417
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

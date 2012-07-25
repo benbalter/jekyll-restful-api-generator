@@ -1,0 +1,35 @@
+---
+FMID: 1005709
+MarketName: "Burbank Campus Farmers' Market"
+Website: http://www.fitchburgfarmersmarket.com
+Street: 275 Nichols Road
+City: Fitchburg
+County: Worcester
+State: Massachusetts
+Zip: 01420
+x: -71.8064
+y: 42.5979
+Location: Hospital/ health care facility grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004185
+MarketName: Albert Lea Farmers Market
+Website: http://albertleafarmersmarket.com
+Street: 2510 Bridge Ave
+City: Albert Lea
+County: Freeborn
+State: Minnesota
+Zip: 56007
+x: -93.3588
+y: 43.6819
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

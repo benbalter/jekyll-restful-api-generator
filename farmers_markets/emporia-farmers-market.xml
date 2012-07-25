@@ -1,0 +1,35 @@
+---
+FMID: 1001843
+MarketName: Emporia Farmers Market
+Website: http://www.emporiafarmersmarket.org
+Street: '8th Ave. & Merchant St.'
+City: Emporia
+County: Lyon
+State: Kansas
+Zip: 66801
+x: -96.1809
+y: 38.4067
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

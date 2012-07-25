@@ -1,0 +1,35 @@
+---
+FMID: 2001192
+MarketName: "Butler County Farmers' Market"
+Website:
+Street: 109 West G.L. Smith Street
+City: Morgantown
+County: Butler
+State: Kentucky
+Zip: 42261
+x: -86.6842
+y: 37.2257
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

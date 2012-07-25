@@ -1,0 +1,35 @@
+---
+FMID: 1002051
+MarketName: "Farmers' Market at Sandpoint"
+Website: http://www.sandpointfarmersmarket.com
+Street: 'Farmin Park, 3rd & Oak Street'
+City: Sandpoint
+County: Bonner
+State: Idaho
+Zip: 83864
+x: -116.551
+y: 48.2751
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

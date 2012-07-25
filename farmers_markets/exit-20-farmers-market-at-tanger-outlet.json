@@ -1,0 +1,35 @@
+---
+FMID: 1000726
+MarketName: "Exit 20 Farmers' Market at Tanger Outlet"
+Website:
+Street: Tanger Outlets 120 Laconia Rd
+City: Tilton
+County: Belknap
+State: New Hampshire
+Zip: 03276
+x: -71.5619
+y: 43.4582
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

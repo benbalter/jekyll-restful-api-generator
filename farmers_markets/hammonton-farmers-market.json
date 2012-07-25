@@ -1,0 +1,35 @@
+---
+FMID: 1005211
+MarketName: "Hammonton Farmers' Market"
+Website: http://www.hammontonfarmersmarket.org
+Street: Bellevue Avenue and Central Avenue
+City: Hammonton
+County: Atlantic
+State: New Jersey
+Zip: 08037
+x: -74.8019
+y: 39.6364
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

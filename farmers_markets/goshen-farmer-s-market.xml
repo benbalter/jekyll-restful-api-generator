@@ -1,0 +1,35 @@
+---
+FMID: 1000937
+MarketName: "Goshen Farmer's Market"
+Website: http://info@goshenfarmersmarket.org
+Street: 212 W. Washington St.
+City: Goshen
+County: Elkhart
+State: Indiana
+Zip: 46526
+x: -85.8373
+y: 41.5846
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

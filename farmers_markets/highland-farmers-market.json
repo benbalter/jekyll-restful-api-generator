@@ -1,0 +1,35 @@
+---
+FMID: 1002927
+MarketName: "Highland Farmers' Market"
+Website: http://thehighlandcenter.org
+Street: 61 Highland Center Drive
+City: Monterey
+County: Highland
+State: Virginia
+Zip: 24465
+x: -79.5861
+y: 38.4091
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

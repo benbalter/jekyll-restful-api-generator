@@ -1,0 +1,37 @@
+---
+FMID: 1005194
+MarketName: Grace Community Farmers Market
+Website:
+Street: 5102 Old National Pike
+City: Frederick
+County: Frederick
+State: Maryland
+Zip: 21702
+x: -77.4918
+y: 39.4237
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

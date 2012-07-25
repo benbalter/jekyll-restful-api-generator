@@ -1,0 +1,35 @@
+---
+FMID: 1003450
+MarketName: Antigo Farmers Market
+Website: http://www.antigomarket.com
+Street: 700 Superior St
+City: Antigo
+County: Langlade
+State: Wisconsin
+Zip: 54409
+x: -89.1523
+y: 45.1419
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

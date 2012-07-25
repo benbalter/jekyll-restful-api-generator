@@ -1,0 +1,37 @@
+---
+FMID: 2000123
+MarketName: Mattapan Farmers Market
+Website: http://www.mattapanfoodandfitness.org
+Street: >
+  Church of the Holy Sprit Parking Lot,
+  525 River St.
+City: Boston
+County: Suffolk
+State: Massachusetts
+Zip: 02118
+x: -71.0987
+y: 42.2593
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

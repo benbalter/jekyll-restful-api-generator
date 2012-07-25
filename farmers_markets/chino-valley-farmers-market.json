@@ -1,0 +1,35 @@
+---
+FMID: 1003231
+MarketName: Chino Valley Farmers Market
+Website: http://www.prescottfarmersmarket.org
+Street: 1667 S. Highway 89
+City: Chino Valley
+County: Yavapai
+State: Arizona
+Zip: 86323
+x: -112.454
+y: 34.7214
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

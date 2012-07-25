@@ -1,0 +1,35 @@
+---
+FMID: 1003610
+MarketName: Frankenmuth Farmers Market
+Website: http://www.frankenmuthfarmersmarket.org
+Street: 580 North Main Street
+City: Frankenmuth
+County: Saginaw
+State: Michigan
+Zip: 48734
+x: -83.7389
+y: 43.3414
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

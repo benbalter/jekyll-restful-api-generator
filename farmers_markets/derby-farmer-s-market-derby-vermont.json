@@ -1,0 +1,35 @@
+---
+FMID: 1005891
+MarketName: "Derby Farmer's Market, Derby Vermont"
+Website: http://Derbyfarmersmarket.org
+Street: Route 5
+City: Derby
+County: Orleans
+State: Vermont
+Zip: 05855
+x:
+y:
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

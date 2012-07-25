@@ -1,0 +1,35 @@
+---
+FMID: 1002859
+MarketName: Hartman’s Heritage Community Market
+Website:
+Street: 20000 Jackson Drive
+City: Independence
+County: Jackson
+State: Missouri
+Zip:
+x: -94.3416
+y: 39.0434
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002323
+MarketName: City of Grayling Farm Market
+Website: http://www.cityofgrayling.org
+Street: City Park 213 N. James Street
+City: Grayling
+County: Crawford
+State: Michigan
+Zip: 49738
+x: -84.7159
+y: 44.6624
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

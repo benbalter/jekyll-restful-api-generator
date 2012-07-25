@@ -1,0 +1,37 @@
+---
+FMID: 1001227
+MarketName: Manhattan Farmers Market
+Website:
+Street: >
+  Downtown Manhattan in Railroad Park on
+  West Main
+City: Manhattan
+County: Gallatin
+State: Montana
+Zip: 59741
+x: -111.333
+y: 45.8568
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

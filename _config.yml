@@ -1,0 +1,8 @@
+record_singular: farmers_market #singular name of record
+record_plural: farmers_markets #plural name of record
+name_field: MarketName #YAML field in the file to use as the base of the filename
+
+#no need to edit below this line
+lcb: "{"
+rcb: "}"
+exclude: [php, raw] 

@@ -1,0 +1,35 @@
+---
+FMID: 2000360
+MarketName: "Castleton Village Farmers' Market"
+Website:
+Street: Main Street
+City: Castleton
+County: Rutland
+State: Vermont
+Zip: 05735
+x: -73.1779
+y: 43.6116
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

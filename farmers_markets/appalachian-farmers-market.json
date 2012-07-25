@@ -1,0 +1,37 @@
+---
+FMID: 1001971
+MarketName: "Appalachian Farmers' Market"
+Website: http://appfarmersmarket.com
+Street: >
+  Intersection of Fair Street and Lakeview
+  Drive
+City: Gray
+County: Washington
+State: Tennessee
+Zip: 37615
+x: -82.4819
+y: 36.4183
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

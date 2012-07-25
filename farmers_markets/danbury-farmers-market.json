@@ -1,0 +1,35 @@
+---
+FMID: 1002804
+MarketName: "Danbury Farmers' Market"
+Website: http://www.citycenterdanbury.com
+Street: Kennedy Avenue
+City: Danbury
+County: Fairfield
+State: Connecticut
+Zip: 06810
+x: -73.4551
+y: 41.3965
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

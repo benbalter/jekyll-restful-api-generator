@@ -1,0 +1,37 @@
+---
+FMID: 1003284
+MarketName: Hope Street Farmers Market
+Website: http://www.hopestreetmarket.com
+Street: >
+  Lippitt Park at Hope Street and
+  Blackstone Boulevard
+City: Providence
+County: Providence
+State: Rhode Island
+Zip:
+x: -71.3914
+y: 41.8554
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

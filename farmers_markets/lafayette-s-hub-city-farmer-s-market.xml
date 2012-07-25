@@ -1,0 +1,35 @@
+---
+FMID: 1000894
+MarketName: "Lafayette's Hub City Farmer's Market"
+Website: http://lafayettehubcitymarket.com
+Street: 427 Heymann Blvd
+City: Lafayette
+County: Lafayette
+State: Louisiana
+Zip: 70503
+x: -92.0156
+y: 30.2036
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

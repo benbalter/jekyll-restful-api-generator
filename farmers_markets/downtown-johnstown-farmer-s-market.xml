@@ -1,0 +1,35 @@
+---
+FMID: 1001299
+MarketName: "Downtown Johnstown Farmer's Market"
+Website: http://www.cityofjohnstownpa.net
+Street: Main Street
+City: Johnstown
+County: Cambria
+State: Pennsylvania
+Zip: 15901
+x: -78.918
+y: 40.3252
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1005276
+MarketName: Imperial Beach Certified Farmers Market
+Website: >
+  http://www.imperialbeachfarmersmarket.org
+Street: 10 Evergreen Ave.(Pier Plaza)
+City: Imperial Beach
+County: San Diego
+State: California
+Zip: 91932
+x: -117.132
+y: 32.5796
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1004392
+MarketName: Guernsey County Farmers Market
+Website: >
+  http://www.guernseycountyfarmersmarket.com
+Street: 801 Wheeling Avenue
+City: Cambridge
+County: Guernsey
+State: Ohio
+Zip: 43725
+x: -81.59
+y: 40.0248
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

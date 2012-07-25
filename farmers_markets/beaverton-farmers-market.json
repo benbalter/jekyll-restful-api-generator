@@ -1,0 +1,35 @@
+---
+FMID: 1001511
+MarketName: Beaverton Farmers Market
+Website: http://www.beavertonfarmersmarket.com
+Street: Hall Blvd.
+City: Beaverton
+County: Washington
+State: Oregon
+Zip: 97075
+x: -123.098
+y: 45.5601
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

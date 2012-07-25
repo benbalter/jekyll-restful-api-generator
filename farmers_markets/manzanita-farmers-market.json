@@ -1,0 +1,35 @@
+---
+FMID: 1001921
+MarketName: Manzanita Farmers Market
+Website: http://www.manzanitafarmersmarket.com
+Street: 467 Laneda Ave.
+City: Manzanita
+County: Tillamook
+State: Oregon
+Zip: 97130
+x: -123.934
+y: 45.7191
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

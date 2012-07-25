@@ -1,0 +1,36 @@
+---
+FMID: 1001175
+MarketName: El Centro de Laredo Farmers Market
+Website: >
+  http://www.laredomainstreet.org/farmersmarket
+Street: 800 Salinas Ave. at Jarvis Plaza
+City: Laredo
+County: Webb
+State: Texas
+Zip: 78040
+x: -99.5085
+y: 27.5067
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

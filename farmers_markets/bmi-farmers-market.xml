@@ -1,0 +1,35 @@
+---
+FMID: 1003591
+MarketName: "BMI Farmers' Market"
+Website: "http://www.thebmi.org/page/bmi_farmers'_market"
+Street: 1415 Key Highway
+City: Baltimore
+County: Baltimore City
+State: Maryland
+Zip: 21230
+x: -76.6012
+y: 39.2741
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

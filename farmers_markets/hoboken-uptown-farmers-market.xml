@@ -1,0 +1,35 @@
+---
+FMID: 1005871
+MarketName: "Hoboken Uptown Farmers' Market"
+Website: http://hobokenfarmersmarket.com
+Street:
+City: Hoboken
+County: Hudson
+State: New Jersey
+Zip: 07030
+x:
+y:
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

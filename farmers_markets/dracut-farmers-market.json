@@ -1,0 +1,37 @@
+---
+FMID: 1001079
+MarketName: Dracut Farmers Market
+Website:
+Street: >
+  Dracut Historical Society, 1660 Lakeview
+  Ave.
+City: Dracut
+County: Middlesex
+State: Massachusetts
+Zip: 01826
+x: -71.3363
+y: 42.6761
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

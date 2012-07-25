@@ -1,0 +1,35 @@
+---
+FMID: 1002197
+MarketName: "Lyndonville Farmers' Market"
+Website: http://www.lyndonfarmersmarket.com
+Street: Tom Breslin Community Center
+City: Lyndonville
+County: Caledonia
+State: Vermont
+Zip: 05851
+x: -72.003
+y: 44.5392
+Location: Community Center
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001350
+MarketName: "Davenport Farmers' Market"
+Website: http://mvgrowers.com
+Street: 320 W. Kimberly Rd.
+City: Davenport
+County: Scott
+State: Iowa
+Zip: 52806
+x: -90.5709
+y: 41.5632
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001371
+MarketName: Broad St. Farmers Market
+Website: http://www.farmfresh.org/markets
+Street: 807 Broad St.
+City: Providence
+County: Providence
+State: Rhode Island
+Zip: 02907
+x: -71.4193
+y: 41.8018
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

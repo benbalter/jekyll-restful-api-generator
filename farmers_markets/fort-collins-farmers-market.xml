@@ -1,0 +1,35 @@
+---
+FMID: 1002294
+MarketName: Fort Collins Farmers Market
+Website: http://www.fortcollinsfm.com
+Street: 3133 N Garfield Ave.
+City: Loveland
+County: Larimer
+State: Colorado
+Zip: 80538
+x: -105.079
+y: 40.4252
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

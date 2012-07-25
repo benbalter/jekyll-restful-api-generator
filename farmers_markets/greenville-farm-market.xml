@@ -1,0 +1,35 @@
+---
+FMID: 1000525
+MarketName: Greenville Farm Market
+Website: http://www.greenvillemi.org
+Street: West Washington at Veterans Park
+City: Greenville
+County: Montcalm
+State: Michigan
+Zip: 48838
+x: -85.2553
+y: 43.1764
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

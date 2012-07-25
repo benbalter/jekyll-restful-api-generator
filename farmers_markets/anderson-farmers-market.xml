@@ -1,0 +1,35 @@
+---
+FMID: 1000521
+MarketName: "Anderson Farmers' Market"
+Website: http://www.andersonfarmersmarket.org
+Street: 7832 Five Mile Road
+City: Anderson Township
+County: Hamilton
+State: Ohio
+Zip: 45230
+x: -84.3512
+y: 39.0783
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

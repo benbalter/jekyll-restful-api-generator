@@ -1,0 +1,35 @@
+---
+FMID: 1001039
+MarketName: Fountain Inn Farmers Market
+Website: http://www.fountaininn.org/community
+Street: 102 Depot Street
+City: Fountain Inn
+County: Greenville
+State: South Carolina
+Zip: 29644
+x: -82.1996
+y: 34.6924
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

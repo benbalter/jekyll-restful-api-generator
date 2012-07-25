@@ -1,0 +1,36 @@
+---
+FMID: 1004355
+MarketName: "College of San Mateo Certified Farmers' Market"
+Website: >
+  http://pcfma.com/market_home.php?market_id=15
+Street: 1700 W. Hillsdale Blvd.
+City: San Mateo
+County: San Mateo
+State: California
+Zip: 94402
+x: -122.335
+y: 37.5339
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2000182
+MarketName: Grayslake Farmers Market
+Website: http://www.grayslakefarmersmarket.com
+Street: 147 Center Street
+City: Grayslake
+County: Lake
+State: Illinois
+Zip: 60030
+x: -88.0407
+y: 42.3443
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

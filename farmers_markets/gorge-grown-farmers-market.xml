@@ -1,0 +1,35 @@
+---
+FMID: 1000745
+MarketName: "Gorge Grown Farmers' Market"
+Website: http://www.gorgegrown.org
+Street: 1602 May St.
+City: Hood River
+County: Hood River
+State: Oregon
+Zip: 97031
+x: -121.528
+y: 45.7045
+Location: Elementary/ high school campus
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

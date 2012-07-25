@@ -1,0 +1,35 @@
+---
+FMID: 1001724
+MarketName: "Farmers' Market at the Garden"
+Website: http://www.memphisbotanicgarden.com
+Street: 750 Cherry Road
+City: Memphis
+County: Shelby
+State: Tennessee
+Zip: 38117
+x: -89.9183
+y: 35.1101
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

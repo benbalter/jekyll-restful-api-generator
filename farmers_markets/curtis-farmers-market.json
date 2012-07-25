@@ -1,0 +1,35 @@
+---
+FMID: 2001945
+MarketName: Curtis Farmers Market
+Website:
+Street: 'Highway 231 & Center Avenue'
+City: Curtis
+County: Frontier
+State: Nebraska
+Zip: 69025
+x: -100.515
+y: 40.6311
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

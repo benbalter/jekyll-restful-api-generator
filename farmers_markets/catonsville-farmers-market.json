@@ -1,0 +1,35 @@
+---
+FMID: 1001430
+MarketName: Catonsville Farmers Market
+Website:
+Street: 106 Bloomsbury Avenue
+City: Catonsville
+County: Baltimore
+State: Maryland
+Zip: 21228
+x: -76.7313
+y: 39.268
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

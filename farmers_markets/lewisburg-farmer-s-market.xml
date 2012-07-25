@@ -1,0 +1,35 @@
+---
+FMID: 1002079
+MarketName: "Lewisburg Farmer's Market"
+Website:
+Street: 204 North Jefferson St.
+City: Lewisburg
+County: Greenbrier
+State: West Virginia
+Zip: 24901
+x: -80.4454
+y: 37.8016
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

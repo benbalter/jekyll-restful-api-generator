@@ -1,0 +1,35 @@
+---
+FMID: 1001952
+MarketName: "Ecology Center's Albany Farmers' Market"
+Website: http://www.ecologycenter.org/bfm
+Street: 'Solano Avenue & San Pablo Avenue'
+City: Albany
+County: Alameda
+State: California
+Zip: 94706
+x: -122.299
+y: 37.8899
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

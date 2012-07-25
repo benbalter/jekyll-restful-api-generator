@@ -1,0 +1,35 @@
+---
+FMID: 1001576
+MarketName: "Lake Metroparks Farmpark Farmers' Market"
+Website: http://www.lakemetroparks.com
+Street: 8800 Chardon Road
+City: Kirtland
+County: Lake
+State: Ohio
+Zip: 44094
+x: -81.3259
+y: 41.58
+Location: County public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

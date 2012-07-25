@@ -1,0 +1,35 @@
+---
+FMID: 1002654
+MarketName: Marksville Farmers Market
+Website: http://www.marksvillefarmersmarket.com
+Street: 122 E. Mark Street
+City: Marksvillle
+County: Avoyelles
+State: Louisiana
+Zip: 71351
+x: -92.0661
+y: 31.1271
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

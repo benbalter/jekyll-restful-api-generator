@@ -1,0 +1,35 @@
+---
+FMID: 1002796
+MarketName: Marion (VA) Regional Farmers Market
+Website: http://www.marionva.org
+Street: Corner of Chestnut and Cherry Streets
+City: Marion
+County: Smyth
+State: Virginia
+Zip: 24354
+x: -81.5174
+y: 36.8326
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2000213
+MarketName: 'Fountain Farmers Market - City Hall'
+Website:
+Street: 116 South Main Street
+City: Fountain
+County: El Paso
+State: Colorado
+Zip: 80817
+x: -104.7
+y: 38.6829
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

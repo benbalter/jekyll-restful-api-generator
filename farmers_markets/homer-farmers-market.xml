@@ -1,0 +1,35 @@
+---
+FMID: 1006165
+MarketName: "Homer Farmers' Market"
+Website:
+Street: Ocean Drive
+City: Homer
+County: Kenai Peninsula
+State: Alaska
+Zip: 99603
+x:
+y:
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

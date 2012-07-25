@@ -1,0 +1,35 @@
+---
+FMID: 1006121
+MarketName: Bath Farmers Market
+Website: http://www.bathtownship.us
+Street: 13751 Main St, Bath, MI 48808
+City: Bath
+County: Clinton
+State: Michigan
+Zip: 48808
+x: -84.4498
+y: 42.8166
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

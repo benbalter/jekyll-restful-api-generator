@@ -1,0 +1,36 @@
+---
+FMID: 1004665
+MarketName: Harvest Market at the Fairgrounds
+Website: >
+  http://www.hancockharvestcouncil.com/index.php?go=harvest
+Street: 620 N Apple Street
+City: Greenfield
+County: Hancock
+State: Indiana
+Zip: 46140
+x: -85.7568
+y: 39.7903
+Location: County public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

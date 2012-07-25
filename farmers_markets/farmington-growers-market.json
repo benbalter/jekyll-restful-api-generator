@@ -1,0 +1,35 @@
+---
+FMID: 1004107
+MarketName: "Farmington Growers' Market"
+Website:
+Street: 3041 E Main St.
+City: Farmington
+County: San Juan
+State: New Mexico
+Zip:
+x: -108.164
+y: 36.7456
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

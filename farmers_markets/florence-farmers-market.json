@@ -1,0 +1,35 @@
+---
+FMID: 1005399
+MarketName: Florence Farmers Market
+Website:
+Street: 5189 Hwy 93 S.
+City: Florence
+County: Ravalli
+State: Montana
+Zip: 59833
+x: -114.09
+y: 46.6154
+Location: 'On a farm from: a barn, a greenhouse, a tent, a stand, etc.'
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

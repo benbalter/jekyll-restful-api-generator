@@ -1,0 +1,35 @@
+---
+FMID: 1004386
+MarketName: "Marshfield Clinic and Aspirus Farmer's Market"
+Website:
+Street: 2727 Plaza Drive
+City: Wausau
+County: Marathon
+State: Wisconsin
+Zip: 54401
+x: -89.6677
+y: 44.9633
+Location: Hospital/ health care facility grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

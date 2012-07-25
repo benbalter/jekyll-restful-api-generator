@@ -1,0 +1,35 @@
+---
+FMID: 1003608
+MarketName: "Community Food Bank Mini-Farmers' Market"
+Website: http://www.communityfoodbank.com
+Street: 1660 W. Ruthrauff Road
+City: Tucson, AZ
+County: Pima
+State: Arizona
+Zip: 85705
+x: -111.001
+y: 32.2878
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

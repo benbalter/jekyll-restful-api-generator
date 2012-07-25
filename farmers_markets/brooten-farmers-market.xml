@@ -1,0 +1,35 @@
+---
+FMID: 1006129
+MarketName: Brooten Farmers Market
+Website:
+Street:
+City: Brooten
+County: Stearns
+State: Minnesota
+Zip: 56316
+x:
+y:
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001561
+MarketName: Dale City Farmers Market
+Website: http://www.pwcparks.org
+Street: Center Plaza, Dale Blvd.
+City: Dale City
+County: Prince William
+State: Virginia
+Zip: 22193
+x: -77.3392
+y: 38.6465
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

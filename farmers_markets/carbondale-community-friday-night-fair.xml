@@ -1,0 +1,35 @@
+---
+FMID: 1006170
+MarketName: Carbondale Community Friday Night Fair
+Website: http://www.carbondalemainstreet.com
+Street: '51 N & 13 W'
+City: Carbondale
+County: Jackson
+State: Illinois
+Zip: 62901
+x:
+y:
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

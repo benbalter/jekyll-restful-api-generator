@@ -1,0 +1,36 @@
+---
+FMID: 1003245
+MarketName: Burrillville Farmers Market
+Website: >
+  http://www.burrillvillefarmersmarket.org.
+Street: 135 Main Street
+City: Harrisville
+County: Providence
+State: Rhode Island
+Zip: 02830
+x: -71.6326
+y: 41.9766
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

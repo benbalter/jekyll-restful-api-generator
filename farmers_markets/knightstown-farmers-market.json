@@ -1,0 +1,35 @@
+---
+FMID: 2000615
+MarketName: "Knightstown Farmers' Market"
+Website:
+Street: N Washington St
+City: Knightstown
+County: Rush
+State: Indiana
+Zip: 46148
+x: -85.5245
+y: 39.796
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

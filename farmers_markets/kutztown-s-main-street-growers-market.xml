@@ -1,0 +1,35 @@
+---
+FMID: 1004190
+MarketName: "Kutztown's Main Street Growers Market"
+Website: http://www.KutztownMarket.com
+Street: 357 West Main Street
+City: Kutztown, PA
+County: Berks
+State: Pennsylvania
+Zip: 19530
+x: -75.78
+y: 40.5146
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

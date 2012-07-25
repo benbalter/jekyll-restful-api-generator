@@ -1,0 +1,35 @@
+---
+FMID: 1001395
+MarketName: "Irvine Certified Farmers' Market"
+Website: http://orange.cfbf.com/
+Street: 'University Center, Campus & Bridge'
+City: Irvine
+County: Orange
+State: California
+Zip: 92620
+x: -117.841
+y: 33.6514
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

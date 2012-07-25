@@ -1,0 +1,36 @@
+---
+FMID: 1002946
+MarketName: Crystal City FRESHFARM Market
+Website: >
+  http://freshfarmmarkets.org/markets/crystal_city.html
+Street: 2000 Crystal Drive
+City: Crystal City
+County: Arlington
+State: Virginia
+Zip: 22202
+x: -78.8516
+y: 37.5186
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

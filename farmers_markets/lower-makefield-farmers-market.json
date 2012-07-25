@@ -1,0 +1,36 @@
+---
+FMID: 1006403
+MarketName: Lower Makefield Farmers Market
+Website: >
+  http://www.buckscountyfoodshedalliance.org
+Street: Edgewood Rd. and Heacock Rd.
+City: Lower Makefield
+County: Bucks
+State: Pennsylvania
+Zip: 19067
+x: -77.8028
+y: 40.8749
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

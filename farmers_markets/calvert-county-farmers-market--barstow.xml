@@ -1,0 +1,35 @@
+---
+FMID: 1003085
+MarketName: 'Calvert County Farmers Market - Barstow'
+Website: http://www.calvertag.com
+Street: 130 Calvert Fair Drive
+City: Barstow
+County: Calvert
+State: Maryland
+Zip: 20610
+x: -76.617
+y: 38.5223
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

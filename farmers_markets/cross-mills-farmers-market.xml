@@ -1,0 +1,35 @@
+---
+FMID: 1003698
+MarketName: Cross Mills Farmers Market
+Website: http://www.crossmillsfarmersmarket.com
+Street: 4219 Old Post Road
+City: Charlestown
+County: Washington
+State: Rhode Island
+Zip: 02813
+x: -71.6354
+y: 41.3822
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

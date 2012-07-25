@@ -1,0 +1,35 @@
+---
+FMID: 1001782
+MarketName: Darby Farmers Market
+Website:
+Street: 106 S Main Street
+City: Darby
+County: Ravalli
+State: Montana
+Zip: 59829
+x: -114.178
+y: 46.0204
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

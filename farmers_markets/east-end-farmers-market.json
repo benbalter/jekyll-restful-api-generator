@@ -1,0 +1,35 @@
+---
+FMID: 2000283
+MarketName: East End Farmers Market
+Website: http://eastendfarmersmarket.com
+Street: Elm Street
+City: Cortland
+County: Cortland
+State: New York
+Zip: 13045
+x: -76.1717
+y: 42.5986
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

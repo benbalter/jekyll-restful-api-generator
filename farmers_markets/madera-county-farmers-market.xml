@@ -1,0 +1,35 @@
+---
+FMID: 1004345
+MarketName: "Madera County Farmers' Market"
+Website: http://www.first5madera.net
+Street: 210 W. Yosemite
+City: Madera
+County: Madera
+State: California
+Zip: 93637
+x: -120.061
+y: 36.9606
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

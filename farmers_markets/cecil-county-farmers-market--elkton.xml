@@ -1,0 +1,35 @@
+---
+FMID: 1002541
+MarketName: "Cecil County Farmers' Market - Elkton"
+Website: http://www.cecilcountyag.org
+Street: Corner Howard and Bow Streets
+City: Elkton
+County: Cecil
+State: Maryland
+Zip: 21921
+x: -75.8307
+y: 39.6065
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

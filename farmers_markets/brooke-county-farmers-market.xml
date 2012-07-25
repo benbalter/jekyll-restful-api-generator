@@ -1,0 +1,35 @@
+---
+FMID: 1005205
+MarketName: Brooke County Farmers Market
+Website: http://hancock.ext.wvu.edu/
+Street: Follansbee City Building
+City: Follansbee
+County: Brooke
+State: West Virginia
+Zip: 26037
+x: -80.5959
+y: 40.3355
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

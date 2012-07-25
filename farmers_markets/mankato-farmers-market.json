@@ -1,0 +1,35 @@
+---
+FMID: 1001988
+MarketName: Mankato Farmers Market
+Website: http://www.mankatofarmersmarket.com
+Street: 1400 Madison Ave.
+City: Mankato
+County: Blue Earth
+State: Minnesota
+Zip: 56001
+x: -93.9727
+y: 44.1669
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002720
+MarketName: historic lewes farmers market
+Website: http://historiclewesfarmersmarket.org
+Street: West Third and Shipcarpenter Streets
+City: Lewes
+County: Sussex
+State: Delaware
+Zip: 19958
+x: -75.143
+y: 38.7761
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

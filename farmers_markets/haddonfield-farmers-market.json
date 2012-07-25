@@ -1,0 +1,35 @@
+---
+FMID: 1003652
+MarketName: Haddonfield Farmers Market
+Website: http://www.haddonfieldfarmersmarket.org/
+Street: Kings Court On Kings Highway
+City: Haddonfield
+County: Camden
+State: New Jersey
+Zip: 08033
+x: -75.0323
+y: 39.8977
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

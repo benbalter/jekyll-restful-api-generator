@@ -1,0 +1,35 @@
+---
+FMID: 1001599
+MarketName: "Defiance County Farmers' Markets"
+Website: http://defiance.osu.edu
+Street:
+City: Defiance
+County: Defiance
+State: Ohio
+Zip:
+x: -82.7874
+y: 40.2875
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

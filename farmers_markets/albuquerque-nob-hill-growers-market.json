@@ -1,0 +1,36 @@
+---
+FMID: 1003759
+MarketName: "Albuquerque Nob Hill Growers' Market"
+Website: >
+  http://farmersmarketsnm.org/Market_Homepages/Nob_Hill
+Street: Morningside Park
+City: Albuquerque
+County: Bernalillo
+State: New Mexico
+Zip:
+x: -106.601
+y: 35.0775
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

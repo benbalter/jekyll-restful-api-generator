@@ -1,0 +1,36 @@
+---
+FMID: 1001548
+MarketName: Cranston Armory Market
+Website: >
+  http://www.farmfresh.org/food/farmersmarkets_details.php?market=17
+Street: Parade St and Hudson St
+City: Providence
+County: Providence
+State: Rhode Island
+Zip: 02909
+x: -71.4317
+y: 41.8134
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

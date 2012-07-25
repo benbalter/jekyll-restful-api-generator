@@ -1,0 +1,35 @@
+---
+FMID: 1001510
+MarketName: "Downtown Oxnard Certified Farmers' Market"
+Website:
+Street:
+City: Oxnard
+County: Ventura
+State: California
+Zip: 93030
+x: -119.084
+y: 34.4565
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

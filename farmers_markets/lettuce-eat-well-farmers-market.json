@@ -1,0 +1,39 @@
+---
+FMID: 1001642
+MarketName: Lettuce Eat Well Farmers Market
+Website: http://LEWFM.ORG
+Street: >
+  Cheviot United Methodist Church 3820
+  Westwood Northern Blvd.
+City: Cincinnati
+County: Hamilton
+State: Ohio
+Zip: 45211
+x: -84.6123
+y: 39.1662
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

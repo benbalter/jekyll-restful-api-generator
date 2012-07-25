@@ -1,0 +1,35 @@
+---
+FMID: 1001046
+MarketName: 61st Street Farmers Market
+Website: http://www.experimentalstation.org
+Street: 6100 S. Blackstone Ave.
+City: Chicago
+County: Cook
+State: Illinois
+Zip: 60637
+x: -87.5909
+y: 41.7843
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

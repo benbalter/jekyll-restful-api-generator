@@ -1,0 +1,35 @@
+---
+FMID: 1001101
+MarketName: Meadowbrook Farmers Market
+Website: http://www.meadowbrookfm.org
+Street: 2728 NE 100th St.
+City: Seattle
+County: King
+State: Washington
+Zip: 98125
+x: -122.298
+y: 47.7012
+Location: Elementary/ high school campus
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

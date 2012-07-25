@@ -1,0 +1,1 @@
+{{ site.lcb }}{% for item in page %}{% if item[0] != "layout" %}"{{ item[0] | downcase }}": "{{ item[1] | escape }}"{% if forloop.last %}{% else %},{% endif %}{% endif %}{% endfor %}{{ site.rcb }}

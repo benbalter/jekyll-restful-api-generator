@@ -1,0 +1,35 @@
+---
+FMID: 1002677
+MarketName: High Springs Farmers Market
+Website: http://HighSpringsFarmersMarket.com
+Street: NE Railroad Ave.
+City: High Springs
+County: Alachua
+State: Florida
+Zip: 32643
+x: -82.5958
+y: 29.8254
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

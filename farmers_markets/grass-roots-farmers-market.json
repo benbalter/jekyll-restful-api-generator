@@ -1,0 +1,35 @@
+---
+FMID: 1000910
+MarketName: Grass Roots Farmers Market
+Website: http://grassrootsfarmersmarket.com
+Street: 145th Street Edgecombe Avenue
+City: New York
+County: New York
+State: New York
+Zip: 10031
+x: -73.9435
+y: 40.8236
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

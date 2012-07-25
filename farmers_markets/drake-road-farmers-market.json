@@ -1,0 +1,35 @@
+---
+FMID: 1001783
+MarketName: "Drake Road Farmers' Market"
+Website: http://www.drakeroadfarmersmarket.com
+Street: 802 W. Drake Rd
+City: Fort Collins
+County: Larimer
+State: Colorado
+Zip: 80526
+x: -105.091
+y: 40.5529
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

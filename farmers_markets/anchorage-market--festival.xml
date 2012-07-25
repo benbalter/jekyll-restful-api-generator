@@ -1,0 +1,35 @@
+---
+FMID: 1002969
+MarketName: 'Anchorage Market & Festival'
+Website: http://www.anchoragemarkets.com
+Street: 3rd Avenue and E Street
+City: Anchorage
+County: Anchorage
+State: Alaska
+Zip: 99501
+x: -149.891
+y: 61.2195
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

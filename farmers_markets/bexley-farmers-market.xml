@@ -1,0 +1,35 @@
+---
+FMID: 1001121
+MarketName: "Bexley Farmers' Market"
+Website:
+Street: 2111 East Main Street
+City: Bexley
+County: Franklin
+State: Ohio
+Zip: 43209
+x: -82.9423
+y: 39.9571
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

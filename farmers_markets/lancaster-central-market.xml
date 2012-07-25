@@ -1,0 +1,35 @@
+---
+FMID: 1001715
+MarketName: Lancaster Central Market
+Website: http://www.centralmarketlancaster.com
+Street: 23 N. Market St.
+City: Lancaster
+County: Lancaster
+State: Pennsylvania
+Zip: 17603
+x: -76.3059
+y: 40.0376
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

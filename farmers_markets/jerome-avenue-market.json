@@ -1,0 +1,35 @@
+---
+FMID: 1006526
+MarketName: Jerome Avenue Market
+Website:
+Street: 'Plaza Drive between 170th & Elliot Place'
+City: New York
+County: Bronx
+State: New York
+Zip: 10452
+x: -73.9164
+y: 40.839
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

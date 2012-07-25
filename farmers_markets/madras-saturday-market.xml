@@ -1,0 +1,35 @@
+---
+FMID: 1006226
+MarketName: Madras Saturday Market
+Website:
+Street: '7th & C St.'
+City: Madras
+County: Jefferson
+State: Oregon
+Zip: 97741
+x: -121.128
+y: 44.6347
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1005288
+MarketName: BethanyFarmersMarket
+Website: http://www.bethanyfarmersmarket.com
+Street: Route 63
+City: Bethany
+County: New Haven
+State: Connecticut
+Zip: 06524
+x: -72.9912
+y: 41.4401
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002566
+MarketName: "City Heights Farmers' Market"
+Website: http://www.sdfarmbureau.org
+Street: Corner of Wightman St. and Fairmount Ave
+City: San Diego
+County: San Diego
+State: California
+Zip: 92125
+x: -117.102
+y: 32.7479
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

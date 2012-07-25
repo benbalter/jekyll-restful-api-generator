@@ -1,0 +1,35 @@
+---
+FMID: 1004263
+MarketName: "Amador Farmers' Market-- Jackson"
+Website: http://www.amadorfarmersmarket.com
+Street: Hwy 49 near Hwy 88
+City: Jackson
+County: Amador
+State: California
+Zip: 95642
+x: -120.775
+y: 38.3475
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

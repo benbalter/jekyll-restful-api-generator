@@ -1,0 +1,35 @@
+---
+FMID: 1000530
+MarketName: "Broadway Farmers' Market"
+Website: http://slavicvillage.org
+Street: 6852 Broadway Ave
+City: Cleveland
+County: Cuyahoga
+State: Ohio
+Zip: 44105
+x: -81.6407
+y: 41.4596
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

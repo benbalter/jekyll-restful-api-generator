@@ -1,0 +1,35 @@
+---
+FMID: 1006537
+MarketName: MainStreet Libertyville Farmers Market
+Website: http://www.libertyvillefarmersmarket.org
+Street: W Church Street
+City: Libertyville
+County: Lake
+State: Illinois
+Zip: 60048
+x: -89.2038
+y: 40.064
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

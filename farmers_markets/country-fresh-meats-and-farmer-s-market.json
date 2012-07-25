@@ -1,0 +1,35 @@
+---
+FMID: 1003820
+MarketName: "Country Fresh Meats and Farmer's Market"
+Website:
+Street: 9355 US Hwy 60 W.
+City: Sturgis
+County: Union
+State: Kentucky
+Zip: 42459
+x: -87.9517
+y: 37.4758
+Location: Private business
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

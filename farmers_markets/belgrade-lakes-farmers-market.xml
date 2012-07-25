@@ -1,0 +1,36 @@
+---
+FMID: 1001417
+MarketName: "Belgrade Lakes Farmers' Market"
+Website: >
+  http://www.belgradelakesfarmersmarket@gmail.com
+Street: Main Street
+City: Belgrade Lakes
+County: Kennebec
+State: Maine
+Zip: 04918
+x: -69.8876
+y: 44.5278
+Location: Community Center
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

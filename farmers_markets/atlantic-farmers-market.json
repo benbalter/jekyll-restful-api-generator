@@ -1,0 +1,35 @@
+---
+FMID: 1002535
+MarketName: Atlantic Farmers Market
+Website:
+Street: 1200 7th Street E.
+City: Atlantic
+County: Cass
+State: Iowa
+Zip: 50022
+x: -94.9965
+y: 41.4043
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

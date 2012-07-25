@@ -1,0 +1,35 @@
+---
+FMID: 1001827
+MarketName: Blairstown Area Farmers Market
+Website: http://www.foodshedalliance.org
+Street: Rt. 521
+City: Blairstown
+County: Warren
+State: New Jersey
+Zip: 07825
+x: -74.9559
+y: 40.9847
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

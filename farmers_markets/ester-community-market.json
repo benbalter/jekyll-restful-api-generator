@@ -1,0 +1,35 @@
+---
+FMID: 2004138
+MarketName: Ester Community Market
+Website: http://www.esteralaska.com
+Street: Ester Community Park, Old Nenana Highway
+City: Ester
+County: Fairbanks North Star
+State: Alaska
+Zip: 99725
+x: -148.01
+y: 64.8459
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

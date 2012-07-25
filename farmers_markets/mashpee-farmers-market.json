@@ -1,0 +1,35 @@
+---
+FMID: 2001062
+MarketName: "Mashpee Farmers' Market"
+Website:
+Street: Village Green at Mashpee Commons
+City: Mashpee
+County: Barnstable
+State: Massachusetts
+Zip:
+x: -70.4814
+y: 41.648
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

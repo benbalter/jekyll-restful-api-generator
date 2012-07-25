@@ -1,0 +1,35 @@
+---
+FMID: 1004284
+MarketName: Burney Certfied Farmers Market
+Website: http://www.shastagrowersassociation.com
+Street: 37143 Main St
+City: Burney
+County: Shasta
+State: California
+Zip: 96013
+x: -121.664
+y: 40.8821
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1005381
+MarketName: Anamoose Market in the Park
+Website:
+Street: Main Street
+City: Anamoose
+County: McHenry
+State: North Dakota
+Zip: 58710
+x: -100.241
+y: 47.8806
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

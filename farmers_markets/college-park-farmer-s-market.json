@@ -1,0 +1,35 @@
+---
+FMID: 1005357
+MarketName: "College Park Farmer's Market"
+Website:
+Street: 5211 Paint Branch Parkway
+City: College Park
+County: "Prince George's"
+State: Maryland
+Zip:
+x: -76.9227
+y: 38.9758
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

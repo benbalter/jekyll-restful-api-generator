@@ -1,0 +1,35 @@
+---
+FMID: 1006079
+MarketName: "Hamlin Farmer's Market"
+Website:
+Street: 1658 Lake Road
+City: Hamlin
+County: Monroe
+State: New York
+Zip: 14464
+x: -77.9174
+y: 43.2969
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

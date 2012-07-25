@@ -1,0 +1,36 @@
+---
+FMID: 1001894
+MarketName: "Community Servings' Farmers Market"
+Website: >
+  http://servings.org/events/eventpage.cfm?event=83
+Street: 18 Marbury Terrace
+City: Jamaica Plain
+County: Suffolk
+State: Massachusetts
+Zip: 02130
+x: -71.1027
+y: 42.3181
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1004861
+MarketName: Litchfield Hills Farm-Fresh Market
+Website: http://www.litchfieldhillsfood.org
+Street: 421 Bantam Road
+City: Litchfield
+County: Litchfield
+State: Connecticut
+Zip: 06759
+x: -73.2157
+y: 41.7351
+Location: Community Center
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002746
+MarketName: "Arcata Plaza Farmers' Market"
+Website: http://www.humfarm.org
+Street: 9th and H Streets
+City: Arcata
+County: Humboldt
+State: California
+Zip: 95521
+x: -124.087
+y: 40.8686
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

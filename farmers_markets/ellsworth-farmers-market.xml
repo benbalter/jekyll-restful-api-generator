@@ -1,0 +1,35 @@
+---
+FMID: 1002022
+MarketName: Ellsworth Farmers Market
+Website: http://ellsworthfarmersmarket.com
+Street: 190 Main Street
+City: Ellsworth
+County: Hancock
+State: Maine
+Zip: 04605
+x: -68.4228
+y: 44.5422
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

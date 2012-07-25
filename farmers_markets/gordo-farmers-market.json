@@ -1,0 +1,35 @@
+---
+FMID: 1001900
+MarketName: Gordo Farmers Market
+Website:
+Street: 201 Main Street
+City: Gordo
+County: Pickens
+State: Alabama
+Zip: 35466
+x: -87.9028
+y: 33.3185
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

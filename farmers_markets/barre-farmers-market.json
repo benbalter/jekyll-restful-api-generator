@@ -1,0 +1,35 @@
+---
+FMID: 1002936
+MarketName: Barre Farmers Market
+Website:
+Street: City Hall Park
+City: Barre
+County: Washington
+State: Vermont
+Zip: 05641
+x: -72.5011
+y: 44.1969
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

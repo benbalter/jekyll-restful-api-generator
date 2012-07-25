@@ -1,0 +1,37 @@
+---
+FMID: 1005725
+MarketName: >
+  Main Street Market, East Moline,
+  Illinois
+Website:
+Street: 700 block of 15th Avenue
+City: East Moline
+County: Cook
+State: Illinois
+Zip: 61244
+x: -87.8168
+y: 41.8401
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002694
+MarketName: Greenville Farmers Market
+Website: http://www.mainstreetgreenville.com
+Street: 738 Washington Avenue
+City: Greenville, MS
+County: Washington
+State: Mississippi
+Zip: 38701
+x: -91.0563
+y: 33.4087
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

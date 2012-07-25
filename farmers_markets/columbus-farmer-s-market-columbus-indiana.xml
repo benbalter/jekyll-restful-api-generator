@@ -1,0 +1,35 @@
+---
+FMID: 1002850
+MarketName: "Columbus Farmer's Market, Columbus, Indiana"
+Website: http://www.columbusfarmersmarket.org
+Street: 600 Washington St
+City: Columbus
+County: Bartholomew
+State: Indiana
+Zip: 47201
+x: -85.9212
+y: 39.2047
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

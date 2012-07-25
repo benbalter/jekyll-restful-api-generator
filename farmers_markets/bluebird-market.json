@@ -1,0 +1,35 @@
+---
+FMID: 1000589
+MarketName: Bluebird Market
+Website: http://www.bluebirdmarket.com
+Street: 218 N. Center St.
+City: Thomaston
+County: Upson
+State: Georgia
+Zip: 30286
+x: -84.3264
+y: 32.8906
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

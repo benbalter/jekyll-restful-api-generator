@@ -1,0 +1,35 @@
+---
+FMID: 1002064
+MarketName: Fair Haven Farmers Market
+Website: http://fairhavenfarmersmarket@vp.web.com
+Street: On the green
+City: Fair Haven
+County: Rutland
+State: Vermont
+Zip: 05743
+x: -73.2665
+y: 43.594
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

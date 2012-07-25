@@ -1,0 +1,35 @@
+---
+FMID: 1002597
+MarketName: Clinton Area Farmers and Artisans Market
+Website: http://www.cafamil.com/
+Street:
+City: Clinton
+County: De Witt
+State: Illinois
+Zip: 61727
+x: -88.9607
+y: 40.1526
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

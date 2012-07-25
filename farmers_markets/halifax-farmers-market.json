@@ -1,0 +1,35 @@
+---
+FMID: 1003119
+MarketName: Halifax Farmers Market
+Website: http://www.townofhalifax.com
+Street: 209 South Main Street
+City: Halifax
+County: Halifax
+State: Virginia
+Zip: 24558
+x: -78.9284
+y: 36.7632
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

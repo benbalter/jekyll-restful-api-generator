@@ -1,0 +1,35 @@
+---
+FMID: 1002773
+MarketName: Market Place On Broadway
+Website:
+Street: 106 East Broadway
+City: Ardmore
+County: Carter
+State: Oklahoma
+Zip: 73401
+x: -97.1273
+y: 34.1738
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

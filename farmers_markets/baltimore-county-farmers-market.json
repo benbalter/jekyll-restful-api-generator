@@ -1,0 +1,36 @@
+---
+FMID: 2001185
+MarketName: "Baltimore County Farmers' Market"
+Website: >
+  http://www.baltimorecountyfarmersmarket.com
+Street: 2200 York Road
+City: Lutherville=Timonium
+County: Baltimore
+State: Maryland
+Zip: 21093
+x: -76.6264
+y: 39.4398
+Location: State public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

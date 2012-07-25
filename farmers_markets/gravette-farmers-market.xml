@@ -1,0 +1,36 @@
+---
+FMID: 1001056
+MarketName: "Gravette Farmers' Market"
+Website: >
+  http://www.cityofgravette-ar.gov/gravettefarmersmarket.html
+Street: 110 Park Drive
+City: Gravette
+County: Benton
+State: Arkansas
+Zip: 72736
+x: -94.4445
+y: 36.4218
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

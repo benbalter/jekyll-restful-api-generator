@@ -1,0 +1,35 @@
+---
+FMID: 1005500
+MarketName: "Loyola University Chicago Farmers' Market"
+Website: http://www.luc.edu/farmersmarket
+Street: 6556 N. Sheridan Road
+City: Chicago
+County: Cook
+State: Illinois
+Zip: 60626
+x: -87.6612
+y: 42.0018
+Location: University campus
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

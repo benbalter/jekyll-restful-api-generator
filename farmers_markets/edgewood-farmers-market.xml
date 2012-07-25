@@ -1,0 +1,35 @@
+---
+FMID: 1004459
+MarketName: "Edgewood Farmers' Market"
+Website:
+Street: 2122 Old Edgewood Road
+City: Edgewood
+County: Harford
+State: Maryland
+Zip: 21040
+x: -76.2929
+y: 39.4172
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

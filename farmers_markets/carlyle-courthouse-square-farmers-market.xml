@@ -1,0 +1,35 @@
+---
+FMID: 1002070
+MarketName: Carlyle Courthouse Square Farmers Market
+Website: http://playandstaycarlyle.com
+Street: 8th St.
+City: Carlyle
+County: Clinton
+State: Illinois
+Zip: 62231
+x: -89.3685
+y: 38.6105
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

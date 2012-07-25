@@ -1,0 +1,35 @@
+---
+FMID: 1006300
+MarketName: "Doylestown Farmers' Market"
+Website: http://www.buckinghampacivic.org
+Street: 'W. State St. & S. Hamilton Ave.'
+City: Doylestown
+County: Bucks
+State: Pennsylvania
+Zip: 18901
+x: -75.1316
+y: 40.3094
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1002876
+MarketName: Altus Farmers Market
+Website:
+Street: 1116 North Main ST
+City: Altus
+County: Jackson
+State: Oklahoma
+Zip: 73521
+x: -99.3336
+y: 34.6491
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

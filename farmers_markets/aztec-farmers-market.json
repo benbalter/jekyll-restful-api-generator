@@ -1,0 +1,35 @@
+---
+FMID: 1004067
+MarketName: "Aztec Farmers' Market"
+Website:
+Street: 1409 W Aztec Blvd.
+City: Aztec
+County: San Juan
+State: New Mexico
+Zip:
+x: -108.01
+y: 36.8269
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

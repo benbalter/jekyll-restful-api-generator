@@ -1,0 +1,35 @@
+---
+FMID: 1002441
+MarketName: "Columbus Downtown Farmer's Market"
+Website:
+Street: 105 N. Dickason Blvd
+City: Columbus
+County: Columbia
+State: Wisconsin
+Zip: 53925
+x: -89.0147
+y: 43.3389
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

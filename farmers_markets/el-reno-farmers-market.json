@@ -1,0 +1,35 @@
+---
+FMID: 1000632
+MarketName: El Reno Farmers Market
+Website: http://www.elreno.org
+Street: 100 South Choctaw Ave.
+City: El Reno
+County: Canadian
+State: Oklahoma
+Zip: 73036
+x: -97.9549
+y: 35.5331
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

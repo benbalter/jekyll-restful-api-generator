@@ -1,0 +1,35 @@
+---
+FMID: 1000898
+MarketName: "Duluth Farmer's Market"
+Website:
+Street: 14th Ave. E. and 3rd St.
+City: Duluth
+County: St. Louis
+State: Minnesota
+Zip: 55803
+x: -92.0841
+y: 46.8021
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

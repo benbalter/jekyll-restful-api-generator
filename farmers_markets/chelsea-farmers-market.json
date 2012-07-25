@@ -1,0 +1,36 @@
+---
+FMID: 1001813
+MarketName: "Chelsea Farmers' Market"
+Website: >
+  http://www.facebook.com/chelseafarmersmarket
+Street: Corner of Rte 110 and Rte 113
+City: Chelsea
+County: Orange
+State: Vermont
+Zip: 05038
+x: -72.4475
+y: 43.9888
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

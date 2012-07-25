@@ -1,0 +1,35 @@
+---
+FMID: 1002580
+MarketName: Buckman Portland Farmers Market
+Website: http://portlandfarmersmarket.org
+Street: Intersection SE Salmon and 20th Streets
+City: Portland
+County: Multnomah
+State: Oregon
+Zip: 97227
+x: -122.646
+y: 45.5141
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

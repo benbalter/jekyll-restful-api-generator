@@ -1,0 +1,37 @@
+---
+FMID: 1003582
+MarketName: "Deposit Farmers' Market"
+Website: http://www.ccedelaware.org
+Street: 107 2nd Street
+City: Deposit
+County: Delaware
+State: New York
+Zip: 13754
+x: -75.4249
+y: 42.0623
+Location: >
+  Women, Infants and Children’s (WIC)
+  Clinics / Offices of social services
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1005393
+MarketName: LaMoure Farmers Market
+Website:
+Street: Highway 13
+City: LaMoure
+County: LaMoure
+State: North Dakota
+Zip: 58458
+x: -98.304
+y: 46.3556
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

@@ -1,0 +1,38 @@
+---
+FMID: 1001945
+MarketName: Drake Neighborhood Farmers Market
+Website: >
+  http://www.drakeneighborhoodfarmersmarket.com
+Street: 2500 University Avenue
+City: Des Moines
+County: Polk
+State: Iowa
+Zip: 50311
+x: -93.6512
+y: 41.6
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

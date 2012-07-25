@@ -1,0 +1,35 @@
+---
+FMID: 1002081
+MarketName: "Gouverneur Farmer's Market"
+Website: http://gouverneurchamber.net
+Street: Village Park
+City: Gouverneur
+County: St. Lawrence
+State: New York
+Zip: 13642
+x: -75.4674
+y: 44.3353
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

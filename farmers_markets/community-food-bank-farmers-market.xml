@@ -1,0 +1,35 @@
+---
+FMID: 1003607
+MarketName: "Community Food Bank Farmers' Market"
+Website: http://www.communityfoodbank.com
+Street: 3003 S. Country Club Road
+City: Tucson
+County: Pima
+State: Arizona
+Zip: 85713
+x: -110.925
+y: 32.1886
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

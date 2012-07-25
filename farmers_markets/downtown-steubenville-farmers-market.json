@@ -1,0 +1,35 @@
+---
+FMID: 1003479
+MarketName: "Downtown Steubenville Farmers' Market"
+Website:
+Street: 300 South 4th Street
+City: Steubenville
+County: Jefferson
+State: Ohio
+Zip: OH
+x: -80.6169
+y: 40.3573
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

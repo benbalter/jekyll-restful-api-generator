@@ -1,0 +1,36 @@
+---
+FMID: 1006476
+MarketName: "Fairmount Farmers' Market"
+Website: >
+  http://www.thefoodtrust.org/php/programs/farmers.market.program.php
+Street: 22nd Street and Fairmount Avenue
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19130
+x: -75.174
+y: 39.9673
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

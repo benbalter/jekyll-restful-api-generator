@@ -1,0 +1,35 @@
+---
+FMID: 1000906
+MarketName: Huntington WIC Market
+Website:
+Street: 350 Hauenstein Rd
+City: Huntington
+County: Huntington
+State: Indiana
+Zip: 46750
+x: -85.5204
+y: 40.8955
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

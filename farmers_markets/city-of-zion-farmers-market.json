@@ -1,0 +1,35 @@
+---
+FMID: 1004933
+MarketName: City of Zion Farmers Market
+Website: http://www.cityofzion.com/farmersmarket
+Street: 'Shiloh Blvd & Sheridan Rd'
+City: Zion
+County: Lake
+State: Illinois
+Zip: 60099
+x: -87.8249
+y: 42.4498
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

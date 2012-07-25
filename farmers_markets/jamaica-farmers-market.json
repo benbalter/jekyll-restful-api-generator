@@ -1,0 +1,35 @@
+---
+FMID: 1005067
+MarketName: Jamaica Farmers Market
+Website:
+Street:
+City: Jamaica
+County: Queens
+State: New York
+Zip: 11433
+x: -73.786
+y: 40.6998
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

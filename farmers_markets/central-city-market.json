@@ -1,0 +1,35 @@
+---
+FMID: 2003872
+MarketName: Central City Market
+Website: http://www.centralcitymarket.com
+Street: 555 West 14th Street
+City: Huntington
+County: Cabell
+State: West Virginia
+Zip: 25704
+x: -82.4793
+y: 38.4111
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

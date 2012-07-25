@@ -1,0 +1,37 @@
+---
+FMID: 1002202
+MarketName: Croton-on-Hudson Farmers Market
+Website: http://www.communitymarkets.biz
+Street: >
+  Municipal Lot on Municipal Pl. and
+  Riverside Ave.
+City: Croton-on-Hudson
+County: Westchester
+State: New York
+Zip: 10520
+x: -73.8877
+y: 41.202
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

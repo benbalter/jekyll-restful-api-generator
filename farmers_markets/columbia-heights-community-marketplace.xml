@@ -1,0 +1,37 @@
+---
+FMID: 1002680
+MarketName: Columbia Heights Community Marketplace
+Website: http://www.chfestivus.org
+Street: >
+  3200 block of 14th Street, NW (east
+  side)
+City: Washington, DC
+County: District of Columbia
+State: District of Columbia
+Zip: 20010
+x: -77.0324
+y: 38.93
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

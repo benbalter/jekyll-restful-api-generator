@@ -1,0 +1,36 @@
+---
+FMID: 1004162
+MarketName: East Palo Alto Community Farmers Market
+Website: >
+  http://www.ymcasv.org/eastpaloalto/html/programs_farmersmarket.html
+Street: 550 Bell Street
+City: East Palo Alto
+County: San Mateo
+State: California
+Zip: 94303
+x: -122.143
+y: 37.465
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

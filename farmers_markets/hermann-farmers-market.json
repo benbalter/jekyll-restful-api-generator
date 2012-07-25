@@ -1,0 +1,37 @@
+---
+FMID: 2001095
+MarketName: "Hermann Farmers' Market"
+Website:
+Street: >
+  First St, in the First Bank parking lot
+  in Hermann MO
+City: Hermann
+County: Gasconade
+State: Missouri
+Zip: 65041
+x: -91.4351
+y: 38.7069
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

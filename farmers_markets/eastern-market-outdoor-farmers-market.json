@@ -1,0 +1,35 @@
+---
+FMID: 1006436
+MarketName: Eastern Market Outdoor Farmers Market
+Website: http://www.easternmarket-dc.org
+Street: 225 7th Street SE
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20003
+x: -76.9964
+y: 38.885
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

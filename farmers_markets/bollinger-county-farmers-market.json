@@ -1,0 +1,35 @@
+---
+FMID: 1002278
+MarketName: "Bollinger County Farmers' Market"
+Website:
+Street: Rt. 34 at the Bollinger County Co-Op
+City: Marble Hill
+County: Bollinger
+State: Missouri
+Zip: 63764
+x: -89.9795
+y: 37.3021
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

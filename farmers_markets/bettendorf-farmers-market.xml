@@ -1,0 +1,35 @@
+---
+FMID: 1001934
+MarketName: "Bettendorf Farmers' Market"
+Website: http://www.mvgrowers.com
+Street: 2117 State Street
+City: Bettendorf
+County: Scott
+State: Iowa
+Zip: 52722
+x: -90.5012
+y: 41.5253
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1000925
+MarketName: Lynn, Central Square
+Website: >
+  http://thefoodproject.org/farmers-markets
+Street: 'Corner of Union & Exchange Streets'
+City: Lynn
+County: Essex
+State: Massachusetts
+Zip: 01901
+x: -70.9437
+y: 42.4632
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

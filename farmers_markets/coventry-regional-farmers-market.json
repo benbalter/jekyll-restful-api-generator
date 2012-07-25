@@ -1,0 +1,35 @@
+---
+FMID: 1000798
+MarketName: "Coventry Regional Farmers' Market"
+Website: http://www.coventryfarmersmarket.com
+Street: 78 Ripley Hill Road
+City: Coventry
+County: Tolland
+State: Connecticut
+Zip: 06238
+x: -72.3138
+y: 41.7829
+Location: Elementary/ high school campus
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

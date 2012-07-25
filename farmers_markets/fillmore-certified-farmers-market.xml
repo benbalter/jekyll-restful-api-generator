@@ -1,0 +1,35 @@
+---
+FMID: 1003872
+MarketName: "Fillmore Certified Farmers' Market"
+Website: http://pcfma.com
+Street: "1700 O'Farrell St."
+City: San Francisco
+County: San Francisco
+State: California
+Zip:
+x: -122.433
+y: 37.7833
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

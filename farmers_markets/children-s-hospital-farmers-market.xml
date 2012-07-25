@@ -1,0 +1,35 @@
+---
+FMID: 1003892
+MarketName: "Children's Hospital Farmers Market"
+Website: http://www.iatp.org/minimarkets
+Street: 2530 Chicago Ave S
+City: Minneapolis
+County: Hennepin
+State: Minnesota
+Zip: 55404
+x: -93.2626
+y: 44.9568
+Location: Hospital/ health care facility grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1005915
+MarketName: "Fort Mason Center Farmers' Market"
+Website: >
+  http://cafarmersmkts.com/markets/category/fort-mason-center
+Street: Marina Blvd and Buchanan Street
+City: San Francisco
+County: San Francisco
+State: California
+Zip: 94123
+x: -122.434
+y: 37.8051
+Location: Federal public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

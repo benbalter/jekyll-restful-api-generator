@@ -1,0 +1,36 @@
+---
+FMID: 1006596
+MarketName: "Frankfort Transportation Center Farmers' Market"
+Website: >
+  http://www.foodtrustmarkets.org/markets.html
+Street: Bridge Street and Frankford Avenue
+City: Philadelphia
+County: Philadelphia
+State: Pennsylvania
+Zip: 19124
+x: -75.0769
+y: 40.0233
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

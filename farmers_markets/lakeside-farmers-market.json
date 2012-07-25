@@ -1,0 +1,35 @@
+---
+FMID: 1000743
+MarketName: "Lakeside Farmers' Market"
+Website: http://www.lakesidefarmersmarket.net
+Street: 6106 Lakeside Ave.
+City: henrico/richmond
+County: Henrico
+State: Virginia
+Zip: 23228
+x: -77.4709
+y: 37.6184
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

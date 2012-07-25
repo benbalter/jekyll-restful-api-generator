@@ -1,0 +1,36 @@
+---
+FMID: 1004510
+MarketName: Juanita Friday Market
+Website: >
+  http://www.kirklandwa.gov/juanitafridaymarket
+Street: 9703 NE Juanita Drive
+City: Kirkland
+County: King
+State: Washington
+Zip: 98033
+x: -122.213
+y: 47.7055
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

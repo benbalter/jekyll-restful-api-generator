@@ -1,0 +1,35 @@
+---
+FMID: 1006460
+MarketName: Christmas Creek Market
+Website: http://www.christmascreekmarket.com
+Street: 101 St. Nicholas Dr
+City: North Pole
+County: Fairbanks North Star
+State: Alaska
+Zip: 99705
+x: -147.345
+y: 64.7552
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,36 @@
+---
+FMID: 1003053
+MarketName: Ballard Farmers Market
+Website: >
+  http://georgetownfarmersmarket.wordpress.com
+Street: 5300 Ballard Ave NW
+City: Seattle
+County: King
+State: Washington
+Zip: 98107
+x: -122.383
+y: 47.6665
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

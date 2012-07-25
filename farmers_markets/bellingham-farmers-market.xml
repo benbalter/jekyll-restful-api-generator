@@ -1,0 +1,35 @@
+---
+FMID: 1004450
+MarketName: Bellingham Farmers Market
+Website: http://www.bellinghamfarmers.org
+Street: 1207 10th Street
+City: Bellingham
+County: Whatcom
+State: Washington
+Zip: 98225
+x: -120.428
+y: 47.3768
+Location: Public park
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1006152
+MarketName: Fluvanna Farmers Market
+Website:
+Street: Pleasant Grove Rt 53
+City: Palmyra
+County: Fluvanna
+State: Virginia
+Zip: 22963
+x:
+y:
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

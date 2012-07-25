@@ -1,0 +1,35 @@
+---
+FMID: 1001307
+MarketName: "Cambria City Farmer's Market"
+Website: http://www.cityofjohnstownpa.net
+Street: Fairfield Avenue and H Street
+City: Johnstown
+County: Cambria
+State: Pennsylvania
+Zip: 15904
+x: -78.9458
+y: 40.3445
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

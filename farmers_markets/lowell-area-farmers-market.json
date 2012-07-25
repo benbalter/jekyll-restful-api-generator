@@ -1,0 +1,35 @@
+---
+FMID: 1002344
+MarketName: "Lowell Area Farmers' Market"
+Website: http://www.discoverlowell.org
+Street: 2111 West Main St
+City: Lowell
+County: Kent
+State: Michigan
+Zip: 49331
+x: -85.4386
+y: 44.3365
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

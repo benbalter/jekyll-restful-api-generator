@@ -1,0 +1,35 @@
+---
+FMID: 1003211
+MarketName: Chincoteague Island Farmers Market
+Website: http://chincoteaguemerchants.org
+Street: 4113 Main Street
+City: Chincoteague
+County: Accomack
+State: Virginia
+Zip: 23336
+x: -75.376
+y: 37.9344
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

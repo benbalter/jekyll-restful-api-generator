@@ -1,0 +1,35 @@
+---
+FMID: 1002671
+MarketName: Gastonia Farmers Market
+Website: http://www.gastoniafarmersmarket.com
+Street: 410 E Long Avenue
+City: Gastonia
+County: Gaston
+State: North Carolina
+Zip: 28054
+x: -81.1757
+y: 35.2652
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

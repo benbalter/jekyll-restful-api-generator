@@ -1,0 +1,35 @@
+---
+FMID: 1002222
+MarketName: Greene County Farmers Market
+Website:
+Street: 10415 Spotswood Trail
+City: Stanardsville
+County: Greene
+State: Virginia
+Zip: 22973
+x: -78.4128
+y: 38.2777
+Location: Elementary/ high school campus
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

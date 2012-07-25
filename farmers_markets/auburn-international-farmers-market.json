@@ -1,0 +1,35 @@
+---
+FMID: 1004667
+MarketName: Auburn International Farmers Market
+Website: http://www.auburnfarmersmarket.org
+Street: 23 A Street SW
+City: Auburn
+County: King
+State: Washington
+Zip: 98001
+x: -122.231
+y: 47.3069
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

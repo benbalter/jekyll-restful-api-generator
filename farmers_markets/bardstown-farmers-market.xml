@@ -1,0 +1,36 @@
+---
+FMID: 1004002
+MarketName: Bardstown Farmers Market
+Website: >
+  http://ces.ca.uky.edu/nelson/bardstownfarmersmarket
+Street: 200 East Flaget
+City: Bardstown
+County: Nelson
+State: Kentucky
+Zip: 40004
+x: -85.4654
+y: 37.8102
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

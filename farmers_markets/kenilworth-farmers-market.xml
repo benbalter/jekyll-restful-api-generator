@@ -1,0 +1,35 @@
+---
+FMID: 2004229
+MarketName: Kenilworth Farmers Market
+Website:
+Street: 800 Kenilworth Drive
+City: Towson
+County: Baltimore
+State: Maryland
+Zip: 21204
+x: -76.6192
+y: 39.4116
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

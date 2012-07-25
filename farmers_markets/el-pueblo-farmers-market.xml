@@ -1,0 +1,35 @@
+---
+FMID: 1003605
+MarketName: "El Pueblo Farmers' Market"
+Website: http://www.communityfoodbank.com
+Street: 100 West Irvington Road
+City: Tucson
+County: Pima
+State: Arizona
+Zip: 85714
+x: -110.969
+y: 32.1633
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

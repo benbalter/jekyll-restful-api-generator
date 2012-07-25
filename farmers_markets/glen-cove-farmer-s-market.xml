@@ -1,0 +1,35 @@
+---
+FMID: 1004489
+MarketName: "Glen Cove Farmer's Market"
+Website: http://www.ligreenmarket.org
+Street: Village Square at Bridge St.
+City: Glen Cove
+County: Nassau
+State: New York
+Zip: 11542
+x: -73.6317
+y: 40.8635
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001447
+MarketName: Ivanhoe Farmers Market
+Website:
+Street: North end of Main STreet/Gilson Field
+City: Ivanhoe
+County: Lincoln
+State: Minnesota
+Zip: 56142
+x: -96.246
+y: 44.4652
+Location: Public park
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

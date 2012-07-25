@@ -1,0 +1,35 @@
+---
+FMID: 1004123
+MarketName: "Los Alamos Farmers' Market"
+Website:
+Street: '20th & Central'
+City: Los Alamos
+County: Los Alamos
+State: New Mexico
+Zip:
+x: -106.303
+y: 35.8816
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

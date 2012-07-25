@@ -1,0 +1,35 @@
+---
+FMID: 2004233
+MarketName: "Laurel Farmers' Market"
+Website:
+Street: 300 Main Street
+City: Laurel
+County: "Prince George's"
+State: Maryland
+Zip: 20707
+x: -76.8439
+y: 39.1041
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

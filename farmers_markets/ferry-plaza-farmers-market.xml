@@ -1,0 +1,35 @@
+---
+FMID: 1001930
+MarketName: "Ferry Plaza Farmers' Market"
+Website: http://www.cuesa.org/
+Street: One Ferry Building, Suite 50
+City: San Francisco
+County: San Francisco
+State: California
+Zip: 94111
+x: -122.393
+y: 37.7955
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

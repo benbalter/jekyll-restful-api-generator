@@ -1,0 +1,35 @@
+---
+FMID: 2004214
+MarketName: "Farmers' Market at The Avenue ( White Marsh)"
+Website: http://www.theavenueatwhitemarsh.com
+Street: 8125 Honeygo Blvd.
+City: Nottingham
+County: Baltimore
+State: Maryland
+Zip: 21236
+x: -76.465
+y: 39.3719
+Location:
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

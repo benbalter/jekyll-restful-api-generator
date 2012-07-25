@@ -1,0 +1,35 @@
+---
+FMID: 1005718
+MarketName: MELLETTE COUNTY
+Website:
+Street: hwy 44
+City: wood
+County: Mellette
+State: South Dakota
+Zip: 57585
+x:
+y:
+Location: Private business
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

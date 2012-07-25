@@ -1,0 +1,35 @@
+---
+FMID: 1001302
+MarketName: 'Interstate Farmers Market - Overlook location'
+Website: http://www.interstatefarmersmarket.com
+Street: 3550 N. Interstate Ave
+City: Portland
+County: Multnomah
+State: Oregon
+Zip: 97227
+x: -122.681
+y: 45.5478
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

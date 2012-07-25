@@ -1,0 +1,35 @@
+---
+FMID: 1003581
+MarketName: Ittle Bitty Farms
+Website:
+Street: 124 Grandview Ridge
+City: Red House
+County: Putnam
+State: West Virginia
+Zip: 25168
+x: -81.8403
+y: 38.5694
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

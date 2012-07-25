@@ -1,0 +1,37 @@
+---
+FMID: 1003891
+MarketName: 17th Ave Market
+Website: http://www.iatp.org/minimarkets
+Street: 1622 6th St NE
+City: Minneapolis
+County: Hennepin
+State: Minnesota
+Zip: 55413
+x: -93.2591
+y: 45.0044
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

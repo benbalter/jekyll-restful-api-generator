@@ -1,0 +1,35 @@
+---
+FMID: 1005842
+MarketName: "Ellenville's Moonlit Farmers Market"
+Website:
+Street: 220 NE 11th St
+City: Boca Raton
+County: Palm Beach
+State: Florida
+Zip: 33432
+x: -80.0821
+y: 26.3601
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

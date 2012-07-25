@@ -1,0 +1,36 @@
+---
+FMID: 1003118
+MarketName: FRESHFARM Market, by the White House
+Website: >
+  http://freshfarmmarkets.org/markets/white_house.html
+Street: 810 Vermont Avenue, NW
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20005
+x: -77.0349
+y: 38.9008
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

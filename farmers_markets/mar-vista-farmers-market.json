@@ -1,0 +1,35 @@
+---
+FMID: 1003932
+MarketName: "Mar Vista Farmers' Market"
+Website: http://www.marvistafarmersmarket.org
+Street: 3826 Grand View Blvd
+City: Los Angeles
+County: Los Angeles
+State: California
+Zip: 90066
+x: -118.225
+y: 34.323
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

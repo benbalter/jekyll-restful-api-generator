@@ -1,0 +1,35 @@
+---
+FMID: 1005520
+MarketName: Elkins Farmers Market
+Website: http://www.elkinsfarmersmarket.org
+Street: 315 Railroad Avenue
+City: Elkins
+County: Randolph
+State: West Virginia
+Zip: 26241
+x: -79.9522
+y: 38.9769
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

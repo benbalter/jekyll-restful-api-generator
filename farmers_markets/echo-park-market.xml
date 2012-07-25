@@ -1,0 +1,35 @@
+---
+FMID: 1005960
+MarketName: Echo Park Market
+Website:
+Street: 'Ryer Avenue & Burnside Avenue'
+City: New York
+County: Bronx
+State: New York
+Zip: 10457
+x: -73.9015
+y: 40.8509
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

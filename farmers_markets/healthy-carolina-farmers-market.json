@@ -1,0 +1,38 @@
+---
+FMID: 1003683
+MarketName: Healthy Carolina Farmers Market
+Website: >
+  http://www.sc.edu/healthycarolina/farmersmarket.html
+Street: >
+  Greene Street between Sumter and Bull
+  Streets
+City: Columbia
+County: Richland
+State: South Carolina
+Zip: 29208
+x: -81.0273
+y: 33.997
+Location: University campus
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

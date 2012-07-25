@@ -1,0 +1,35 @@
+---
+FMID: 1001358
+MarketName: Manteno Farmers Market
+Website: http://www.merrillsmarkets.com
+Street: 'S.E. Corner of Division & Main'
+City: Manteno
+County: Kankakee
+State: Illinois
+Zip: 60950
+x: -87.8357
+y: 41.248
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

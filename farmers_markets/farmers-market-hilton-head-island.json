@@ -1,0 +1,36 @@
+---
+FMID: 1005039
+MarketName: Farmers Market HIlton Head Island
+Website: >
+  http://www.farmersmarkethiltonheadisland.com
+Street: 70 Honey Horn Plantation Road
+City: Hilton Head Island
+County: Beaufort
+State: South Carolina
+Zip: 29926
+x: -80.742
+y: 32.2125
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

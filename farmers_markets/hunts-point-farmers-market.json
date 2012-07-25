@@ -1,0 +1,35 @@
+---
+FMID: 1005066
+MarketName: Hunts Point Farmers Market
+Website:
+Street: 'Southern Blvd & Est 163rd Street'
+City: Bronx
+County: Bronx
+State: New York
+Zip: 10451
+x: -73.8917
+y: 40.821
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

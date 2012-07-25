@@ -1,0 +1,35 @@
+---
+FMID: 1000926
+MarketName: Claremont Farmers Market
+Website: http://ClaremontFarmersMarket.com
+Street: Broad Street Park
+City: Claremont
+County: Sullivan
+State: New Hampshire
+Zip: 03743
+x: -72.337
+y: 43.3719
+Location: Public park
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

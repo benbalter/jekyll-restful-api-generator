@@ -1,0 +1,35 @@
+---
+FMID: 1001796
+MarketName: "Downtown Saginaw Farmers' Market"
+Website: http://www.saginawfarmersmarket.org
+Street: 507 S. Washington st
+City: Saginaw
+County: Saginaw
+State: Michigan
+Zip: 48602
+x: -83.9403
+y: 43.4282
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

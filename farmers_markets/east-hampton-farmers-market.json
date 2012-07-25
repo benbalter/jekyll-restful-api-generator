@@ -1,0 +1,35 @@
+---
+FMID: 1000793
+MarketName: East Hampton Farmers Market
+Website:
+Street: "Nick & Toni's parking lot, 136 North Main St"
+City: East Hampton
+County: Suffolk
+State: New York
+Zip: 11937
+x: -72.1818
+y: 40.9705
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

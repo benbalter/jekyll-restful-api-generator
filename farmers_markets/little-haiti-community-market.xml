@@ -1,0 +1,37 @@
+---
+FMID: 1006413
+MarketName: Little Haiti Community Market
+Website: http://www.bochika.org
+Street: NE 2 Avenue
+City: Miami
+County: Miami-Dade
+State: Florida
+Zip: 33137
+x: -80.5683
+y: 25.6137
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

@@ -1,0 +1,35 @@
+---
+FMID: 2004234
+MarketName: "LaVale Farmers' Market"
+Website:
+Street: 1262 Vocke Road
+City: LaVale
+County: Allegany
+State: Maryland
+Zip: 21502
+x: -78.835
+y: 39.6314
+Location:
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

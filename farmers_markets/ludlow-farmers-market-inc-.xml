@@ -1,0 +1,35 @@
+---
+FMID: 1001577
+MarketName: Ludlow Farmers Market Inc.
+Website:
+Street: 53 Main Street
+City: Ludlow
+County: Windsor
+State: Vermont
+Zip: 05149
+x: -72.6898
+y: 43.3973
+Location: Private business
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

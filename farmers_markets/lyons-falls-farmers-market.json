@@ -1,0 +1,35 @@
+---
+FMID: 1000784
+MarketName: "Lyons Falls Farmers' Market"
+Website: http://www.LyonsFallsALIVE.org
+Street: 6904 Laura Street, Riverside Park
+City: Lyons Falls
+County: Lewis
+State: New York
+Zip: 13368
+x: -75.3538
+y: 43.6136
+Location: Public park
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

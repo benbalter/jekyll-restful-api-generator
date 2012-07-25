@@ -1,0 +1,37 @@
+---
+FMID: 1005384
+MarketName: "Deale Farmers' Market"
+Website:
+Street: 5965 Deale Churchton Road
+City: Deale
+County: Anne Arundel
+State: Maryland
+Zip: 20751
+x: -76.5512
+y: 38.7812
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

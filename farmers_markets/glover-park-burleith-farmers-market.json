@@ -1,0 +1,35 @@
+---
+FMID: 1001179
+MarketName: "Glover Park-Burleith Farmers' Market"
+Website: http://www.dcgreens.org
+Street: 1819 35th St. NW
+City: Washington
+County: District of Columbia
+State: District of Columbia
+Zip: 20007
+x: -77.0683
+y: 38.9158
+Location: Elementary/ high school campus
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

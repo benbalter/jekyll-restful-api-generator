@@ -1,0 +1,38 @@
+---
+FMID: 1002266
+MarketName: "Crystal City Farmers' Market"
+Website: >
+  http://crystalcityfarmersmarket.blogspot.com
+Street: 105 Bailley Rd.
+City: Crystal City
+County: Jefferson
+State: Missouri
+Zip: 63019
+x: -90.3787
+y: 38.2187
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

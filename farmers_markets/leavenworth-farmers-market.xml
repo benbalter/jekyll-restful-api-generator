@@ -1,0 +1,35 @@
+---
+FMID: 1001608
+MarketName: Leavenworth Farmers Market
+Website: http://LeavenworthFarmersMarket.com
+Street: '7th & Cherokee Streets'
+City: Leavenworth
+County: Leavenworth
+State: Kansas
+Zip: 66048
+x: -94.9178
+y: 39.3163
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

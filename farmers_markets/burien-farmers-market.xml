@@ -1,0 +1,35 @@
+---
+FMID: 1000788
+MarketName: Burien Farmers Market
+Website:
+Street: '5th Place SW & Southwest 152nd St.'
+City: Burien
+County: King
+State: Washington
+Zip: 98166
+x: -122.341
+y: 47.467
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

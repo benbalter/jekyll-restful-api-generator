@@ -1,0 +1,35 @@
+---
+FMID: 2001115
+MarketName: "Albuquerque VA Growers' Market"
+Website:
+Street: 1501 San Pedro Drive SE
+City: Albuquerque
+County: Bernalillo
+State: New Mexico
+Zip:
+x: -106.578
+y: 35.0553
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

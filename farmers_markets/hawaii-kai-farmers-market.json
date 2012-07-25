@@ -1,0 +1,35 @@
+---
+FMID: 1001501
+MarketName: "Hawaii Kai Farmers' Market"
+Website: http://www.hawaiikaifarmersmarket.com
+Street: 511 Lunalilo Home Road
+City: Hawaii Kai
+County: Honolulu
+State: Hawaii
+Zip: 96825
+x: -157.698
+y: 21.2847
+Location: Elementary/ high school campus
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

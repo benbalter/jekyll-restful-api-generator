@@ -1,0 +1,35 @@
+---
+FMID: 1004854
+MarketName: Five Points Community Farm Market
+Website: http://www.5PtsFarmMarket.org
+Street: 2500 Church Street
+City: Norfolk
+County: Norfolk
+State: Virginia
+Zip: 23504
+x: -76.2796
+y: 36.8699
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'N'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

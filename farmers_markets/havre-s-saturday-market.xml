@@ -1,0 +1,35 @@
+---
+FMID: 1002017
+MarketName: "Havre's Saturday Market"
+Website: http://www.chamber@havremt.net
+Street: 'Town Square located on 1st Street between 3rd & 4th Avenues'
+City: Havre
+County: Hill
+State: Montana
+Zip: 59501
+x: -109.678
+y: 48.5529
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

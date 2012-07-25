@@ -1,0 +1,35 @@
+---
+FMID: 1004828
+MarketName: Colo Farmers Market
+Website: http://www.colo-iowa.org/farmers.pdf
+Street: Lincoln Hwy and US 65
+City: Colo
+County: Story
+State: Iowa
+Zip: 50056
+x: -93.3107
+y: 42.0228
+Location: City/ township public building grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

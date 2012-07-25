@@ -1,0 +1,35 @@
+---
+FMID: 1000917
+MarketName: Central Market York
+Website: http://www.centralmarketyork.com
+Street: 34 W. Philadelphia St.
+City: York
+County: York
+State: Pennsylvania
+Zip: 17401
+x: -76.7297
+y: 39.963
+Location: Private business
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

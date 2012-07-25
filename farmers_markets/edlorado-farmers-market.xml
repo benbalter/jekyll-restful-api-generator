@@ -1,0 +1,35 @@
+---
+FMID: 1004098
+MarketName: "Edlorado Farmers' Market"
+Website:
+Street: 7 Caliente Rd
+City: Santa Fe
+County: Santa Fe
+State: New Mexico
+Zip:
+x: -105.891
+y: 35.5361
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: xml
+---

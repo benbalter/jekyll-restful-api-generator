@@ -1,0 +1,35 @@
+---
+FMID: 1000588
+MarketName: Bentonville Farmers Market
+Website: http://www.downtownbentonville.org
+Street: 214 NE A Street
+City: Bentonville
+County: Benton
+State: Arkansas
+Zip: 72712
+x: -94.2077
+y: 36.3748
+Location: City/ township public building grounds
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

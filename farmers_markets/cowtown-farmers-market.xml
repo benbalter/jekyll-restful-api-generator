@@ -1,0 +1,35 @@
+---
+FMID: 1005188
+MarketName: Cowtown Farmers Market
+Website: http://www.cowtownfarmersmarket.com
+Street: 3821 Southwest Blvd.
+City: Fort Worth
+County: Tarrant
+State: Texas
+Zip: 76116
+x: -97.4422
+y: 32.7162
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

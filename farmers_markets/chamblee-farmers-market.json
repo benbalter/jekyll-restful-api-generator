@@ -1,0 +1,35 @@
+---
+FMID: 1006457
+MarketName: Chamblee Farmers Market
+Website: http://www.chambleefarmersmarket.com
+Street: 5435 Peachtree Road
+City: Chamblee
+County: DeKalb
+State: Georgia
+Zip: 30341
+x: -84.2997
+y: 33.8932
+Location: Parking lot
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

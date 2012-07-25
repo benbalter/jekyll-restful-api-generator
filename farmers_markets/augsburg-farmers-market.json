@@ -1,0 +1,35 @@
+---
+FMID: 2000925
+MarketName: Augsburg Farmers Market
+Website: http://www.iatp.org/minimarkets
+Street: 7th St S and 22 Ave S
+City: Minneapolis
+County: Hennepin
+State: Minnesota
+Zip:
+x: -93.2407
+y: 44.9665
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

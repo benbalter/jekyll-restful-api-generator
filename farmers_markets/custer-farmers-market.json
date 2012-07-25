@@ -1,0 +1,35 @@
+---
+FMID: 1001105
+MarketName: Custer Farmers Market
+Website: http://www.custerfarmersmarket.com
+Street: Corner of Crook and N 7th Street.
+City: Custer City
+County: Custer
+State: South Dakota
+Zip: 57730
+x: -103.598
+y: 43.7684
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

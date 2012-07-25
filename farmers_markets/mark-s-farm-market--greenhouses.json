@@ -1,0 +1,35 @@
+---
+FMID: 1002836
+MarketName: "Mark's Farm Market & Greenhouses"
+Website: http://www.marksfarmmarket.com
+Street: 4374 W US Hwy 20
+City: LaPorte
+County: LaPorte
+State: Indiana
+Zip: 46350
+x: -86.7849
+y: 41.6903
+Location: 'On a farm from: a barn, a greenhouse, a tent, a stand, etc.'
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'N'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

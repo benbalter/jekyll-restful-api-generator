@@ -1,0 +1,36 @@
+---
+FMID: 1003097
+MarketName: "Bloomington Community Farmers' Market"
+Website: >
+  http://www.bloomington.in.gov/farmersmarket
+Street: Madison Street at Sixth Street
+City: Bloomington
+County: Monroe
+State: Indiana
+Zip: 47404
+x: -86.5374
+y: 39.1676
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

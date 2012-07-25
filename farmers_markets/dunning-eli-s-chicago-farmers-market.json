@@ -1,0 +1,35 @@
+---
+FMID: 1001027
+MarketName: "Dunning-Eli's (Chicago) Farmers Market"
+Website: http://www.elicheesecake.com
+Street: 6701 W. Forest Preserve Ave.
+City: Chicago
+County: Cook
+State: Illinois
+Zip: 60634
+x: -87.7947
+y: 41.9594
+Location: Parking lot
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: json
+---

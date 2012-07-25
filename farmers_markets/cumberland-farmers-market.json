@@ -1,0 +1,35 @@
+---
+FMID: 1001497
+MarketName: Cumberland Farmers Market
+Website: http://www.cumberland-wisconsin.com
+Street:
+City: Cumberland
+County: Barron
+State: Wisconsin
+Zip: 54829
+x: -92.02
+y: 45.5325
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'Y'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1003032
+MarketName: "Klem's Farmer's Market in Spencer"
+Website: http://www.klemsonline.com
+Street: 117 West Main Street, Route 9
+City: Spencer
+County: Worcester
+State: Massachusetts
+Zip: 01562
+x: -72.2005
+y: 42.2694
+Location: Private business
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

@@ -1,0 +1,35 @@
+---
+FMID: 1001419
+MarketName: Enterprise Farmers Market
+Website:
+Street: Main and Joseph Street
+City: Joseph
+County: Wallowa
+State: Oregon
+Zip: 97846
+x: -117.231
+y: 45.353
+Location: Closed-off public street
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: xml
+---

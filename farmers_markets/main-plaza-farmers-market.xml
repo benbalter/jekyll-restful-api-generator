@@ -1,0 +1,36 @@
+---
+FMID: 1002216
+MarketName: "Main Plaza Farmers' Market"
+Website: >
+  http://safoodbank.org/index.php/programs/nutrition/farmers-market
+Street: 115 Main Ave
+City: San Antonio
+County: Bexar
+State: Texas
+Zip: 78205
+x: -98.4938
+y: 29.4243
+Location: City square or town square grounds
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'N'
+layout: xml
+---

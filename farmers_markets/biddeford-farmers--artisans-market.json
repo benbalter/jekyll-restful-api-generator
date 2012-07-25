@@ -1,0 +1,36 @@
+---
+FMID: 1003541
+MarketName: "Biddeford Farmers' & Artisans Market"
+Website: >
+  http://www.heartofbiddeford.org/biddeford-farmers-market/
+Street: 100 Main Street
+City: Biddeford
+County: York
+State: Maine
+Zip: 04005
+x: -70.4529
+y: 43.4928
+Location: Parking lot
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

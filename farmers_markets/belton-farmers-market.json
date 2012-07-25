@@ -1,0 +1,35 @@
+---
+FMID: 2001873
+MarketName: Belton Farmers Market
+Website:
+Street: 'North Main Street & Blake Street'
+City: Belton
+County: Anderson
+State: South Carolina
+Zip: 29627
+x: -82.496
+y: 34.5268
+Location:
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'N'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'N'
+Seafood: 'N'
+Fruit: 'N'
+Herbs: 'N'
+Vegetables: 'N'
+Honey: 'N'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

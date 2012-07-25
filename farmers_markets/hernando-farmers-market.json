@@ -1,0 +1,35 @@
+---
+FMID: 1000611
+MarketName: Hernando Farmers Market
+Website: http://hernandoms-farmersmarket.com
+Street: 2535 Highway 51 South
+City: Hernando
+County: DeSoto
+State: Mississippi
+Zip: 38632
+x: -89.9943
+y: 34.823
+Location: City square or town square grounds
+Credit: 'N'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'Y'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: json
+---

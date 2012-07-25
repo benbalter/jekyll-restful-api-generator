@@ -1,0 +1,35 @@
+---
+FMID: 1002408
+MarketName: Corpus Christi Southside Farmers Market
+Website: http://www.farmersmarketcc.org
+Street: 5800 Everhart Rd.
+City: Corpus Christi
+County: Nueces
+State: Texas
+Zip: 78413
+x: -97.3917
+y: 27.7024
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'Y'
+Flowers: 'N'
+Seafood: 'Y'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'N'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

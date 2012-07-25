@@ -1,0 +1,37 @@
+---
+FMID: 1005876
+MarketName: 10:10 Farmers Market
+Website: http://www.1010farmersmarket.com
+Street: 5960 Stewart Parkway
+City: Douglasville
+County: Douglas
+State: Georgia
+Zip: 30135
+x: -84.7689
+y: 33.7196
+Location: >
+  Faith-based institution (e.g., church,
+  mosque, synagogue, temple)
+Credit: 'Y'
+WIC: 'N'
+WICcash: 'N'
+SFMNP: 'N'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---

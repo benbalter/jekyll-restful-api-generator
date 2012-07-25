@@ -1,0 +1,35 @@
+---
+FMID: 1003596
+MarketName: "Black River Falls Downtown Farmer's Market"
+Website: http://www.downtownblackriverfalls.net
+Street: 3rd Street
+City: Black River Falls
+County: Jackson
+State: Wisconsin
+Zip: 54615
+x: -90.8506
+y: 44.2945
+Location: Closed-off public street
+Credit: 'N'
+WIC: 'Y'
+WICcash: 'N'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'N'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'N'
+Prepared: 'N'
+Soap: 'N'
+layout: json
+---

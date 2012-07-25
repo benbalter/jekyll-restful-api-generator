@@ -1,0 +1,35 @@
+---
+FMID: 1001624
+MarketName: Hunterdon Land Trust Farmers Market
+Website: http://www.hlta.org
+Street: 111 Mine Street, Route 12 Circle
+City: Flemington
+County: Hunterdon
+State: New Jersey
+Zip: 08822
+x: -74.8715
+y: 40.5039
+Location: Parking lot
+Credit: 'Y'
+WIC: 'Y'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'N'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'N'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'N'
+Maple: 'N'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'N'
+Soap: 'Y'
+layout: json
+---

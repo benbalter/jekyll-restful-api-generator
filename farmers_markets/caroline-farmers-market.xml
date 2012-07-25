@@ -1,0 +1,35 @@
+---
+FMID: 1002356
+MarketName: Caroline Farmers Market
+Website: http://brooktondalecc.org
+Street: 522 Valley Rd.
+City: Brooktondale
+County: Tompkins
+State: New York
+Zip: 14817
+x: -76.3934
+y: 42.3807
+Location: Community Center
+Credit: 'N'
+WIC: 'N'
+WICcash: 'Y'
+SFMNP: 'Y'
+SNAP: 'Y'
+Bakedgoods: 'Y'
+Cheese: 'Y'
+Crafts: 'Y'
+Flowers: 'Y'
+Seafood: 'N'
+Fruit: 'Y'
+Herbs: 'Y'
+Vegetables: 'Y'
+Honey: 'Y'
+Jams: 'Y'
+Maple: 'Y'
+Meat: 'Y'
+Nuts: 'N'
+Plants: 'Y'
+Prepared: 'Y'
+Soap: 'Y'
+layout: xml
+---
